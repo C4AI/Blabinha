@@ -8,22 +8,15 @@ Its second version (Blabinha 2.0) was implemented as an instance of a goal-orien
 ## Article
 An article about the Goal-Oriented Chat-Like System instantiated with Blabinha has been accepted at the Encontro Nacional de Inteligência Artificial (2024).
 
-@inproceedings{teodoro2024,
-
-author = {Guilherme Sebastião Teodoro Junior, Sarajane Marques Peres, Marcelo Fantinato, Anarosa Alves, Franco Brandão},
-
-title = {A Goal-Oriented Chat-Like System for Evaluation of Large Language Models},
-
-booktitle = {Anais do XX Encontro Nacional de Inteligência Artificial e Computacional},
-
-year = {2024},
-
-publisher = {SBC},
-
-address = {Porto Alegre, RS, Brasil},
-
-note = {accept_to}
-}
+    @inproceedings{teodoro2024,
+    author = {Guilherme Sebastião Teodoro Junior, Sarajane Marques Peres, Marcelo Fantinato, Anarosa Alves, Franco Brandão},
+    title = {A Goal-Oriented Chat-Like System for Evaluation of Large Language Models},
+    booktitle = {Anais do XX Encontro Nacional de Inteligência Artificial e Computacional},
+    year = {2024},
+    publisher = {SBC},
+    address = {Porto Alegre, RS, Brasil},
+    note = {accept_to}
+    }
 
 ## Contact
 
