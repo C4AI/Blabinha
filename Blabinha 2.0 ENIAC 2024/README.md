@@ -26,6 +26,12 @@ Its second version (Blabinha 2.0) was implemented as an instance of a goal-orien
 
         py -m streamlit run .\FrontPage.py
 
-    Note that it will run the blue version. If you want to change to the red one insert in the addres "/FrontPageKomodo". It will be something like:
+   - Note that it will run the blue version. If you want to change to the red one insert in the addres "/FrontPageKomodo". It will be something like:
 
-        http://localhost:8501/FrontPageKomodo
+                http://localhost:8501/FrontPageKomodo
+
+## DiaLOGS
+- If you want to read the logs it's possible to use a built-in aplication that is located in the folder "/Camaleon". It will be somethin like
+- Note that you need to **select only the json files**
+ 
+         http://localhost:8501/Camaleon
