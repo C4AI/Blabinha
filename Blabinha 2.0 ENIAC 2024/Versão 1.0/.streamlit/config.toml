@@ -1,0 +1,5 @@
+[runner]
+fastReruns = true
+[client]
+showSidebarNavigation = false
+
