@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 216,
+    "falaUser": "o ibama cuida da amazonia azul?",
+    "falaGPT": "||A Amazônia Azul é a região que compreende todas as águas e territórios marinhos do Brasil, e o Ibama tem sim a responsabilidade de cuidar e proteger essa área, assim como faz com a Amazônia Verde.\n O Ibama realiza a fiscalização, controle e proteção ambiental em toda a extensão da Amazônia Azul, monitorando as atividades humanas, protegendo a biodiversidade marinha e garantindo a sustentabilidade dos recursos naturais presentes na região.\n É muito importante cuidarmos da Amazônia Azul, assim como da Amazônia Verde, para garantir a conservação do meio ambiente e a qualidade de vida das pessoas.\n||Agora farei uma pergunta sobre a proteção da Amazônia Azul pelo Ibama: Qual a importância da Amazônia Azul e como o Ibama atua na proteção dessa região marinha?||Qual órgão é responsável por cuidar da Amazônia Azul?\n1) Ibama\n2) Funai\n3) ANP\n4) MMA",
+    "Tokens": 873,
+    "TimeStamp": "2024_05_17_19_00_03",
+    "Model": "gpt-3.5-turbo"
+}

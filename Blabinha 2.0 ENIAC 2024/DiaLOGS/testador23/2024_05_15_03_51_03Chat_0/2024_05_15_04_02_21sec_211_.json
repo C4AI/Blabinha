@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 211,
+    "falaUser": "O que são manguezais?",
+    "falaGPT": "||Você quer fazer mais perguntas ou prefere terminar por aqui?",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_15_04_02_21",
+    "Model": "gpt-4-turbo"
+}

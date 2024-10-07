@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 324,
+    "falaUser": "o heroi deve usar a onda e a roupa tem que ser azul e com barbatanas",
+    "falaGPT": "||Que legal que estamos criando um herói! O segundo atributo é a capa.\n Como você gostaria que a capa do herói fosse? Tem alguma cor preferida ou um detalhe especial que você quer adicionar?",
+    "Tokens": 109,
+    "TimeStamp": "2024_05_07_17_26_40",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 216,
+    "falaUser": "quem pode navegar pela amazonia azul?",
+    "falaGPT": "||Na Amazônia Azul podem navegar diferentes tipos de pessoas, como pescadores, turistas, pesquisadores, marinheiros, mergulhadores e aquelas pessoas que gostam do mar e da natureza marinha.\n Desde que se respeite o ambiente e sejam seguidas as leis e normas de segurança, qualquer um pode navegar e explorar as belezas da Amazônia Azul.\n Então, se você gosta do mar e tem cuidado com a natureza, pode se aventurar nesse maravilhoso lugar! Divirta-se com responsabilidade!||Agora vou fazer uma pergunta sobre quem pode navegar pela Amazônia Azul: Quais são os tipos de pessoas que podem navegar por essa região marítima e o que é importante ter em mente ao explorá-la?||Quem pode navegar pela Amazônia Azul?\n1) Apenas marinheiros profissionais\n2) Apenas pesquisadores credenciados\n3) Qualquer pessoa que respeite o ambiente e as leis\n4) Apenas mergulhadores certificados",
+    "Tokens": 819,
+    "TimeStamp": "2024_05_16_10_49_35",
+    "Model": "gpt-3.5-turbo"
+}

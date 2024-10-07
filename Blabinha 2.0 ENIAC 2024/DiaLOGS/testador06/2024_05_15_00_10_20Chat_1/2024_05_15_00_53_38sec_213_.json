@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 213,
+    "falaUser": "quem é responsavel pela pluição dos mares?",
+    "falaGPT": "||Desculpe, podemos dizer que a poluição dos mares é causada por diversas atividades humanas, como o descarte inadequado de lixo, vazamentos de óleo, escoamento de produtos químicos e fertilizantes agrícolas, entre outros.\n Empresas, governos e até mesmo nós, como indivíduos, temos responsabilidade em adotar práticas mais sustentáveis para proteger nossos mares e oceanos.\n É importante cuidarmos do meio ambiente para garantir a saúde dos ecossistemas marinhos e a vida de todas as criaturas que vivem neles.\n Juntos, podemos fazer a diferença!",
+    "Tokens": 322,
+    "TimeStamp": "2024_05_15_00_53_38",
+    "Model": "gpt-3.5-turbo"
+}

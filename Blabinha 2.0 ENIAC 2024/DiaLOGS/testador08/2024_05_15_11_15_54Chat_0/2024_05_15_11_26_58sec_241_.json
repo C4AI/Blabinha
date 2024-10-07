@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 241,
+    "falaUser": "quais espécies de peixes?",
+    "falaGPT": "||Desculpe, parece que não entendi corretamente a pergunta anterior sobre as espécies de peixes.\n Poderia repetir ou ser mais específico, por favor? Assim poderei responder da melhor maneira possível!||Uau! Parece que você caiu em um bônus especial! Agora, vamos imaginar que um super-herói está protegendo os mares do Brasil.\n Que ferramenta ele deve usar para garantir a segurança dos peixes e da vida marinha? \n\n1) Tridente mágico encantado\n2) Rede de pesca sustentável\n3) Raio laser marinho\n4) Escudo protetor do oceano\n\nQual dessas ferramentas você acha que seria a mais eficaz? Escolha a opção que mais te inspira e vamos proteger juntos os mares do Brasil! 🌊🦈🐠🦑",
+    "Tokens": 557,
+    "TimeStamp": "2024_05_15_11_26_58",
+    "Model": "gpt-3.5-turbo"
+}

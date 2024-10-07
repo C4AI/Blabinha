@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 216,
+    "falaUser": "Também existe Amazônia Azul na Venezuela?",
+    "falaGPT": "||Na Venezuela, a Amazônia Azul é mais conhecida como Zona Econômica Exclusiva (ZEE) ou Mar Territorial.\n Assim como o Brasil, a Venezuela possui uma extensão marítima que faz parte de sua área soberana, onde tem direitos exclusivos para explorar os recursos marinhos.\n Portanto, podemos dizer que sim, a Venezuela também possui uma região marítima semelhante à Amazônia Azul brasileira, porém com suas próprias características e denominações.\n||A seguir, vou fazer uma pergunta sobre a Amazônia Azul e a Zona Econômica Exclusiva (ZEE) na Venezuela.\n||A Venezuela possui uma região marítima semelhante à Amazônia Azul brasileira, que é conhecida como:\n\n1) Zona Econômica Exclusiva (ZEE)\n2) Amazônia Verde\n3) Território Marítimo Internacional\n4) Oceano Caribenho\n\nQual das opções está correta?",
+    "Tokens": 772,
+    "TimeStamp": "2024_05_07_17_38_50",
+    "Model": "gpt-3.5-turbo"
+}

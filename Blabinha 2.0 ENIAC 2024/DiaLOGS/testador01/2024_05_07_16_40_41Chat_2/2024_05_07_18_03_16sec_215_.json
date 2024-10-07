@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 215,
+    "falaUser": "Nosso super-herói vai ser um oficial da Marinha?",
+    "falaGPT": "||Sim, nosso super-herói pode ser um oficial da Marinha que protege a Amazônia Azul e tudo que envolve o mar brasileiro, como a fauna, flora e os microorganismos.\n Que legal ter um super-herói dedicado a proteger nossa natureza marinha, não é? Com sua coragem e habilidades, ele certamente será um defensor incrível dos oceanos e de todas as criaturas que nele habitam! Vamos imaginar juntos as aventuras emocionantes que esse super-herói da Marinha poderá viver para manter nossos mares seguros e preservados.\n",
+    "Tokens": 319,
+    "TimeStamp": "2024_05_07_18_03_16",
+    "Model": "gpt-3.5-turbo"
+}

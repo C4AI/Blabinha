@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 215,
+    "falaUser": "O oceano na amazonia azul é calmo?",
+    "falaGPT": "||Ah, olha só! A \"Amazônia Azul\" refere-se a uma vasta área do oceano ao redor do Brasil, né? Quanto ao mar ser calmo, isso depende! Às vezes, as águas são bem tranquilas e parece até que o mar está dando um sorrisinho.\n Em outros momentos, principalmente se um temporal se aproxima, as ondas podem ficar altas e o mar fica um pouco bravo.\n Então, é sempre bom estar de olho no tempo antes de ir brincar nas águas da Amazônia Azul!",
+    "Tokens": 305,
+    "TimeStamp": "2024_05_07_17_53_03",
+    "Model": "gpt-4-turbo"
+}

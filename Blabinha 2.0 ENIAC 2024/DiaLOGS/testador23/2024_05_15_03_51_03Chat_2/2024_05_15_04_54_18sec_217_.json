@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 217,
+    "falaUser": "que medicamentos podem ser desenvolvidos a partir de plantas e animais da amazônia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é um lugar cheio de mistérios e segredos do mar! Imagina só, ela tem muitos animais e plantinhas que podem ajudar a gente a ficar saudável.\n Alguns cientistas usam essas plantas e bichinhos do mar para fazer remédios.\n Por exemplo, eles acham substâncias nos corais e esponjas que podem ajudar a fazer remédios para combater doenças bem chatinhas.\n E sabe as algas? Elas também são superimportantes e podem ser usadas para fazer remédios para nossos corações ou até pra ajudar quem tem problemas de estômago.\n É como se o fundo do mar fosse uma farmácia gigante cheia de tesouros escondidos!",
+    "Tokens": 364,
+    "TimeStamp": "2024_05_15_04_54_18",
+    "Model": "gpt-4-turbo"
+}

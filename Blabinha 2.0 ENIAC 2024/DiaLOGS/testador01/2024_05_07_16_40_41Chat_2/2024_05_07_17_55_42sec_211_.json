@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "A melhor opção é o raio laser.",
+    "falaGPT": "||Claro! Você pode fazer mais perguntas, mas não se esqueça de falar sobre a importância da preservação da Amazônia Azul.\n",
+    "Tokens": 103,
+    "TimeStamp": "2024_05_07_17_55_42",
+    "Model": "gpt-3.5-turbo"
+}

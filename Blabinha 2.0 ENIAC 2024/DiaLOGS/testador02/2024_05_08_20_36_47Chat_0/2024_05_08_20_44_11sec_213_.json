@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 213,
+    "falaUser": "acredito que seja a pesca sustentável ",
+    "falaGPT": "||A resposta está parcialmente correta.\n A pesca sustentável não é um dos riscos enfrentados pela Amazônia Azul, mas sim uma prática que pode contribuir para a conservação dos recursos naturais.\n Os riscos são a poluição marinha, exploração predatória de recursos naturais e mudanças climáticas.\n Parabéns pela resposta!",
+    "Tokens": 427,
+    "TimeStamp": "2024_05_08_20_44_11",
+    "Model": "gpt-3.5-turbo"
+}

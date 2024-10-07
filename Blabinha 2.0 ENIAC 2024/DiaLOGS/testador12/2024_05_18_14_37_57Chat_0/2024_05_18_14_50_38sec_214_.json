@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 214,
+    "falaUser": "Qual é a diferença entre o siri e o carangueijo ?",
+    "falaGPT": "||Você tem mais perguntas para mim ou já podemos encerrar nossa conversa por hoje?",
+    "Tokens": 74,
+    "TimeStamp": "2024_05_18_14_50_38",
+    "Model": "gpt-3.5-turbo"
+}

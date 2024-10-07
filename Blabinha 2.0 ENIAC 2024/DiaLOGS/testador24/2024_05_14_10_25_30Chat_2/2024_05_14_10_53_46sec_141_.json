@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 141,
+    "falaUser": "Aceito, mas eu quero ser a princesa",
+    "falaGPT": "||Olha só, a brincadeira funciona assim: você vai fazer perguntinhas para mim, a Blabinha, sobre o tema \"Amazônia Azul\".\n Quanto mais a gente conversar sobre esse tema, mais pontos você ganha! Se você não souber o que perguntar, pode me pedir uma ideia de assunto.\n E lembre-se: você pode decidir parar e sair quando quiser, tá bom?||Você conseguiu entender todas as regras que expliquei, ou há algo mais que você gostaria que eu esclarecesse?",
+    "Tokens": 295,
+    "TimeStamp": "2024_05_14_10_53_46",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 211,
+    "falaUser": "Quais animais não tem na amazonia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é no mar, né? Então, não vamos encontrar lá animais que vivem só em terra, como o jaguar, o macaco, ou o tucano, que ficam na floresta Amazônica verde! No mar, temos muitos peixinhos, baleias, e até golfinhos, mas nada de animais da floresta!",
+    "Tokens": 264,
+    "TimeStamp": "2024_05_06_21_48_36",
+    "Model": "gpt-4-turbo"
+}

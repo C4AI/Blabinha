@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 324,
+    "falaUser": "Uma roupa que desse pra entrar na agua e boa para voar tambem.",
+    "falaGPT": "||Olá! O segundo atributo do herói é a capa.\n Como você gostaria que fosse a capa do nosso herói? Qual cor ou estampa ela deveria ter?",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_08_23_03_09",
+    "Model": "gpt-3.5-turbo"
+}

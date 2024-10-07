@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 120,
+    "falaUser": "Gostaria de saber mais sobre biodiversidade",
+    "falaGPT": "||Claro! Biodiversidade se refere à variedade de seres vivos encontrados em um determinado local.\n Isso inclui plantas, animais, fungos e micro-organismos.\n Cada organismo desempenha um papel importante no equilíbrio ecológico de um ecossistema.\n Proteger a biodiversidade é essencial para garantir a saúde do planeta e de todas as formas de vida.\n É fascinante observar como cada ser vivo é único e contribui para a complexidade e beleza da natureza.\n Bacana, né?",
+    "Tokens": 326,
+    "TimeStamp": "2024_05_13_19_16_48",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 264,
+    "falaUser": "O que preciso fazer para criar o heroi?",
+    "falaGPT": "||Pode me perguntar mais coisas! Se precisar de ajuda em um assunto, posso te dar algumas dicas para descobrir mais.\n",
+    "Tokens": 97,
+    "TimeStamp": "2024_05_11_13_33_51",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 213,
+    "falaUser": "Como é a preservação do mar?",
+    "falaGPT": "||Ah, cuidar do mar é super importante! As pessoas trabalham juntas para manter o mar limpinho e proteger os animais e plantinhas que vivem lá.\n Eles fazem isso de várias maneiras, como não jogando lixo no mar, ajudando a limpar as praias e cuidando para que fábricas não joguem poluentes nas águas.\n É como se todos nós tivéssemos que ser super-heróis do mar para garantir que ele continue bonito e saudável para os animais marinhos e para nós também!",
+    "Tokens": 301,
+    "TimeStamp": "2024_05_07_17_49_25",
+    "Model": "gpt-4-turbo"
+}

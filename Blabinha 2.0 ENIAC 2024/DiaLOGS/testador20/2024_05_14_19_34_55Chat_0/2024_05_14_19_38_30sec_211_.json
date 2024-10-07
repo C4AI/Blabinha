@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 211,
+    "falaUser": "Quais ecossistemas existem na Amazônia Azul?",
+    "falaGPT": "||A Amazônia Azul é como um grande parque aquático cheio de vida e mistérios! Nesse mundo submerso, encontramos vários ecossistemas super interessantes, como os recifes de corais, que são como cidades coloridas onde muitos peixes e animais marinhos vivem.\n Temos também os manguezais, que são como florestas mágicas na beira dos rios e do mar, cheios de árvores com raízes que parecem estar dançando.\n Além disso, há as pradarias de algas e os montes submarinos, que são como montanhas escondidas debaixo d'água onde muitas criaturas diferentes se encontram.\n Todos esses lugares são super importantes para a natureza e ajudam a manter o mar saudável e cheio de vida!",
+    "Tokens": 371,
+    "TimeStamp": "2024_05_14_19_38_30",
+    "Model": "gpt-4-turbo"
+}

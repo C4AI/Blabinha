@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 217,
+    "falaUser": "o que pode fazer para evitar a poluição?",
+    "falaGPT": "||Para ajudar a não poluir nosso planeta, temos algumas ideias bem legais! Primeiro, podemos reciclar e reutilizar coisas, como papel, plástico e vidro, em vez de jogar tudo no lixo.\n Também é importante usar menos água, desligando a torneira enquanto escovamos os dentes.\n Outra coisa super legal é andar mais a pé ou de bicicleta, assim a gente não solta fumacinhas dos carros no ar.\n E claro, não jogar lixo no chão, especialmente perto de rios e mares, para não machucar os bichinhos que moram lá.\n Com essas atitudes simples, podemos cuidar melhor do nosso lindo planeta! 🌍✨",
+    "Tokens": 343,
+    "TimeStamp": "2024_05_14_22_15_51",
+    "Model": "gpt-4-turbo"
+}

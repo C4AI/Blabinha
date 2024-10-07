@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 141,
+    "falaUser": "ok",
+    "falaGPT": "||Olha só, vamos jogar assim: primeiro, você faz perguntas para mim, a Blabinha, e todas essas perguntas têm que ser sobre a Amazônia Azul.\n Quanto mais você falar sobre isso, mais pontos você vai ganhar! Se você não souber muito sobre esse tema, pode me pedir uma dica que eu te ajudo.\n E lembra, você pode parar de brincar e sair quando quiser, tá bom?||Você conseguiu entender todas as regras que expliquei, ou há algo que gostaria que eu esclarecesse melhor para você?",
+    "Tokens": 300,
+    "TimeStamp": "2024_05_12_16_46_34",
+    "Model": "gpt-4-turbo"
+}

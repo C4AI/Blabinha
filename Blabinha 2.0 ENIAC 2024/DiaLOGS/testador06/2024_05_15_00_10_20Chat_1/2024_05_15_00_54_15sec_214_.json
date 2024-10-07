@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 214,
+    "falaUser": "o governo é responsável pela poluição?",
+    "falaGPT": "||O governo tem responsabilidade em proteger o meio ambiente, incluindo prevenir a poluição.\n Ele deve criar leis, fiscalizar empresas e incentivar práticas sustentáveis para reduzir a poluição.\n No entanto, a culpa não é somente do governo.\n Nós, cidadãos, também temos responsabilidade em cuidar do nosso planeta, evitando o desperdício, reciclando e usando de forma consciente os recursos naturais.\n Juntos, podemos trabalhar para reduzir a poluição e preservar a natureza para as futuras gerações.\n Vamos cuidar do nosso planeta, ele é o nosso lar e de todos os seres vivos que nele habitam.\n||Vou fazer uma pergunta sobre a responsabilidade do governo na prevenção da poluição: Qual é o papel do governo na proteção do meio ambiente e na redução da poluição, e de que forma os cidadãos também podem contribuir para esse objetivo?||Quem é responsável por combater a poluição e proteger o meio ambiente?\n1) Apenas o governo\n2) Apenas os cidadãos\n3) Apenas as empresas\n4) Governo, empresas e cidadãos juntos",
+    "Tokens": 884,
+    "TimeStamp": "2024_05_15_00_54_15",
+    "Model": "gpt-3.5-turbo"
+}

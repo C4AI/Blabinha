@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador16",
+    "secao": 324,
+    "falaUser": "A roupa do Aquaman é legal",
+    "falaGPT": "||O segundo atributo importante do herói é a capa! Como você acha que deveria ser a capa do nosso super-herói?",
+    "Tokens": 90,
+    "TimeStamp": "2024_05_10_20_07_18",
+    "Model": "gpt-4-turbo"
+}

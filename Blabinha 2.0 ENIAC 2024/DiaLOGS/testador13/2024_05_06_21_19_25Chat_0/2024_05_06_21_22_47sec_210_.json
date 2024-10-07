@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 210,
+    "falaUser": "Quais animais tem na amazônia azuç?",
+    "falaGPT": "||Ops, parece que houve uma confusão! Na Amazônia Azul, que é o nosso grandão mar brasileiro, temos muitos animais marinhos interessantes! Imagina só encontrar golfinhos brincando nas ondas, tartarugas-marinhas nadando tranquilamente, e até baleias-jubarte fazendo seus saltos incríveis! Além disso, tem muitos peixinhos coloridos, tubarões, e até o curioso peixe-boi-marinho! É como um zoológico gigante no mar, né? Super legal! 🐬🐢🐳",
+    "Tokens": 314,
+    "TimeStamp": "2024_05_06_21_22_47",
+    "Model": "gpt-4-turbo"
+}

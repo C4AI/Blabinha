@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 350,
+    "falaUser": "meu herói mora numa casa na praia com rede para descansar",
+    "falaGPT": "||Uau, você conseguiu 10 estrelas de um total de 10! Isso é incrível, você é um verdadeiro campeão! E sabe o que mais? Com essa pontuação perfeita, o herói foi criado.\n Quer ver uma imagem dele?",
+    "Tokens": 146,
+    "TimeStamp": "2024_05_14_19_54_15",
+    "Model": "gpt-4-turbo"
+}

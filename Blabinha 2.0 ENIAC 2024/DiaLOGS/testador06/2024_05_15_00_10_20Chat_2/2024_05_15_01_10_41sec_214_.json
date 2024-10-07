@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 214,
+    "falaUser": "o qué quer dizer sustentável?",
+    "falaGPT": "||Sustentável refere-se a práticas ou processos que visam atender as necessidades atuais sem comprometer as possibilidades das futuras gerações de atenderem suas próprias necessidades.\n||O usuário pode falar sobre a importância da preservação da biodiversidade marinha na Amazônia Azul, os impactos da pesca predatória, a exploração sustentável dos recursos marinhos, a proteção dos ecossistemas marinhos únicos, como recifes de corais, e a importância da pesquisa científica e da tecnologia para o monitoramento e gestão dessa área.\n Estes são apenas alguns exemplos de assuntos relevantes que envolvem a Amazônia Azul, destacando sua importância para o Brasil e para o planeta.\n",
+    "Tokens": 394,
+    "TimeStamp": "2024_05_15_01_10_41",
+    "Model": "gpt-3.5-turbo"
+}

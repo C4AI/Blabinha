@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 213,
+    "falaUser": "qual area abrange ",
+    "falaGPT": "||Puxa, parece que sua pergunta ficou um pouquinho incompleta! Você poderia me contar um pouquinho mais sobre o que você quer saber? Qual área, lugar ou coisa que você está pensando? Assim, eu posso te ajudar melhor!",
+    "Tokens": 226,
+    "TimeStamp": "2024_05_10_21_40_46",
+    "Model": "gpt-4-turbo"
+}

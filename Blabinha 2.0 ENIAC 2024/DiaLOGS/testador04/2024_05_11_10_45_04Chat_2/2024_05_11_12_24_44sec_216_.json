@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 216,
+    "falaUser": "qual o maior tubarão que existe no Brasil?",
+    "falaGPT": "||O maior tubarão que existe no Brasil é o tubarão-branco (Carcharodon carcharias), que pode chegar a mais de 6 metros de comprimento.\n||Certamente! Ao falar sobre a Amazônia Azul, o usuário pode abordar temas como a biodiversidade marinha, a importância da preservação dos ecossistemas marinhos, os recursos naturais presentes nessa região, como o petróleo e os minerais, bem como as atividades econômicas relacionadas, como a pesca e o turismo.\n Além disso, também é relevante discutir sobre as tecnologias utilizadas para a exploração sustentável desses recursos, a legislação ambiental que protege a Amazônia Azul e os projetos de conservação e estudos científicos realizados nessa área.\n",
+    "Tokens": 411,
+    "TimeStamp": "2024_05_11_12_24_44",
+    "Model": "gpt-3.5-turbo"
+}

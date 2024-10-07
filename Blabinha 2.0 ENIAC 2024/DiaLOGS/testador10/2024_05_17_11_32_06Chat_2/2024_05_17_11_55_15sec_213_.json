@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "2",
+    "falaGPT": "||Parabéns! A resposta está correta.\n A Marinha do Brasil é a autoridade responsável pela proteção e segurança da região da Amazônia Azul, que compreende as águas do Mar Brasileiro.\n A Marinha desempenha um papel fundamental na preservação desse importante patrimônio natural.\n",
+    "Tokens": 371,
+    "TimeStamp": "2024_05_17_11_55_15",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 241,
+    "falaUser": "Quais são as embarcações autorizadas a passarem pela amazonia azul?",
+    "falaGPT": "||Desculpe, mas não consegui encontrar informações específicas sobre as embarcações autorizadas a passarem pela Amazônia Azul.\n Recomendo que você consulte fontes especializadas ou órgãos responsáveis pela regulação marítima para obter informações precisas sobre quais embarcações estão autorizadas a navegar nessa região.\n Posso ajudar com mais alguma dúvida?||Que legal, você caiu em um bônus! Agora, vamos imaginar que um super-herói está protegendo a Amazônia Azul.\n Qual ferramenta ele deveria usar para cumprir essa missão? Escolha uma das opções:\n\n1) Tridente mágico que limpa a água contaminada.\n\n2) Escudo impenetrável que protege os corais e os animais marinhos.\n\n3) Raio laser que detecta e combate a pesca ilegal.\n\n4) Jetpack aquático que monitora a poluição e resgata animais em perigo.\n\n\nQual opção você escolhe?",
+    "Tokens": 644,
+    "TimeStamp": "2024_05_18_15_18_45",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 110,
+    "falaUser": "Me chame de ninguem",
+    "falaGPT": "||Entendi, Ninguém! Vamos seguir em frente.\n Já ouviu falar na Amazônia Azul?",
+    "Tokens": 202,
+    "TimeStamp": "2024_05_18_15_12_59",
+    "Model": "gpt-3.5-turbo"
+}

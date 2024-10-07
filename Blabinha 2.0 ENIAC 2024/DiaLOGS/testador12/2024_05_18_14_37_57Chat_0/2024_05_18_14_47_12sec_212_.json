@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 212,
+    "falaUser": "Qual é a legislação para a atividade pesqueira nos mares brasileiros?",
+    "falaGPT": "||A legislação para a atividade pesqueira nos mares brasileiros inclui várias leis e regulamentos que visam proteger a fauna marinha, garantir a sustentabilidade da pesca e preservar o meio ambiente.\n Alguns exemplos são a Lei nº 11.\n959/2009, que estabelece normas gerais para a pesca em águas brasileiras, e a Lei nº 7.\n643/1987, que dispõe sobre a proteção à fauna aquática.\n Além disso, existem normas específicas para a pesca de espécies em risco de extinção e áreas de proteção ambiental marinha.\n É importante seguir essas leis para garantir que a pesca seja feita de forma sustentável e respeitando o meio ambiente.\n||Vou fazer uma pergunta sobre a legislação para a atividade pesqueira nos mares brasileiros.\n Aguarde um momento, por favor.\n||Qual é o principal objetivo da legislação para a atividade pesqueira nos mares brasileiros?\n\n1) Proteger a fauna marinha e garantir a sustentabilidade da pesca\n2) Incentivar a pesca indiscriminada sem restrições\n3) Ignorar as necessidades de conservação ambiental\n4) Promover a exploração predatória dos recursos marinhos\n\n",
+    "Tokens": 992,
+    "TimeStamp": "2024_05_18_14_47_12",
+    "Model": "gpt-3.5-turbo"
+}

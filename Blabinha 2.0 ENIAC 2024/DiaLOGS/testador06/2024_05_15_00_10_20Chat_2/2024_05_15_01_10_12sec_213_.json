@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 213,
+    "falaUser": "o qué é pesca predatoria?",
+    "falaGPT": "||Pesca predatória é quando as pessoas pescam de forma exagerada, sem respeitar as regras de proteção dos animais e do ambiente marinho.\n Isso pode causar um desequilíbrio na natureza, colocando em risco a sobrevivência de diferentes espécies de animais aquáticos.\n É importante pescar de forma sustentável, respeitando as leis e cuidando do meio ambiente para garantir que os peixes e outros animais marinhos possam se reproduzir e continuar a existir no futuro.\n Vamos cuidar do nosso planeta e dos seres que nele vivem, combinado?",
+    "Tokens": 320,
+    "TimeStamp": "2024_05_15_01_10_12",
+    "Model": "gpt-3.5-turbo"
+}

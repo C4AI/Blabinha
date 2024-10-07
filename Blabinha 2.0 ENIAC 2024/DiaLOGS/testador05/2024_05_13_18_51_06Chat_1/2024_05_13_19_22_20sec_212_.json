@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 212,
+    "falaUser": "Qual o peixe mais perigoso da amazônia azul?",
+    "falaGPT": "||Na Amazônia Azul, não existe um peixe específico considerado o mais perigoso.\n A região é lar de uma grande diversidade de espécies marinhas, algumas mais ou menos perigosas, mas todas fazendo parte do equilíbrio ecológico do ecossistema marinho.\n Alguns peixes da região podem ser perigosos se forem manuseados de forma incorreta ou se sentirem ameaçados, mas não há um único peixe que seja considerado o mais perigoso de todos.\n É importante sempre respeitar a natureza e tomar precauções ao interagir com animais marinhos para evitar acidentes.\n Sempre dá para se divertir e apreciar a beleza dos peixes da Amazônia Azul com cuidado! 🐠🌊||Ótimo! Vou te fazer uma pergunta sobre a diversidade de peixes na Amazônia Azul.\n Está preparado?||Qual das seguintes práticas é a mais recomendada ao interagir com peixes na Amazônia Azul?\n\n1) Alimentá-los com comida humana\n2) Tocá-los ou tentar capturá-los\n3) Respeitar a distância e não perturbá-los\n4) Nadar próximo a cardumes sem equipamento de segurança\n\n",
+    "Tokens": 998,
+    "TimeStamp": "2024_05_13_19_22_20",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 205,
+    "falaUser": "Não entendi as regras, poderia repetir, por favor?",
+    "falaGPT": "||Então, vamos brincar de um jogo sobre a Amazônia Azul, tá bom? Primeiro, você me faz perguntinhas sobre a Amazônia Azul, e quanto mais a gente conversar sobre esse tema, mais pontos você ganha! Se você ficar sem saber sobre o que perguntar, é só me pedir uma ajudinha que eu dou uma dica de assunto pra você.\n Ah, e quando você quiser parar de brincar, é só falar que quer terminar e tudo bem, você pode parar a hora que quiser.\n Vamos começar?",
+    "Tokens": 279,
+    "TimeStamp": "2024_05_17_21_40_40",
+    "Model": "gpt-4-turbo"
+}

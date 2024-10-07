@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 213,
+    "falaUser": "1 ",
+    "falaGPT": "||Você quer fazer mais perguntas ou encerrar nossa conversa?",
+    "Tokens": 69,
+    "TimeStamp": "2024_05_15_12_03_08",
+    "Model": "gpt-3.5-turbo"
+}

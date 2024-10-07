@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador16",
+    "secao": 215,
+    "falaUser": "quero parar",
+    "falaGPT": "||Poxa, você quer mesmo parar? Está quase terminando de criar seu herói! Será tão legal ver como ele fica no final.\n Que tal tentar um pouquinho mais?",
+    "Tokens": 115,
+    "TimeStamp": "2024_05_10_20_29_33",
+    "Model": "gpt-4-turbo"
+}

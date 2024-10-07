@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 205,
+    "falaUser": "Sim! Quero criar um herói!",
+    "falaGPT": "||Claro! Vamos criar juntos um herói para proteger a Amazônia Azul, uma área marítima brasileira rica em biodiversidade.\n Ele terá poderes aquáticos, como controlar a água e se comunicar com os animais marinhos.\n Como você gostaria que fosse o visual desse herói?",
+    "Tokens": 156,
+    "TimeStamp": "2024_05_11_11_35_36",
+    "Model": "gpt-3.5-turbo"
+}

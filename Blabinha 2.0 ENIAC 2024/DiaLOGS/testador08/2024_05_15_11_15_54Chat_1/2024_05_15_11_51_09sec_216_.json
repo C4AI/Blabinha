@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 216,
+    "falaUser": "quero dicas",
+    "falaGPT": "||Claro! Aqui vão algumas sugestões de assuntos relacionados à Amazônia Azul para você se aprofundar:\n\n1.\n Ecossistema marinho: conheça a diversidade de fauna e flora que habita a Amazônia Azul.\n\n2.\n Recursos naturais: descubra as riquezas minerais e biológicas presentes na região.\n\n3.\n Impactos ambientais: entenda as ameaças e desafios enfrentados pela preservação da Amazônia Azul.\n\n4.\n Desenvolvimento sustentável: saiba como conciliar a exploração econômica da região com a conservação do meio ambiente marinho.\n",
+    "Tokens": 278,
+    "TimeStamp": "2024_05_15_11_51_09",
+    "Model": "gpt-3.5-turbo"
+}

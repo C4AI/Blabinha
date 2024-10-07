@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 214,
+    "falaUser": "Quais os tipos de peixe da AA?",
+    "falaGPT": "||Na Amazônia Azul, que é a região marinha em torno do Brasil, podemos encontrar uma grande diversidade de peixes, como o robalo, o pacu, o tambaqui, o peixe-boi, o boto-cor-de-rosa, o peixe-palhaço, o tubarão-martelo, entre outros.\n Esses peixes desempenham papéis importantes no ecossistema marinho e muitos deles são fonte de alimento para as comunidades locais.\n É essencial proteger a biodiversidade marinha da Amazônia Azul para garantir a sobrevivência dessas espécies e a saúde dos oceanos.\n||Vou agora te fazer uma pergunta relacionada à diversidade de peixes na região da Amazônia Azul.\n Qual é a importância de proteger a biodiversidade marinha nessa região e como isso pode afetar as comunidades locais?||Qual dos seguintes peixes pode ser encontrado na região da Amazônia Azul?\n1) Robalo\n2) Tilápia\n3) Salmão\n4) Atum",
+    "Tokens": 859,
+    "TimeStamp": "2024_05_17_19_15_02",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 213,
+    "falaUser": "A amazônia azul impacta nosso futuro?",
+    "falaGPT": "||Se quiser, faça mais perguntas! Se não, pode pedir para terminar.\n Posso ajudar você!",
+    "Tokens": 82,
+    "TimeStamp": "2024_05_15_10_18_12",
+    "Model": "gpt-3.5-turbo"
+}

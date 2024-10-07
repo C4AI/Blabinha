@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 211,
+    "falaUser": "qual é o recurso natural mais encontrado na amazônia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Se precisar de ajuda, é só pedir dicas! Vamos continuar conversando!",
+    "Tokens": 93,
+    "TimeStamp": "2024_05_08_20_50_23",
+    "Model": "gpt-3.5-turbo"
+}

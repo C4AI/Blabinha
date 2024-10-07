@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 120,
+    "falaUser": "Nunca ouvi falar sobre a Amazônia Azul. O que é?",
+    "falaGPT": "||A Amazônia Azul é a área marítima de grande extensão ao redor do Brasil, com riquezas naturais e biodiversidade.\n O desafio é criar um super-herói inspirado nesse contexto, explorando a importância dos oceanos.\n Que tal embarcar nessa aventura? Será incrível imaginar um herói protetor dos mares e da vida marinha! Vamos participar juntos desse desafio?",
+    "Tokens": 320,
+    "TimeStamp": "2024_05_07_16_44_39",
+    "Model": "gpt-3.5-turbo"
+}

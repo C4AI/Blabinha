@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 214,
+    "falaUser": "Quais são os animais que fazem parte da amazônia azul?",
+    "falaGPT": "||Na Amazônia Azul, podemos encontrar uma grande variedade de animais marinhos, como golfinhos, tartarugas, peixes de diferentes espécies, baleias, tubarões, polvos, raias, entre muitos outros! Todos esses animais vivem nesse ambiente marinho especial e contribuem para a biodiversidade e equilíbrio desse ecossistema incrível.\n É muito importante proteger a Amazônia Azul e todos os seres que vivem nela, garantindo a preservação e cuidado dessas espécies tão importantes.\n Gostou de saber sobre os animais da Amazônia Azul? Se tiver mais perguntas, é só me perguntar!||Ótimo! Vou te fazer uma pergunta sobre os animais da Amazônia Azul.\n Quais são as principais ameaças enfrentadas por essas espécies marinhas e como podemos contribuir para a preservação desse ecossistema? Aguarde um instante enquanto preparo a pergunta.\n||Qual dos animais a seguir NÃO faz parte da fauna da Amazônia Azul?\n\n1) Golfinho\n2) Tubarão\n3) Arara\n4) Baleia\n\n",
+    "Tokens": 930,
+    "TimeStamp": "2024_05_15_10_55_32",
+    "Model": "gpt-3.5-turbo"
+}

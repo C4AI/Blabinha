@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 130,
+    "falaUser": "Acho que seria legal, vamos lá",
+    "falaGPT": "||Vamos criar juntos um herói da Amazônia Azul em até 7 turnos.\n Lembre-se de que apenas as perguntas relacionadas à Amazônia Azul contam como turnos.\n Você pode pedir dicas sobre possíveis assuntos da Amazônia Azul, pedir para terminar o jogo ou solicitar a criação do herói em algum momento da interação.\n Vale lembrar que esses três últimos casos não contam como turno.\n Vamos começar! Como podemos começar a desenvolver nosso herói da Amazônia Azul?||Você entendeu as regras do jogo para criarmos juntos um herói da Amazônia Azul? Se sim, podemos continuar com a criação do herói!",
+    "Tokens": 569,
+    "TimeStamp": "2024_05_08_20_47_44",
+    "Model": "gpt-3.5-turbo"
+}

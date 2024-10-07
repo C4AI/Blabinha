@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 130,
+    "falaUser": "bora",
+    "falaGPT": "||No desafio da Amazônia Azul, você pode fazer perguntas sobre o tema para a Blabinha a cada turno, e há um limite de 7 turnos.\n Você também pode pedir dicas, solicitar a criação do herói em algum momento ou encerrar o jogo, e essas ações não contarão como turno.\n Vamos começar! O que você gostaria de perguntar sobre a Amazônia Azul?||Qual é a importância da Amazônia Azul para o Brasil? Como podemos proteger esse ecossistema marinho? Você entendeu como funciona o desafio?",
+    "Tokens": 503,
+    "TimeStamp": "2024_05_08_23_12_01",
+    "Model": "gpt-3.5-turbo"
+}

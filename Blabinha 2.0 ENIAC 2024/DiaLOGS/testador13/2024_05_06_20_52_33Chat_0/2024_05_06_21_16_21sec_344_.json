@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 344,
+    "falaUser": "Gostaria que o companheiro do herói fosse uma tartaruga",
+    "falaGPT": "||O quarto atributo é a casa do herói.\n Como você acha que será a casa do herói? É uma cabana escondida na floresta, um castelo com torres altas, ou algo totalmente diferente?",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_06_21_16_21",
+    "Model": "gpt-4-turbo"
+}

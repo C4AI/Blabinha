@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 205,
+    "falaUser": "Não entendi o que são turnos, pode me explicar melhor?",
+    "falaGPT": "||Vou repetir e falar de um jeito mais simples para você entender melhor: Você pode fazer perguntas sobre a Amazônia azul para mim, a Blabinha, e quanto mais ficar nesse assunto, mais pontos você ganha.\n Se precisar de dica sobre o que perguntar, é só pedir.\n E lembre-se que pode sair do desafio a qualquer momento.\n",
+    "Tokens": 237,
+    "TimeStamp": "2024_05_11_13_14_35",
+    "Model": "gpt-3.5-turbo"
+}

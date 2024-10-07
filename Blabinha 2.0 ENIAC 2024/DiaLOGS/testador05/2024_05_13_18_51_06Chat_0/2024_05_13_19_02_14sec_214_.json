@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 214,
+    "falaUser": "qual o impacto da poluição na amazônia azul ?",
+    "falaGPT": "||A poluição na Amazônia Azul pode prejudicar muito a vida marinha, os corais, os peixes e outros animais que vivem nessa região.\n Quando há lixo, produtos químicos ou óleo sendo despejados no mar, a água fica suja e tóxica, o que pode matar os animais e contaminar os alimentos que comemos.\n Além disso, a poluição também pode afetar as pessoas, causando problemas de saúde e prejudicando a pesca.\n Por isso, é importante cuidar do meio ambiente e evitar jogar lixo no mar ou em rios que desaguam nele.\n Vamos todos juntos proteger a Amazônia Azul!||Agora, vou te fazer uma questão sobre o impacto da poluição na Amazônia Azul.\n A pergunta é: Quais são os principais impactos da poluição na vida marinha e na saúde das pessoas que dependem da Amazônia Azul?||Qual o impacto da poluição na Amazônia Azul?\n\n1) A proliferação de espécies marinhas\n2) A redução do turismo na região\n3) A contaminação da água e dos alimentos\n4) A preservação dos ecossistemas aquáticos",
+    "Tokens": 927,
+    "TimeStamp": "2024_05_13_19_02_14",
+    "Model": "gpt-3.5-turbo"
+}

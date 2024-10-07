@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "Qual a importância da sua biodiversidade?",
+    "falaGPT": "||A biodiversidade da nossa Amazônia Azul é muito importante, porque nela vivem muitos animais marinhos, plantas aquáticas e microorganismos que são fundamentais para manter o equilíbrio do nosso ecossistema marinho.\n Cada espécie desempenha um papel importante no ambiente marinho, contribuindo para a polinização, reprodução e até mesmo para a produção de oxigênio.\n Além disso, a diversidade biológica no mar também ajuda a garantir a segurança alimentar, a preservação da saúde dos oceanos e a descoberta de novos remédios e tecnologias.\n Por isso, é essencial proteger e preservar a biodiversidade da Amazônia Azul para garantir um ambiente saudável e sustentável para as gerações futuras.\n",
+    "Tokens": 365,
+    "TimeStamp": "2024_05_17_11_56_25",
+    "Model": "gpt-3.5-turbo"
+}

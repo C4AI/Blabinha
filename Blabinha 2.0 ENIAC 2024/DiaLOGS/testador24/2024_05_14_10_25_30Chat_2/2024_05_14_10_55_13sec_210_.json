@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 210,
+    "falaUser": "E qual a utilidade disso para nossa aventura?",
+    "falaGPT": "||Você quer fazer mais perguntas ou prefere terminar por hoje?",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_14_10_55_13",
+    "Model": "gpt-4-turbo"
+}

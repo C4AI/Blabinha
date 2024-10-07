@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "como pode ser gerada energia a partir das ondas do mar?",
+    "falaGPT": "||Ops! Peço desculpas por não responder adequadamente à sua pergunta.\n\n\nPara gerar energia a partir das ondas do mar, se utiliza um tipo de tecnologia chamada de \"energia das ondas\".\n Grandes dispositivos flutuantes ou fixos são colocados no oceano, e quando as ondas passam por eles, geram movimento que é convertido em energia elétrica por meio de geradores.\n Essa energia limpa e renovável pode ser usada para gerar eletricidade para casas, empresas e até mesmo cidades inteiras!\n\nEssa forma de geração de energia é promissora, pois as ondas do mar são uma fonte natural e constante de energia que não emite poluentes.\n É uma maneira bacana de aproveitar a força da natureza para produzir eletricidade.\n Espero ter respondido direitinho agora!",
+    "Tokens": 373,
+    "TimeStamp": "2024_05_11_13_36_50",
+    "Model": "gpt-3.5-turbo"
+}

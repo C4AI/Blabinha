@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "1, 2 e 3",
+    "falaGPT": "||Você pode me fazer mais perguntas! Mas não esqueça de perguntar sobre a importância de proteger a Amazônia Azul.\n",
+    "Tokens": 100,
+    "TimeStamp": "2024_05_11_13_35_15",
+    "Model": "gpt-3.5-turbo"
+}

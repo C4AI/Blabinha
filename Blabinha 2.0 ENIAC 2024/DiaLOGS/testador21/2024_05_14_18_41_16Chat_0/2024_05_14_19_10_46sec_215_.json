@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 215,
+    "falaUser": "que tipos de projetos de pesquisa são feitos na Amazônia Azul?",
+    "falaGPT": "||Na Amazônia Azul, os pesquisadores fazem vários projetos super interessantes! Eles estudam os peixinhos e outros animais que vivem no mar, como as baleias e tartarugas.\n Eles também olham para as plantinhas do mar, como as algas, e até investigam os microorganismos, que são criaturinhas tão pequenininhas que a gente precisa de um microscópio para ver!\n\nAlém disso, eles aprendem sobre como proteger nosso lindo oceano e todos os seus tesouros.\n Exploram também os minerais que podem estar escondidos no fundo do mar.\n É como ser um detetive do oceano, procurando pistas e descobrindo segredos do mar! Super legal, né?",
+    "Tokens": 358,
+    "TimeStamp": "2024_05_14_19_10_46",
+    "Model": "gpt-4-turbo"
+}

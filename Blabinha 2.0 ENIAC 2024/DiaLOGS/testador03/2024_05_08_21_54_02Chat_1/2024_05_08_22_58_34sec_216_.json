@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 216,
+    "falaUser": "quais temas gostaria de falar?",
+    "falaGPT": "||Adoro falar sobre animais marinhos, como baleias, golfinhos, peixes coloridos e até mesmo os tubarões! Também gosto de aprender sobre os corais e as plantas aquáticas que vivem no fundo do mar.\n E você, qual tema gosta de falar?||Claro, agora vou fazer uma pergunta sobre um dos temas que abordei: Você sabia que as baleias podem se comunicar usando sons de baixa frequência que viajam por longas distâncias debaixo d'água? Qual é o nome desse tipo de comunicação utilizado pelas baleias? (Comunicação acústica)||Qual é o maior mamífero marinho do mundo?\n\n1) Golfinho\n2) Tubarão\n3) Baleia\n4) Tartaruga\n\nQual destas espécies é considerada o de maior peso até os dias atuais?",
+    "Tokens": 637,
+    "TimeStamp": "2024_05_08_22_58_34",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 216,
+    "falaUser": "Quais são as ameaças à amazônia azul ?",
+    "falaGPT": "||As ameaças à Amazônia Azul são: a poluição causada por derramamento de petróleo e lixo, a pesca predatória, a destruição das áreas costeiras, a acidificação dos oceanos devido ao aumento do dióxido de carbono na atmosfera e as mudanças climáticas.\n É importante cuidarmos do nosso Oceano Atlântico e de todos os seres vivos que nele habitam, para garantir um ambiente marinho saudável e sustentável para as futuras gerações.\n Vamos todos juntos proteger a Amazônia Azul! 🌊🐠🐋 #SalveOAmeaçadasorelhasrosacomgranulomaculatus||Agora vou fazer uma pergunta sobre as ameaças à Amazônia Azul: Quais são as principais consequências da acidificação dos oceanos na vida marinha?||Qual é uma das principais ameaças à Amazônia Azul?\n\n1) Poluição causada por derramamento de petróleo e lixo.\n\n2) Pesca sustentável.\n\n3) Aumento da proteção das áreas costeiras.\n\n4) Plantio de espécies invasoras no oceano.\n",
+    "Tokens": 940,
+    "TimeStamp": "2024_05_18_14_57_08",
+    "Model": "gpt-3.5-turbo"
+}

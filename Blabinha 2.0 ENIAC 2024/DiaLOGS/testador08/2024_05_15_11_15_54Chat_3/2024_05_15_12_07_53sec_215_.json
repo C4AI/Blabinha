@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "não, quero saber se tem lugar pra comer sushi",
+    "falaGPT": "||Você pode fazer mais perguntas! Não esqueça de falarmos sobre a Amazônia Azul.\n O que mais você quer saber?",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_15_12_07_53",
+    "Model": "gpt-3.5-turbo"
+}

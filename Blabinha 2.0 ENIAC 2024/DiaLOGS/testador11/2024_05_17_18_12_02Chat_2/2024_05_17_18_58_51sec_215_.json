@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 215,
+    "falaUser": "qual a temperatura do mar na amazonia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Estou aqui para ajudar no que precisar.\n",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_17_18_58_51",
+    "Model": "gpt-3.5-turbo"
+}

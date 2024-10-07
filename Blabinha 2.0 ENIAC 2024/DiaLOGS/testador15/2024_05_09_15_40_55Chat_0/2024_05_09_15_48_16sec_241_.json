@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 241,
+    "falaUser": "Que países compreendem a amazônia azul?",
+    "falaGPT": "||Ah, claro! A Amazônia Azul é só do Brasil! É uma área grande e mágica no oceano que fica pertinho do nosso país.\n Ela tem muitos peixinhos, plantas e tesouros escondidos no fundo do mar! O Brasil cuida desse lugar para proteger todos esses seres marinhos e o ambiente deles.\n Então, só o Brasil faz parte da Amazônia Azul!||Uau, você acertou em cheio e caiu em um bônus especial! Vamos imaginar: se tivéssemos um super-herói encarregado de proteger a Amazônia Azul, que ferramenta ele usaria? Escolha uma:\n\n1) Radar submarino avançado para detectar atividades ilegais;\n2) Rede de satélites para monitoramento constante do território marítimo;\n3) Drones aquáticos para coletar dados e patrulhar áreas remotas;\n4) Sistema de limpeza oceânica para remover poluição e salvar a vida marinha.\n\n\nQual você acha que nosso herói deveria escolher para manter nossos mares seguros e saudáveis?",
+    "Tokens": 678,
+    "TimeStamp": "2024_05_09_15_48_16",
+    "Model": "gpt-4-turbo"
+}

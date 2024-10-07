@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 205,
+    "falaUser": "Qual é a importância da Amazônia Azul para o Brasil?",
+    "falaGPT": "||Que legal! A Amazônia Azul é a área marítima do Brasil, rica em biodiversidade e recursos naturais.\n É importante para a economia, pesca, transporte e segurança do país.\n Se tiver mais perguntas, estou aqui para responder!",
+    "Tokens": 143,
+    "TimeStamp": "2024_05_08_23_12_43",
+    "Model": "gpt-3.5-turbo"
+}

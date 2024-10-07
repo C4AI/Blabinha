@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 130,
+    "falaUser": "Sim!",
+    "falaGPT": "||No desafio, o jogo se desenvolve em até 7 turnos.\n Apenas perguntas que você, a criança, faz e que são claramente relacionadas à Amazônia Azul são contabilizadas como turnos.\n Durante o jogo, você pode solicitar dicas sobre temas que se encaixem no conceito de Amazônia Azul.\n Você também pode a qualquer momento decidir finalizar o jogo ou iniciar a criação do herói.\n Lembre-se, pedir dicas, finalizar o jogo ou começar a criar o herói não são considerados como turnos.\n||Entendeu as regras do desafio sobre a Amazônia Azul, ou precisa de mais alguma explicação antes de começarmos?",
+    "Tokens": 578,
+    "TimeStamp": "2024_05_14_19_36_27",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 210,
+    "falaUser": "criar herói",
+    "falaGPT": "||Desculpe, a criação de heróis não está relacionada à Amazônia azul.\n Se precisar de ajuda sobre o tema marítimo, estou à disposição.\n||A Amazônia Azul é uma importante região marítima brasileira, composta pela extensão do mar territorial e zona econômica exclusiva do Brasil.\n Alguns temas relevantes para serem abordados sobre a Amazônia Azul incluem a biodiversidade marinha, a exploração sustentável dos recursos marinhos, a preservação ambiental, e a importância estratégica da região para a economia e segurança nacional.\n Além disso, é possível discutir sobre a pesquisa científica, a proteção de espécies marinhas ameaçadas, as atividades pesqueiras e aquicultura, o turismo marítimo, a exploração de petróleo e gás, a navegação e a importância da conscientização da população sobre a preservação dos ecossistemas marinhos na Amazônia Azul.\n",
+    "Tokens": 455,
+    "TimeStamp": "2024_05_17_19_30_05",
+    "Model": "gpt-3.5-turbo"
+}

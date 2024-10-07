@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "Todas as alternativas estão corretas",
+    "falaGPT": "||Parabéns! Todas as alternativas estão corretas.\n A preservação da Amazônia Azul é importante por todos esses motivos: a diversidade de espécies marinhas, a regulação do clima, a sustentabilidade ambiental e econômica, e a disponibilidade de recursos naturais essenciais para a humanidade.\n",
+    "Tokens": 504,
+    "TimeStamp": "2024_05_17_11_37_56",
+    "Model": "gpt-3.5-turbo"
+}

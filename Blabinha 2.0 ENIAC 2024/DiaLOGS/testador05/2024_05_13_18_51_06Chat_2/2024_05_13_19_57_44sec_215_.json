@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 215,
+    "falaUser": "Quem joga resíduos químicos na Amazônia Azul ?",
+    "falaGPT": "||Existem várias fontes de resíduos químicos e poluição que podem chegar na Amazônia Azul.\n Isso inclui atividades industriais, descarte inadequado de produtos químicos, derramamento de óleo de navios e até mesmo resíduos trazidos pelos rios que deságuam no oceano.\n\n\nÉ muito importante cuidarmos e protegermos a Amazônia Azul, pois ela é essencial para a vida marinha e para o equilíbrio do nosso planeta.\n É responsabilidade de todos nós evitar o descarte impróprio de resíduos químicos e poluentes, além de cobrar que as empresas e governos ajam de forma sustentável para proteger esse ambiente tão importante.\n Juntos, podemos ajudar a preservar a Amazônia Azul para as futuras gerações.\n",
+    "Tokens": 380,
+    "TimeStamp": "2024_05_13_19_57_44",
+    "Model": "gpt-3.5-turbo"
+}

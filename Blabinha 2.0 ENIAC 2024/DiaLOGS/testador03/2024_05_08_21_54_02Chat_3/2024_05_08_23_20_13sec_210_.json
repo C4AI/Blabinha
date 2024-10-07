@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 210,
+    "falaUser": "vc tem algum diploma no assunto ou é uma professora?",
+    "falaGPT": "||Não tenho um diploma específico nesse assunto, mas posso dizer que sou especialista em conversar e aprender sobre diversos temas, incluindo a Amazônia Azul.\n Posso te ajudar a entender melhor sobre o assunto e compartilhar informações interessantes com você.\n Se tiver mais alguma pergunta ou curiosidade, é só me dizer!",
+    "Tokens": 257,
+    "TimeStamp": "2024_05_08_23_20_13",
+    "Model": "gpt-3.5-turbo"
+}

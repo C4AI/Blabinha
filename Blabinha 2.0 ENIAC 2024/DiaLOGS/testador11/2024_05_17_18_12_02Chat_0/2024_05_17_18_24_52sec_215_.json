@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 215,
+    "falaUser": "Quais a Legislação e acordos internacionais que regem a exploração e preservação da região.",
+    "falaGPT": "||Na região da Amazônia Azul, a legislação e os acordos internacionais que regem a exploração e preservação incluem a Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS) e a legislação brasileira como a Lei do Mar e outras leis ambientais.\n Essas leis e acordos visam garantir que a exploração dos recursos marinhos seja feita de forma sustentável, respeitando o meio ambiente e as comunidades locais.\n Além disso, existem acordos específicos entre diferentes países para proteger a região marinha e promover a cooperação na preservação dos ecossistemas marinhos.\n É importante cuidarmos da Amazônia Azul para manter a vida marinha saudável e garantir um futuro melhor para todos.\n",
+    "Tokens": 383,
+    "TimeStamp": "2024_05_17_18_24_52",
+    "Model": "gpt-3.5-turbo"
+}

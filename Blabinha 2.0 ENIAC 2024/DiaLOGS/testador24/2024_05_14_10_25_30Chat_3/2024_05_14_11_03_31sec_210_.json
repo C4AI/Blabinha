@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 210,
+    "falaUser": "Hm, tudo bem vai. Que nome legal você daria para ele?",
+    "falaGPT": "||Você quer perguntar mais alguma coisa ou prefere terminar por aqui?",
+    "Tokens": 73,
+    "TimeStamp": "2024_05_14_11_03_31",
+    "Model": "gpt-4-turbo"
+}

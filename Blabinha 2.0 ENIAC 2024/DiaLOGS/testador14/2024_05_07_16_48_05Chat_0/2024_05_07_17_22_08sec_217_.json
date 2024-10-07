@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 217,
+    "falaUser": "Quantos navios tem na amazonia azul?",
+    "falaGPT": "||Ah, eu entendi agora! Quando você pergunta sobre quantos navios tem na Amazônia Azul, parece que você está pensando em quantos navios estão navegando por lá, né? Mas essa resposta pode variar muito porque muitos navios passam por lá todos os dias, alguns são de passeio, outros são para pesca ou até grandes navios que carregam coisas de um lado para o outro do mundo.\n Então, não tem um número exato de navios que a gente pode contar, porque está sempre mudando! É como tentar contar quantos peixinhos estão nadando no mar.\n Bem difícil, né?",
+    "Tokens": 314,
+    "TimeStamp": "2024_05_07_17_22_08",
+    "Model": "gpt-4-turbo"
+}

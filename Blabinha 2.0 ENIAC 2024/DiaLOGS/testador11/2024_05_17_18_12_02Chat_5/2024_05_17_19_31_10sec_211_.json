@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 211,
+    "falaUser": "Quantos animais tem?",
+    "falaGPT": "||Você tem mais perguntas? Estou aqui para te ajudar!",
+    "Tokens": 63,
+    "TimeStamp": "2024_05_17_19_31_10",
+    "Model": "gpt-3.5-turbo"
+}

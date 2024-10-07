@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "tem tesouro na amazonia azul? tipo pirata",
+    "falaGPT": "||Posso te ajudar! Faça mais perguntas se precisar.\n Se ficar em dúvida, posso te dar dicas.\n O que quer saber?",
+    "Tokens": 98,
+    "TimeStamp": "2024_05_15_11_50_47",
+    "Model": "gpt-3.5-turbo"
+}

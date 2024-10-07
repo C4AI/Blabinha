@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 267,
+    "falaUser": "Continuar, quantos litros de água tem na Amazônia Azul?",
+    "falaGPT": "||Você pode me fazer mais perguntas! Se precisar de dicas sobre um assunto, é só pedir.\n",
+    "Tokens": 87,
+    "TimeStamp": "2024_05_17_18_27_15",
+    "Model": "gpt-3.5-turbo"
+}

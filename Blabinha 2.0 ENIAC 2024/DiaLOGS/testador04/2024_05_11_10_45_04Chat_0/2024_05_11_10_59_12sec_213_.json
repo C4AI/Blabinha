@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 213,
+    "falaUser": "Qual o tamanho da amazônia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! E se precisar de dicas, estou aqui para ajudar.\n O que mais você gostaria de saber?",
+    "Tokens": 97,
+    "TimeStamp": "2024_05_11_10_59_12",
+    "Model": "gpt-3.5-turbo"
+}

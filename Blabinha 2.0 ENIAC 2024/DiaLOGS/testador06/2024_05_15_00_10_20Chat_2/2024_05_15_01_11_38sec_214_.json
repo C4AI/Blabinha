@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 214,
+    "falaUser": "quantos animais existem no mar brasileiro?",
+    "falaGPT": "||Ai, que difícil! Já vi muitos peixinhos e golfinhos nadando por aqui, e tem também muitas espécies de animais marinhos no Brasil, como baleias, tartarugas, polvos e até tubarões! Não sei ao certo quantos animais existem no mar brasileiro, mas com certeza são muitos e bem variados! Eles são muito importantes para o equilíbrio do ecossistema marinho e precisamos protegê-los, certo? Vamos aprender mais sobre eles juntos!||Legal! Vou te fazer uma pergunta para testar seus conhecimentos: Qual espécie de animal marinho mais te encanta no litoral brasileiro: golfinhos, baleias, tartarugas ou tubarões? ||Quantos animais marinhos diferentes você consegue identificar em um mergulho no mar brasileiro?\n\n1) Cerca de 50 espécies\n2) Apenas algumas espécies comuns\n3) Mais de 200 espécies\n4) Diversidade de animais, mas em menor quantidade",
+    "Tokens": 788,
+    "TimeStamp": "2024_05_15_01_11_38",
+    "Model": "gpt-3.5-turbo"
+}

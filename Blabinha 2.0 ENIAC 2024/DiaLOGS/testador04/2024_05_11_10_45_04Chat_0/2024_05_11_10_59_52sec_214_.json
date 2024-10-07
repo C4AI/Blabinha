@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 214,
+    "falaUser": "Como cuidar da amazonia azul?",
+    "falaGPT": "||Para cuidar da Amazônia Azul, precisamos proteger os oceanos! Isso significa não jogar lixo nas praias, não pescar animais ameaçados de extinção, não poluir as águas com produtos químicos e respeitar a vida marinha.\n Além disso, podemos ajudar a conservar a Amazônia Azul praticando a pesca sustentável, ou seja, pescando apenas o necessário e de forma responsável.\n Também é importante apoiar organizações e projetos que trabalham para a preservação dos oceanos.\n Vamos cuidar desse lugar incrível para que os animais e plantas que vivem nele possam continuar a prosperar! Juntos, podemos fazer a diferença.\n||Agora vamos fazer uma pergunta sobre como cuidar da Amazônia Azul.\n Como podemos contribuir para a preservação dos oceanos e da vida marinha que habita esse ecossistema tão importante?||Qual das ações abaixo contribui para o cuidado da Amazônia Azul?\n\n1) Jogar lixo nas praias\n2) Praticar pesca sustentável\n3) Poluir as águas com produtos químicos\n4) Pescar animais ameaçados de extinção\n\nA) Apenas a alternativa 2\nB) Apenas a alternativa 1\nC) Apenas a alternativa 3\nD) Apenas a alternativa 4",
+    "Tokens": 978,
+    "TimeStamp": "2024_05_11_10_59_52",
+    "Model": "gpt-3.5-turbo"
+}

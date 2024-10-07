@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 215,
+    "falaUser": "Qual a importância econômica dela?",
+    "falaGPT": "||A importância econômica da Amazônia Azul é muito grande porque ela oferece recursos naturais e possibilidades de desenvolvimento econômico.\n Nessa região, encontramos reservas de petróleo, gás natural, minerais, além de possibilitar a pesca e o turismo marítimo.\n Além disso, a preservação da Amazônia Azul é fundamental para a garantia da biodiversidade e a manutenção do equilíbrio ambiental, que também impactam na economia.\n Em resumo, cuidar da Amazônia Azul é importante não apenas para o meio ambiente, mas também para a economia do Brasil como um todo.\n",
+    "Tokens": 323,
+    "TimeStamp": "2024_05_17_12_25_16",
+    "Model": "gpt-3.5-turbo"
+}

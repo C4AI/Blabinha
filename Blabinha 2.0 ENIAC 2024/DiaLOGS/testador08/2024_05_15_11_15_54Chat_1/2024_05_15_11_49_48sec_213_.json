@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 213,
+    "falaUser": "me diga mais sobre os animais de lá",
+    "falaGPT": "||Desculpe, mas não entendi qual pergunta você está se referindo.\n Poderia me fazer a pergunta novamente, por favor?",
+    "Tokens": 202,
+    "TimeStamp": "2024_05_15_11_49_48",
+    "Model": "gpt-3.5-turbo"
+}

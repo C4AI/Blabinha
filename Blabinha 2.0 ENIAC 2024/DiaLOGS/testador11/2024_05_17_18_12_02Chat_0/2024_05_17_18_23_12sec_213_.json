@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "Quantas tartarugas estão na Amazônia Azul?",
+    "falaGPT": "||Na região conhecida como Amazônia Azul, muitas espécies de tartarugas marinhas podem ser encontradas, como a tartaruga-verde, a tartaruga-de-pente, a tartaruga-de-couro, a tartaruga-oliva e a tartaruga-cabeçuda.\n Infelizmente, não há uma contagem exata de quantas tartarugas estão presentes nessa região, já que são animais selvagens que se movem livremente pelo oceano.\n Elas são muito importantes para o equilíbrio do ecossistema marinho e sua preservação é essencial!Vamos cuidar bem delas, ok?🐢🌊",
+    "Tokens": 333,
+    "TimeStamp": "2024_05_17_18_23_12",
+    "Model": "gpt-3.5-turbo"
+}

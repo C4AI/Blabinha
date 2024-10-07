@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 212,
+    "falaUser": "Qual o peixe mais forte da Amazônia Azul ?",
+    "falaGPT": "||Na verdade, a Amazônia Azul se refere ao território marítimo do Brasil e não à região amazônica.\n Mas, se estivermos falando sobre o peixe mais forte da região amazônica, podemos citar o tucunaré! Ele é um peixe muito valente, ágil e resistente, que pode desafiar pescadores com suas fortes lutas.\n O tucunaré é conhecido por ser um grande predador e por suas habilidades de escapar de anzóis e redes.\n É um peixe muito popular entre pescadores esportivos que buscam emoção e desafio nas águas da Amazônia.\n Então, se um peixe forte for o que você procura, o tucunaré é uma excelente opção na região amazônica!||Agora, vou te fazer uma pergunta sobre a pesca de tucunarés, um dos peixes mais fortes da região amazônica.\n Você está pronto para testar seus conhecimentos sobre esse peixe desafiador?||Qual peixe da região amazônica é conhecido por sua força e resistência nas lutas contra pescadores?\n\n1) Tambaqui\n2) Pirarucu\n3) Tucunaré\n4) Piraíba",
+    "Tokens": 975,
+    "TimeStamp": "2024_05_13_18_59_22",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 213,
+    "falaUser": "o presidente tem a culpa da poluição dos oceanos?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Fico feliz em ajudar.\n",
+    "Tokens": 66,
+    "TimeStamp": "2024_05_15_00_52_39",
+    "Model": "gpt-3.5-turbo"
+}

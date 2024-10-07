@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 215,
+    "falaUser": "Qual o papel do IBAMA na preservação da Amazônia Azul?",
+    "falaGPT": "||Você tem mais perguntas ou quer terminar nossa conversa?",
+    "Tokens": 69,
+    "TimeStamp": "2024_05_17_19_35_53",
+    "Model": "gpt-3.5-turbo"
+}

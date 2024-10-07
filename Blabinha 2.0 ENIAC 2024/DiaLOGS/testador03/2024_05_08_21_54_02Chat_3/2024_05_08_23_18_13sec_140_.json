@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 140,
+    "falaUser": "vai ser legal?",
+    "falaGPT": "||Olha só, as regras do joguinho são bem simples: você precisa fazer perguntinhas para a Blabinha sobre a Amazônia azul, tá? Quanto mais você perguntar sobre isso, mais pontinhos você ganha! Se ficar sem ideia do que perguntar, pode pedir uma dica.\n E, se quiser parar de brincar e sair, é só avisar!||Você entendeu as regras? Posso te ajudar com mais alguma coisa?",
+    "Tokens": 282,
+    "TimeStamp": "2024_05_08_23_18_13",
+    "Model": "gpt-3.5-turbo"
+}

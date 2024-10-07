@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 218,
+    "falaUser": "dicas",
+    "falaGPT": "||Uau, você conversou bastante! Chegamos ao final da conversa, e agora vamos criar juntos o seu próprio herói! Para isso, preciso ler toda essa conversa com a ajuda de um script e então avaliar as informações que reunimos.\n Assim que eu terminar, você poderá começar a escrever sobre o seu herói.\n Só comece a escrever quando eu disser, certo? Estou pronta para começar, é só você escrever algo!",
+    "Tokens": 242,
+    "TimeStamp": "2024_05_09_00_08_29",
+    "Model": "gpt-3.5-turbo"
+}

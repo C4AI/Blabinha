@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 217,
+    "falaUser": "Até onde vai a Amazônia Azul no mar?",
+    "falaGPT": "||A Amazônia Azul se estende por cerca de 4,5 milhões de quilômetros quadrados, uma área imensa que vai desde o litoral do Brasil até o limite exterior da Plataforma Continental, onde o mar é mais profundo.\n É como se fosse uma grande extensão de mar que faz parte do nosso país, cheia de vida marinha e recursos naturais importantes.\n É muito importante cuidarmos da Amazônia Azul, assim como cuidamos da floresta Amazônica, para garantir a preservação da biodiversidade e a sustentabilidade dos ecossistemas marinhos.\n É incrível pensar em toda essa extensão de mar perto de nós, não é mesmo?",
+    "Tokens": 337,
+    "TimeStamp": "2024_05_07_17_08_55",
+    "Model": "gpt-3.5-turbo"
+}

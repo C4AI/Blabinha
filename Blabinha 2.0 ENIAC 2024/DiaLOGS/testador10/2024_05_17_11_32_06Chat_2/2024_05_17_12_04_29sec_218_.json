@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 218,
+    "falaUser": "Qual país controla essa região?",
+    "falaGPT": "||Uau, você conversou bastante! Chegamos ao final da nossa conversa e agora vamos começar a criar o nosso herói.\n Para isso, vou precisar ler toda a nossa conversa com a ajuda de um script e depois avaliar.\n Peço que você tenha um pouco de paciência, ok? Assim que eu terminar, você poderá escrever e contribuir para a criação do nosso herói.\n \n\nPara começar, basta você escrever qualquer coisa!",
+    "Tokens": 240,
+    "TimeStamp": "2024_05_17_12_04_29",
+    "Model": "gpt-3.5-turbo"
+}

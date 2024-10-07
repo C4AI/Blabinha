@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "existem baleias na amazonia azul?",
+    "falaGPT": "||Você pode me fazer mais perguntas ou pedir para terminar a qualquer momento.\n Como posso ajudar você hoje?",
+    "Tokens": 81,
+    "TimeStamp": "2024_05_11_12_18_07",
+    "Model": "gpt-3.5-turbo"
+}

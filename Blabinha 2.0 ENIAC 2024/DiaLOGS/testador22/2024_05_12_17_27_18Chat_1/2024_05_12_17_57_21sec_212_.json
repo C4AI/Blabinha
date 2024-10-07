@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador22",
+    "secao": 212,
+    "falaUser": "quais institutos olham para a Amazonia azul",
+    "falaGPT": "||Ah, que legal falar sobre a Amazônia Azul! 🌊 Essa é uma área muito grande do mar que pertence ao Brasil, e por ser tão especial, tem vários institutos e organizações que cuidam dela e estudam tudo que tem lá dentro! Um deles é a Marinha do Brasil, que ajuda a proteger e a olhar por toda essa área azulzinha.\n Além dela, tem também o ICMBio, que é o Instituto Chico Mendes de Conservação da Biodiversidade, que cuida dos animais e das plantinhas que vivem nessa região.\n E também tem universidades e outros grupos de pesquisa que estão sempre aprendendo mais sobre o mar e todas as criaturas que vivem lá! É muita gente trabalhando junto para cuidar desse pedacinho azul do nosso país! 🐠🚢||Agora vou preparar uma pergunta sobre a Amazônia Azul para testar o que aprendemos.\n Isso vai ajudar a fixar melhor as informações e entender ainda mais sobre esse importante território marítimo do Brasil.\n Vamos lá!||Qual das seguintes instituições é responsável pela proteção e pelo estudo da Amazônia Azul?\n\n1) Instituto Nacional de Pesquisas Espaciais (INPE)\n2) Marinha do Brasil\n3) Museu Nacional\n4) Instituto Butantan",
+    "Tokens": 1000,
+    "TimeStamp": "2024_05_12_17_57_21",
+    "Model": "gpt-4-turbo"
+}

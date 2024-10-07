@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 334,
+    "falaUser": "pode ser uma heroína ao invés de um herói?",
+    "falaGPT": "||O terceiro atributo é o companheiro de exploração! Quem será o companheiro do herói na aventura?",
+    "Tokens": 90,
+    "TimeStamp": "2024_05_06_22_02_36",
+    "Model": "gpt-4-turbo"
+}

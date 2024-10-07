@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 211,
+    "falaUser": "Ah, tudo bem. Quais peixes seriam amigos do nosso heroi?",
+    "falaGPT": "||Ah, na aventura submarina do nosso herói, ele certamente teria muitos amigos peixinhos! Vamos imaginar alguns?\n\n1.\n **Tetra Neon**: Com seu corpo brilhante e colorido, ele iluminaria o caminho pelo fundo do mar com muita alegria e diversão.\n\n\n2.\n **Peixe-palhaço**: Sempre divertido e acrobático, ajudaria nosso herói a se esconder dos perigos nas anêmonas.\n\n\n3.\n **Peixe-anjo**: Com suas belas e grandes barbatanas, seria o protetor valente do grupo, sempre de olho para manter todos em segurança.\n\n\n4.\n **Baiacu**: Ah, ele é engraçado quando se infla! Poderia ajudar o nosso herói a enfrentar situações complicadas com um toque de humor.\n\n\nCom esses amiguinhos por perto, a nossa aventura no fundo do mar seria incrível e super segura!",
+    "Tokens": 405,
+    "TimeStamp": "2024_05_14_11_46_50",
+    "Model": "gpt-4-turbo"
+}

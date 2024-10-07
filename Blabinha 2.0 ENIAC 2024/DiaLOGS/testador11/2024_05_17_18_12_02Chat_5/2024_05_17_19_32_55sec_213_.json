@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "2",
+    "falaGPT": "||Parabéns! A resposta está correta.\n A profundidade média da região da Amazônia Azul varia entre 500 e 1000 metros.\n Esta região abrange áreas extensas do Oceano Atlântico próximo ao litoral brasileiro.\n",
+    "Tokens": 283,
+    "TimeStamp": "2024_05_17_19_32_55",
+    "Model": "gpt-3.5-turbo"
+}

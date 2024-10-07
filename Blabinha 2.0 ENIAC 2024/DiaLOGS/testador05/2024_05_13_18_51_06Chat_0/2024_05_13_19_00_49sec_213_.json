@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 213,
+    "falaUser": "Tem tubarão na amazônia azul?",
+    "falaGPT": "||Você pode continuar perguntando ou se quiser, podemos encerrar a conversa.\n Como posso te ajudar agora?",
+    "Tokens": 82,
+    "TimeStamp": "2024_05_13_19_00_49",
+    "Model": "gpt-3.5-turbo"
+}

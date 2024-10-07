@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 210,
+    "falaUser": "Quais os tipos de profissionais trabalham na região da amazônia azul?",
+    "falaGPT": "||Claro, pode fazer mais perguntas! Estou aqui para responder.\n O que mais você gostaria de saber?",
+    "Tokens": 73,
+    "TimeStamp": "2024_05_17_08_30_30",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 211,
+    "falaUser": "o qué é o coral?",
+    "falaGPT": "||O coral é um organismo marinho que vive em colônias formadas por pequenos animais chamados pólipos.\n Eles constroem esqueletos calcários que formam recifes de coral, que são muito importantes para o ecossistema marinho, pois servem de abrigo e alimento para diversos seres vivos.\n Além disso, os corais contribuem para a proteção das costas contra erosão e ondas fortes.\n É muito legal observar os corais, pois eles têm cores maravilhosas e são cheios de vida! Os corais são uma parte muito importante da Amazônia Azul, que é toda essa região marinha do Brasil.\n",
+    "Tokens": 322,
+    "TimeStamp": "2024_05_15_01_09_08",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 344,
+    "falaUser": "Eu quero uma foca!",
+    "falaGPT": "||Sabe, o quarto atributo é a casa do herói! Como você imagina que seria a casa do herói? Seria uma casa grande ou pequena, colorida ou simples? Me conta como você acha que será!",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_15_10_28_40",
+    "Model": "gpt-3.5-turbo"
+}

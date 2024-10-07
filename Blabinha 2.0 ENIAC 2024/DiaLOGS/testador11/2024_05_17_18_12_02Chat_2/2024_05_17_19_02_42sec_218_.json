@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 218,
+    "falaUser": "qual animal da amazonia azul já é considerado extinto?",
+    "falaGPT": "||Uau, você falou tanto que chegamos no final da nossa conversa! Agora vamos criar juntos o herói, mas com uma pequena diferença: eu, como robô, preciso ler toda a nossa conversa com a ajuda de um script para avaliar e só então você poderá escrever algo.\n \n\nQuando estiver pronto para começar, escreva qualquer coisa!",
+    "Tokens": 219,
+    "TimeStamp": "2024_05_17_19_02_42",
+    "Model": "gpt-3.5-turbo"
+}

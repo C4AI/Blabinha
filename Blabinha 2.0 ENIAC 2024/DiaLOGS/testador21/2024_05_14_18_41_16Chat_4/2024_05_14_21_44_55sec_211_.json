@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 211,
+    "falaUser": "que animal tem nesse lugar?",
+    "falaGPT": "||Você pode fazer mais perguntas ou, se quiser, pode dizer que terminamos por hoje.\n Como você prefere?",
+    "Tokens": 82,
+    "TimeStamp": "2024_05_14_21_44_55",
+    "Model": "gpt-4-turbo"
+}

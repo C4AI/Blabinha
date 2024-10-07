@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 212,
+    "falaUser": "Quantos tipos de animais vivem na Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul! É como um grande parque aquático da natureza! Lá moram muitos animais diferentes, sabe? Tem baleias, golfinhos, tartarugas, várias espécies de peixes coloridos e até tubarões! Além disso, temos corais e também muitos tipos de aves marinhas que passeiam por lá.\n Não dá pra contar todos eles um por um, porque são realmente muitos amigos aquáticos! Imagina só que festa no oceano! 🌊🐟🐬||Agora vamos testar seu conhecimento! Prepare-se para uma questão sobre os animais que habitam a Amazônia Azul.\n Vamos ver o quanto você aprendeu sobre esta fascinante região marinha do Brasil.\n Fique atento e boa sorte!||Qual destes animais não é típico da Amazônia Azul?\n\n1) Baleia jubarte\n2) Urso polar\n3) Golfinho rotador\n4) Tartaruga-verde",
+    "Tokens": 811,
+    "TimeStamp": "2024_05_12_15_42_37",
+    "Model": "gpt-4-turbo"
+}

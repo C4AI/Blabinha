@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador16",
+    "secao": 212,
+    "falaUser": "O que é acidificação?",
+    "falaGPT": "||Você pode fazer mais perguntas ou pedir dicas se não souber algo.\n Estou aqui para ajudar!",
+    "Tokens": 87,
+    "TimeStamp": "2024_05_10_20_19_43",
+    "Model": "gpt-4-turbo"
+}

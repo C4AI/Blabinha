@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 214,
+    "falaUser": "Quem cuida da Amazônia Azul: os estados ou o governo federal?",
+    "falaGPT": "||A Amazônia Azul é uma área de responsabilidade do governo federal do Brasil, pois se trata de uma extensão marítima que envolve questões de defesa, proteção ambiental, economia e segurança do país como um todo.\n Assim, o governo federal é quem cuida dessa região tão importante para o Brasil, trabalhando em parceria com os estados costeiros e outros órgãos para garantir a preservação e o uso sustentável dos recursos da Amazônia Azul.\n É importante que todos estejam envolvidos nesse cuidado, pois essa região é muito especial e precisa ser protegida para as gerações futuras também poderem desfrutar de tudo que o mar oferece.\n||Agora vou fazer uma pergunta sobre a responsabilidade da Amazônia Azul: Quem é o responsável pela gestão e proteção da Amazônia Azul no Brasil, os estados ou o governo federal?||Quem é o principal responsável pela gestão da Amazônia Azul?\n1) Os Estados costeiros\n2) Organizações não governamentais\n3) O governo federal\n4) A comunidade internacional",
+    "Tokens": 917,
+    "TimeStamp": "2024_05_07_17_03_51",
+    "Model": "gpt-3.5-turbo"
+}

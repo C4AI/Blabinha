@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 211,
+    "falaUser": "criar herói",
+    "falaGPT": "||Desculpe, mas a criação de heróis não está relacionada com a Amazônia azul.\n Posso ajudar com algo relacionado a esse tema?||O usuário pode falar sobre a importância ambiental da Amazônia Azul, os recursos naturais presentes nessa região, a biodiversidade marinha que a habita e as atividades econômicas desenvolvidas, como a pesca e a exploração de petróleo.\n Além disso, pode também abordar questões relacionadas à preservação, proteção e a sustentabilidade da Amazônia Azul.\n",
+    "Tokens": 350,
+    "TimeStamp": "2024_05_17_19_30_55",
+    "Model": "gpt-3.5-turbo"
+}

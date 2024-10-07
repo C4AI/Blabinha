@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 215,
+    "falaUser": "Quem joga resíduos químicos na Amazônia Azul ?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser saber mais ou dizer \"terminar\" se sua pergunta foi respondida.\n",
+    "Tokens": 82,
+    "TimeStamp": "2024_05_13_19_57_45",
+    "Model": "gpt-3.5-turbo"
+}

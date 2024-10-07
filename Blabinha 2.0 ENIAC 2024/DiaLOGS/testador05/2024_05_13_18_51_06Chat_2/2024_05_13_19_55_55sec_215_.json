@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 215,
+    "falaUser": "1, 2 e 3",
+    "falaGPT": "||Parabéns! Você acertou! Na Amazônia Azul, podemos encontrar plásticos, lixo orgânico e resíduos químicos.\n Para ajudar a reduzir a sujeira e preservar o meio ambiente marinho, podemos adotar práticas como reciclagem, redução do uso de plásticos e conscientização sobre a importância da preservação.\n Continue assim!",
+    "Tokens": 401,
+    "TimeStamp": "2024_05_13_19_55_55",
+    "Model": "gpt-3.5-turbo"
+}

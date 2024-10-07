@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 211,
+    "falaUser": "Quais os principais animais da Amazônia Azul?",
+    "falaGPT": "||Na Amazônia Azul, podemos encontrar uma grande variedade de animais marinhos, como peixes, tartarugas marinhas, golfinhos, baleias, arraias, tubarões, polvos e muitos outros! Eles vivem em um ambiente marinho rico em biodiversidade, contribuindo para a beleza e importância desse ecossistema.\n Esses animais são fundamentais para manter o equilíbrio ecológico dos oceanos e são muito especiais de se observar!",
+    "Tokens": 296,
+    "TimeStamp": "2024_05_17_18_20_35",
+    "Model": "gpt-3.5-turbo"
+}

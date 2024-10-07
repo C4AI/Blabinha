@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 214,
+    "falaUser": "quais sao os animais de lá?",
+    "falaGPT": "||Na Amazônia Azul, que engloba o Mar Brasileiro, você pode encontrar uma grande diversidade de animais marinhos, como peixes coloridos, tubarões, golfinhos, tartarugas marinhas, baleias, polvos, moluscos, corais, arraias, entre muitos outros! Eles são importantes para manter o equilíbrio do ecossistema marinho e são incríveis de se observar.\n Legal, né? Se tiver mais curiosidades ou dúvidas sobre os animais da Amazônia Azul, é só perguntar!||Agora vou te fazer uma pergunta sobre os animais da Amazônia Azul: Qual é o principal papel dos animais marinhos na manutenção do ecossistema marinho? Pense um pouco e me responda!||Quais dos seguintes animais podem ser encontrados na Amazônia Azul?\n1) Tubarões\n2) Elefantes\n3) Macacos\n4) Girafas",
+    "Tokens": 806,
+    "TimeStamp": "2024_05_15_11_50_12",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 241,
+    "falaUser": "Quais estados fazem parte da Amazônia Azul?",
+    "falaGPT": "||A Amazônia Azul inclui estados costeiros como Amapá, Pará, Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe e Bahia, além de ilhas oceânicas como Fernando de Noronha e Trindade e Martim Vaz.\n||Incrível! Você caiu em um bônus! 🌊✨ Agora, imagine que um super-herói está protegendo o mar do Brasil.\n Qual ferramenta ele deve usar para garantir a preservação da Amazônia Azul? \n\n1) Um escudo feito de corais marinhos.\n\n2) Um tridente mágico que limpa a poluição dos oceanos.\n\n3) Um raio laser que combate a pesca ilegal.\n\n4) Uma cápsula que planta novas espécies de vida marinha.\n \n\nQual destas opções você escolheria para o super-herói usar? 😉🌊",
+    "Tokens": 616,
+    "TimeStamp": "2024_05_17_11_50_51",
+    "Model": "gpt-3.5-turbo"
+}

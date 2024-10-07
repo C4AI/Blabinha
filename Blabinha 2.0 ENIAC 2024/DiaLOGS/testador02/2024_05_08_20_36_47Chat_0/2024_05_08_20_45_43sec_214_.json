@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 214,
+    "falaUser": "a amazônia azul está sobre jurisdição brasileira?",
+    "falaGPT": "||Sim, a Amazônia Azul está sob jurisdição brasileira.\n Isso significa que o Brasil tem autoridade sobre essa região marítima, incluindo suas águas, solo e subsolo.\n É preciso proteger essa área para garantir a preservação da biodiversidade marinha e o uso sustentável dos recursos naturais.\n Juntos, podemos cuidar desse tesouro que é a Amazônia Azul! 🌊🐠🌿🇧🇷||Vamos testar seus conhecimentos sobre a Amazônia Azul! Qual é a extensão aproximada dessa área marítima sob jurisdição brasileira? 🌊🇧🇷||A quem cabe a jurisdição da região da Amazônia Azul?\n1) Brasil\n2) Estados Unidos\n3) França\n4) Chile",
+    "Tokens": 732,
+    "TimeStamp": "2024_05_08_20_45_43",
+    "Model": "gpt-3.5-turbo"
+}

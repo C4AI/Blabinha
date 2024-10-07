@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 110,
+    "falaUser": "criar herói",
+    "falaGPT": "||Desculpe, acho que houve um engano.\n Eu não entendi como devo te chamar.\n Poderia me dizer o seu nome ou como prefere ser chamado(a)? Ou você está querendo criar um herói fictício? Me explique um pouco mais para eu poder te ajudar!",
+    "Tokens": 161,
+    "TimeStamp": "2024_05_17_19_29_27",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "O que é um ecossistema?",
+    "falaGPT": "||Desculpe, houve um erro de interpretação.\n Um ecossistema é um sistema formado pela interação entre seres vivos (plantas, animais, microorganismos) e o ambiente em que vivem (ar, água, solo).\n É como uma comunidade onde todos os seres vivos e elementos não-vivos se relacionam e dependem uns dos outros para sobreviver.\n É como uma grande família da natureza, onde cada parte desempenha um papel importante para manter o equilíbrio e a harmonia.\n Por exemplo, na floresta, as árvores, animais, pássaros, insetos e até mesmo os rios e o clima fazem parte de um mesmo ecossistema.\n É muito legal observar como todas essas coisas se conectam e se ajudam!",
+    "Tokens": 355,
+    "TimeStamp": "2024_05_11_11_05_25",
+    "Model": "gpt-3.5-turbo"
+}

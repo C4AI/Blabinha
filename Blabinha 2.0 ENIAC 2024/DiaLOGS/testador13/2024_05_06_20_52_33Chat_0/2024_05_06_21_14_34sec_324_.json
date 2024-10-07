@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 324,
+    "falaUser": "Gostaria que o herói utilizasse um escudo e tivesse uma roupa verde",
+    "falaGPT": "||Que legal pensar sobre o herói que estamos criando! Agora, vamos decidir sobre a capa dele.\n Como você imagina que deveria ser a capa do nosso herói? Você prefere algo longo e esvoaçante, ou curto e prático? E de que cor você gostaria que fosse?",
+    "Tokens": 130,
+    "TimeStamp": "2024_05_06_21_14_34",
+    "Model": "gpt-4-turbo"
+}

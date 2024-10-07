@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 216,
+    "falaUser": "Quando que a batata ruffles foi criada?",
+    "falaGPT": "||Você pode fazer mais perguntas! Se eu não souber a resposta, posso te dar dicas para descobrirmos juntos.\n",
+    "Tokens": 93,
+    "TimeStamp": "2024_05_15_11_01_04",
+    "Model": "gpt-3.5-turbo"
+}

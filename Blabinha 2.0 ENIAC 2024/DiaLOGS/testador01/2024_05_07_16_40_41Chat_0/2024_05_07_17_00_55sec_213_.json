@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "Que pergunta posso fazer?",
+    "falaGPT": "||Claro! A Amazônia Azul é uma região marinha de extrema importância para o Brasil, com uma rica biodiversidade e recursos naturais.\n Alguns assuntos relacionados à Amazônia Azul que podemos explorar são:\n\n1.\n Preservação ambiental e sustentabilidade na Amazônia Azul.\n\n2.\n Exploração e uso sustentável dos recursos marinhos na região.\n\n3.\n Importância da Amazônia Azul para a economia e segurança nacional.\n\n4.\n Pesquisas científicas e descobertas na Amazônia Azul.\n\n\nEsses são apenas alguns temas interessantes que envolvem a Amazônia Azul.\n Se precisar de mais informações sobre algum desses assuntos ou outros temas relacionados, fique à vontade para perguntar!",
+    "Tokens": 310,
+    "TimeStamp": "2024_05_07_17_00_55",
+    "Model": "gpt-3.5-turbo"
+}

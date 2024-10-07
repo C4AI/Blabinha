@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 215,
+    "falaUser": "O oceano na amazonia azul é calmo?",
+    "falaGPT": "||Pode perguntar mais, mas lembre-se de falar sobre a Amazônia Azul também!",
+    "Tokens": 93,
+    "TimeStamp": "2024_05_07_17_53_07",
+    "Model": "gpt-4-turbo"
+}

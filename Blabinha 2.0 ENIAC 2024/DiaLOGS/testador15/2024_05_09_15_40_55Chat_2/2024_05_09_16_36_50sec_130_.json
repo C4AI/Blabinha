@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 130,
+    "falaUser": "Sim",
+    "falaGPT": "||O desafio tem até 7 turnos.\n Somente as perguntas sobre a Amazônia Azul que a Blabinha reconhecer serão contadas como turnos.\n Você (criança) pode solicitar dicas sobre temas relacionados à Amazônia Azul.\n Também pode pedir para encerrar o jogo ou solicitar a criação do herói a qualquer momento da interação.\n Esses três últimos pedidos não contam como turnos.\n||Estas são as regras do desafio.\n Entendeu tudo direitinho ou tem alguma dúvida sobre como vamos jogar?",
+    "Tokens": 509,
+    "TimeStamp": "2024_05_09_16_36_50",
+    "Model": "gpt-4-turbo"
+}

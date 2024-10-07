@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 217,
+    "falaUser": "o que é pesca predatória?",
+    "falaGPT": "||Você quer fazer mais perguntas ou podemos encerrar por aqui? Estou aqui para te ajudar!",
+    "Tokens": 77,
+    "TimeStamp": "2024_05_13_19_28_13",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 130,
+    "falaUser": "nao quero criar um herói",
+    "falaGPT": "||Tem certeza que não quer criar um herói baseado na Amazônia Azul? Posso te ajudar com outras coisas se preferir.\n",
+    "Tokens": 206,
+    "TimeStamp": "2024_05_15_11_58_36",
+    "Model": "gpt-3.5-turbo"
+}

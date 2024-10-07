@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 217,
+    "falaUser": "Qual o tamanho da Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é bem grande, sabia? Ela tem cerca de 4,5 milhões de quilômetros quadrados! É como um grande pedaço do oceano que pertence ao Brasil, cheio de peixinhos, plantinhas e muitos segredos do mar para explorar!",
+    "Tokens": 246,
+    "TimeStamp": "2024_05_15_06_24_18",
+    "Model": "gpt-4-turbo"
+}

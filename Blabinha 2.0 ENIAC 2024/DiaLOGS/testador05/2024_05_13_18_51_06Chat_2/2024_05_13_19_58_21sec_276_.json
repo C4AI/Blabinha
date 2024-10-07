@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 276,
+    "falaUser": "você já disse outras vezes",
+    "falaGPT": "||Tudo bem, se você não quiser continuar criando o herói, está tudo bem.\n Vamos encerrar o desafio por aqui.\n Se quiser conversar sobre outra coisa no futuro, é só abrir um novo chat.\n Até mais!",
+    "Tokens": 186,
+    "TimeStamp": "2024_05_13_19_58_21",
+    "Model": "gpt-3.5-turbo"
+}

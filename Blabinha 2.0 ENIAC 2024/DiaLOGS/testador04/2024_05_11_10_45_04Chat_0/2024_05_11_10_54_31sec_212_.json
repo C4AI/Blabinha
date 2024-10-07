@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 212,
+    "falaUser": "Existem animais em perigo de extinção na amazônia azul?",
+    "falaGPT": "||Na Amazônia Azul, que engloba as águas oceânicas próximas ao Brasil, também encontramos animais em perigo de extinção.\n Algumas espécies marinhas, como o peixe-boi, a tartaruga marinha e o boto-cor-de-rosa, enfrentam ameaças como pesca predatória, poluição e perda de habitat.\n Por isso, é importante proteger esses animais e seus ambientes marinhos, para que possam continuar vivendo de maneira saudável e equilibrada.\n Vamos cuidar dos nossos oceanos para garantir a preservação dessas espécies especiais na Amazônia Azul!||Agora, vou te perguntar: Quais são as principais ameaças que colocam em perigo de extinção os animais na Amazônia Azul?||Quais são algumas das ameaças enfrentadas pelos animais em perigo de extinção na Amazônia Azul?\n1) Pesca predatória\n2) Desmatamento\n3) Tráfico de animais silvestres\n4) Mudanças climáticas",
+    "Tokens": 899,
+    "TimeStamp": "2024_05_11_10_54_31",
+    "Model": "gpt-3.5-turbo"
+}

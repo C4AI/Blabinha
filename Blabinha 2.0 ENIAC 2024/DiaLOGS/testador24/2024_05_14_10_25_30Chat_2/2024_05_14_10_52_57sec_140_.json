@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 140,
+    "falaUser": "Eu gostaria de ouvir uma história",
+    "falaGPT": "||Claro! Vamos criar uma aventura juntos? Imagine um lugar mágico, com um castelo enorme e uma floresta ao redor.\n Lá mora uma princesa chamada Elara, que tem o poder de falar com os animais.\n Um dia, ela descobre um mapa antigo na biblioteca do castelo, que mostra o caminho para um tesouro escondido na floresta encantada.\n Elara decide partir em uma jornada para encontrar o tesouro, mas ela precisa de um amigo corajoso para ajudá-la.\n Que tal você se juntar a ela nessa aventura? Você aceita o desafio de ajudar a Princesa Elara?",
+    "Tokens": 264,
+    "TimeStamp": "2024_05_14_10_52_57",
+    "Model": "gpt-4-turbo"
+}

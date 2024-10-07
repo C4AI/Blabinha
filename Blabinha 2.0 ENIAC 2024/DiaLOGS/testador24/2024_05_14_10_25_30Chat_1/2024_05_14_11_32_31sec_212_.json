@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 212,
+    "falaUser": "Tem muitas pedra preciosas?",
+    "falaGPT": "||Ah, então você quer saber sobre pedras preciosas? Na Amazônia Azul mesmo, não encontramos muitas pedras preciosas, pois elas são geralmente encontradas em terra, nas minas! Mas sabia que o mar esconde muitos tesouros como corais, pérolas e até mesmo tesouros de navios antigos? Não é bem uma pedra preciosa, mas são verdadeiros tesouros do mar! O mar é mágico, né? 🌊✨||Agora vou fazer uma pergunta sobre o que discutimos.\n Preparado?||Qual das seguintes opções é considerada um tesouro do mar, frequentemente encontrado em águas oceânicas e valorizado na joalheria?\n\n1) Diamante\n2) Rubi\n3) Pérola\n4) Quartzo",
+    "Tokens": 700,
+    "TimeStamp": "2024_05_14_11_32_31",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 214,
+    "falaUser": "Legislação",
+    "falaGPT": "||Claro! Se tiver alguma dúvida sobre a Amazônia Azul ou quiser saber mais informações, pode perguntar que estou aqui para ajudar! Qual é a sua pergunta?||Ótimo! Vou te fazer uma pergunta sobre a legislação relacionada à Amazônia Azul.\n Aguarde um momento, por favor.\n||Qual órgão é responsável por regulamentar as atividades na Amazônia Azul?\n1) IBAMA\n2) Marinha do Brasil\n3) Ministério do Meio Ambiente\n4) ANP",
+    "Tokens": 499,
+    "TimeStamp": "2024_05_17_18_38_49",
+    "Model": "gpt-3.5-turbo"
+}

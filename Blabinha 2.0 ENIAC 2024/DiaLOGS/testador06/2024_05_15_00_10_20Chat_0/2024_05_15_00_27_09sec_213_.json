@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 213,
+    "falaUser": "quão grande é a amazonia azul?",
+    "falaGPT": "||A Amazônia Azul é uma área muito grande, que compreende a superfície do mar do Brasil e seus recursos naturais.\n Ela se estende por uma vasta região do Oceano Atlântico, sendo essencial para a biodiversidade marinha e para a economia do país.\n É como se fosse uma floresta debaixo d'água, cheia de vida e beleza, e precisamos cuidar dela com muito carinho.\n Espero que isso tenha te ajudado a entender melhor!",
+    "Tokens": 290,
+    "TimeStamp": "2024_05_15_00_27_09",
+    "Model": "gpt-3.5-turbo"
+}

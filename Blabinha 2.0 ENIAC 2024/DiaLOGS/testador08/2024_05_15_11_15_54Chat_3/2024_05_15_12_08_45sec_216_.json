@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 216,
+    "falaUser": "o que mais tem na amazonia azul que meu super heroi pode gostar?",
+    "falaGPT": "||Na Amazônia Azul, seu super-herói pode encontrar um monte de coisas legais! Lá ele pode descobrir animais marinhos incríveis, como golfinhos, tubarões, tartarugas e peixes coloridos.\n Além disso, há muitas plantas aquáticas, como algas e corais, que são essenciais para a vida marinha.\n Seu super-herói também pode se encantar com as paisagens subaquáticas e os mistérios que o oceano guarda.\n E não podemos esquecer dos navios naufragados e tesouros perdidos que podem despertar a curiosidade e a aventura do seu herói.\n Com certeza, ele vai adorar explorar a Amazônia Azul e descobrir tudo que esse mundo submarino tem a oferecer!||Agora, vou propor uma pergunta sobre a Amazônia Azul: Qual animal marinho emblemático da região é conhecido por sua inteligência e capacidade de interação com humanos? Aguarde a resposta para testar seus conhecimentos sobre esse fascinante ecossistema submarino.\n||Qual tipo de animais marinhos seu super-herói pode encontrar na Amazônia Azul?\n1) Golfinhos\n2) Zebra\n3) Girafa\n4) Elefante",
+    "Tokens": 1009,
+    "TimeStamp": "2024_05_15_12_08_45",
+    "Model": "gpt-3.5-turbo"
+}

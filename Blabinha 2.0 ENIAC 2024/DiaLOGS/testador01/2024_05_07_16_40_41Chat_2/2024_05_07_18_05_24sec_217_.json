@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 217,
+    "falaUser": "o mosquito-marinho.",
+    "falaGPT": "||Parabéns! A resposta está correta.\n O mosquito-marinho é um exemplo de inseto aquático que pode ser encontrado na Amazônia Azul.\n Esse inseto se reproduz na água do mar e desempenha um papel importante no ecossistema marinho.\n",
+    "Tokens": 391,
+    "TimeStamp": "2024_05_07_18_05_24",
+    "Model": "gpt-3.5-turbo"
+}

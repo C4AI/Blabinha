@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 324,
+    "falaUser": "Ele vai usar óculos, e terno",
+    "falaGPT": "||Olá! O segundo atributo do seu super-herói é a capa.\n Como você gostaria que fosse a capa do seu herói? Bem longa e esvoaçante, ou mais curta e prática?",
+    "Tokens": 111,
+    "TimeStamp": "2024_05_17_19_38_23",
+    "Model": "gpt-3.5-turbo"
+}

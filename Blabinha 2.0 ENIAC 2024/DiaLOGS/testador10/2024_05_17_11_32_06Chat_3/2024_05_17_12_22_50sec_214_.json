@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 214,
+    "falaUser": "Qual a latitude da Amazônia Azul?",
+    "falaGPT": "||Desculpe, mas a \"Amazônia Azul\" não possui uma latitude específica, pois se refere à extensão da área marítima do Brasil no Oceano Atlântico.\n Ela se estende desde o litoral brasileiro até os limites da plataforma continental, englobando uma vasta área de mar e recursos marinhos.\n É um termo utilizado para ressaltar a importância e extensão da zona econômica exclusiva do Brasil no mar.\n Espero que tenha entendido! 😊\n\n||Agora vou te fazer uma pergunta sobre a Amazônia Azul! Qual é a importância da Amazônia Azul para o Brasil e qual a relação dela com a preservação ambiental? 🌊🇧🇷||Qual é a extensão da Amazônia Azul em relação à zona econômica exclusiva do Brasil?\n\n1) 200 milhas náuticas\n2) 300 milhas náuticas\n3) 400 milhas náuticas\n4) 500 milhas náuticas",
+    "Tokens": 778,
+    "TimeStamp": "2024_05_17_12_22_50",
+    "Model": "gpt-3.5-turbo"
+}

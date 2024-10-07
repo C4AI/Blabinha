@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 212,
+    "falaUser": "quero saber quais plantas marinhas existem na amazonia azul",
+    "falaGPT": "||Na região da Amazônia Azul, podemos encontrar diversas plantas marinhas, como o mero, o peixe-boi, algas, corais e muitas outras espécies aquáticas.\n Essas plantas desempenham um papel importante no ecossistema marinho, fornecendo abrigo e alimento para diversos animais marinhos.\n É incrível como a natureza se manifesta de maneira diversa e bela também nos oceanos, não é mesmo? Espero que tenha gostado de conhecer um pouco mais sobre as plantas marinhas da Amazônia Azul.\n Se tiver mais alguma dúvida, é só perguntar!||Claro! Vou te fazer uma pergunta sobre as plantas marinhas da Amazônia Azul.\n Está preparado?||Quais tipos de plantas marinhas podem ser encontradas na região da Amazônia Azul?\n1) Algas\n2) Corais\n3) Palmeiras\n4) Cactos",
+    "Tokens": 839,
+    "TimeStamp": "2024_05_11_12_12_21",
+    "Model": "gpt-3.5-turbo"
+}

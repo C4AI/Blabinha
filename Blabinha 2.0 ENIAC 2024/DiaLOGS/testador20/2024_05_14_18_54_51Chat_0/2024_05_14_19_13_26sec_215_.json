@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 215,
+    "falaUser": "Pode me falar mais sobre a flora da Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é um lugar cheio de mistérios e belezas debaixo d'água! Não temos tantas plantas como na floresta Amazônica, sabe? Mas temos muitas algas e corais coloridos que formam verdadeiros jardins submarinos.\n As algas são como as plantas da terra, mas vivem no mar e ajudam a produzir oxigênio para nós.\n E os corais, ah, eles são como as casinhas de muitos peixinhos e outros seres marinhos.\n Eles ajudam a proteger a costinha e são super importantes para o ambiente marinho! Imagina só que mundo azul e lindo eles formam lá embaixo!",
+    "Tokens": 347,
+    "TimeStamp": "2024_05_14_19_13_26",
+    "Model": "gpt-4-turbo"
+}

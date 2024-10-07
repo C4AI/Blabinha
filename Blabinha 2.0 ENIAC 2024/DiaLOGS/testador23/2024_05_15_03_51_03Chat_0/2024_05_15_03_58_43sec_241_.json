@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 241,
+    "falaUser": "O que são barreiras acústicas?",
+    "falaGPT": "||As barreiras acústicas são estruturas ou dispositivos projetados para reduzir a poluição sonora em ambientes aquáticos.\n Elas ajudam a proteger a vida marinha, especialmente mamíferos marinhos como baleias e golfinhos, que são sensíveis a ruídos.\n Estas barreiras podem ser flutuantes ou submersas e atuam absorvendo, refletindo ou dispersando o som.\n",
+    "Tokens": 355,
+    "TimeStamp": "2024_05_15_03_58_43",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 215,
+    "falaUser": "quais baleias tem na amazonia azul?",
+    "falaGPT": "||Desculpe, mas a Amazônia azul se refere à área marítima brasileira além da costa e não é habitat de baleias.\n||Sim, exatamente! Quando falar sobre a Amazônia Azul, você pode abordar diversos assuntos relacionados ao Mar Brasileiro, como a biodiversidade marinha presente nessa região, os ecossistemas marinhos únicos, as atividades econômicas desenvolvidas, como a pesca e a exploração de recursos minerais, a importância da conservação marinha e as iniciativas de proteção e preservação ambiental.\n Além disso, é possível também mencionar a importância estratégica da Amazônia Azul para a defesa nacional e a soberania do Brasil sobre essa extensão marítima.\n",
+    "Tokens": 402,
+    "TimeStamp": "2024_05_09_00_04_21",
+    "Model": "gpt-3.5-turbo"
+}

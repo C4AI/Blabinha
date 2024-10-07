@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 211,
+    "falaUser": "Qual é a importância de conservar a flora?\n\n",
+    "falaGPT": "||Claro, pode perguntar mais! Mas lembre-se, vamos falar também sobre a Amazônia Azul, tá bom?",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_12_15_07_26",
+    "Model": "gpt-4-turbo"
+}

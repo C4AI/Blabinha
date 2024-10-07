@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 214,
+    "falaUser": "Quais as espécies mais ameaçadas de extinção na região da Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul! Imagine um grande tesouro azul cheio de bichinhos marinhos incríveis! Mas, oh, alguns estão em grande perigo! Entre as espécies mais ameaçadas por lá, temos a tartaruga-de-couro, que é super especial porque é a maior tartaruga marinha do mundo! Ela adora viajar pelos oceanos, mas está correndo risco porque algumas pessoas levam seus ovos ou a capturam.\n Também temos o peixe-boi-marinho, que é um pouco tímido e adora ficar nos lugares calmos e quentes da Amazônia Azul, mas está em perigo porque seu lar está sendo destruído.\n E não podemos esquecer do albatroz-de-tristão, um pássaro enorme que voa super longe, mas enfrenta problemas por causa da pesca.\n É importante ajudarmos a cuidar desses amigos para que não desapareçam do nosso lindo mar azul!||Agora, vamos testar seus conhecimentos sobre a Amazônia Azul! Prepare-se para uma questão relacionada às espécies ameaçadas dessa região, abordando o impacto das atividades humanas.\n Isso vai ajudar a entender melhor os desafios enfrentados por nossos amigos marinhos.\n Pronto? Vamos lá!||Qual das seguintes espécies encontradas na Amazônia Azul é conhecida por ser a maior tartaruga marinha do mundo e está em risco de extinção?\n\n1) Tartaruga-verde\n2) Tartaruga-de-couro\n3) Tartaruga-de-pente\n4) Tartaruga-oliva",
+    "Tokens": 1187,
+    "TimeStamp": "2024_05_17_21_48_14",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 217,
+    "falaUser": "Quais são as responsabilidades das pessoas que moram na região costeira em relação à Amazônia Azul?",
+    "falaGPT": "||As pessoas que moram na região costeira têm a responsabilidade de cuidar da Amazônia Azul, que é como um jardim debaixo do mar.\n Devemos proteger os animais marinhos, não jogar lixo no mar, não pescar em excesso e respeitar as leis ambientais para garantir que a vida marinha seja preservada.\n Também é importante cuidar das praias, dos recifes de coral e dos manguezais, que são como casas para muitos animais marinhos.\n Todos podemos ajudar a cuidar da Amazônia Azul, mesmo que moramos longe do mar, fazendo nossa parte para garantir que esse ambiente marinho continue saudável e cheio de vida.\n Vamos juntos proteger a natureza! 🌊🐠🐬🦀",
+    "Tokens": 381,
+    "TimeStamp": "2024_05_07_18_06_47",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 213,
+    "falaUser": "1",
+    "falaGPT": "||A resposta está incorreta.\n O recurso correto seria o sal-gema.\n Este mineral é formado pela evaporação de águas salgadas em mares ou lagos e é encontrado na Amazônia Azul, sendo relevante para diversas indústrias.\n",
+    "Tokens": 379,
+    "TimeStamp": "2024_05_14_11_40_51",
+    "Model": "gpt-4-turbo"
+}

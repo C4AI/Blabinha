@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 215,
+    "falaUser": "3",
+    "falaGPT": "||Parabéns, a resposta está correta!\nA arara não faz parte da fauna da Amazônia Azul, ela é uma espécie de ave encontrada na região amazônica terrestre, não no ambiente marinho.\n Os golfinhos, tubarões e baleias são animais marinhos presentes na Amazônia Azul.\n",
+    "Tokens": 423,
+    "TimeStamp": "2024_05_15_10_59_30",
+    "Model": "gpt-3.5-turbo"
+}

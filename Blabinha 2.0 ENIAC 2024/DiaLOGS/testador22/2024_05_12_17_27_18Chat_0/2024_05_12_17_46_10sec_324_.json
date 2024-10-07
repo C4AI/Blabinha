@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador22",
+    "secao": 324,
+    "falaUser": "uma capa azul",
+    "falaGPT": "||Que legal escolher os detalhes do herói! O segundo atributo é a capa.\n Como você quer que seja a capa do herói? Pode escolher a cor, o tamanho e se tem algum detalhe especial!",
+    "Tokens": 108,
+    "TimeStamp": "2024_05_12_17_46_10",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 217,
+    "falaUser": "A número 2 está certa",
+    "falaGPT": "||Isso mesmo, a resposta correta é a número 2! A Amazônia Azul é uma região oceânica que protege os recursos naturais marinhos do Brasil, essencial para a sua segurança nacional.\n Parabéns pela resposta correta!",
+    "Tokens": 566,
+    "TimeStamp": "2024_05_14_19_55_43",
+    "Model": "gpt-4-turbo"
+}

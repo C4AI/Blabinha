@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "quais as espécies de baleias que tem na amazonia azul?",
+    "falaGPT": "||As baleias não habitam a Amazônia azul, pois a região se refere à área marítima brasileira extensa, rica em biodiversidade marinha e recursos naturais.\n||O usuário pode abordar diversos assuntos relacionados à Amazônia Azul, como a preservação da biodiversidade marinha, a exploração sustentável dos recursos naturais, a importância da pesquisa científica para o desenvolvimento da região e a proteção ambiental dos ecossistemas marinhos.\n Além disso, ele pode discutir sobre a influência da Amazônia Azul na economia do país, a navegação e a segurança marítima, a exploração de petróleo e gás natural no leito marinho, entre outros temas relevantes.\n Esse vasto território marítimo brasileiro oferece inúmeras possibilidades de estudo e ação em prol do uso sustentável e da conservação dos recursos naturais presentes na região.\n",
+    "Tokens": 453,
+    "TimeStamp": "2024_05_17_18_57_00",
+    "Model": "gpt-3.5-turbo"
+}

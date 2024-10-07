@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 210,
+    "falaUser": "quantos golfinhos tem na Amazônia Azul?",
+    "falaGPT": "||A Amazônia Azul se refere à extensão marítima do Brasil, onde não há presença de golfinhos de água doce.\n||O usuário pode falar sobre a importância da Amazônia Azul para a biodiversidade marinha, a preservação dos ecossistemas marinhos, a exploração sustentável dos recursos naturais, e a proteção da soberania nacional.\n Além disso, temas como as espécies marinhas presentes na região, as oportunidades para o desenvolvimento econômico através da exploração dos recursos marinhos, a importância da pesquisa científica no ambiente marinho e as questões relacionadas à conservação e sustentabilidade dos oceanos também são assuntos relevantes sobre a Amazônia Azul.\n",
+    "Tokens": 397,
+    "TimeStamp": "2024_05_17_19_12_06",
+    "Model": "gpt-3.5-turbo"
+}

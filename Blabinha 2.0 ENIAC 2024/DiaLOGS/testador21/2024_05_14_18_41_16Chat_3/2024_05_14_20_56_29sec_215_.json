@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 215,
+    "falaUser": "numero 3!",
+    "falaGPT": "||Isso mesmo! A resposta correta é a número 3.\n A Amazônia Azul é crucial para a economia devido às suas reservas de petróleo e gás natural, que são importantes recursos energéticos para o Brasil.\n Parabéns pela resposta certa!",
+    "Tokens": 448,
+    "TimeStamp": "2024_05_14_20_56_29",
+    "Model": "gpt-4-turbo"
+}

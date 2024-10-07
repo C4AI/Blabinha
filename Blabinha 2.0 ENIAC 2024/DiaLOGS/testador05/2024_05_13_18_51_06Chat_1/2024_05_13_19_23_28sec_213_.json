@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 213,
+    "falaUser": "o que os peixes da amazônia azul comem?",
+    "falaGPT": "||Oi! Se quiser, pode fazer mais perguntas.\n Se precisar de dicas ou não souber algo, é só me falar.\n Estou aqui para ajudar!",
+    "Tokens": 100,
+    "TimeStamp": "2024_05_13_19_23_28",
+    "Model": "gpt-3.5-turbo"
+}

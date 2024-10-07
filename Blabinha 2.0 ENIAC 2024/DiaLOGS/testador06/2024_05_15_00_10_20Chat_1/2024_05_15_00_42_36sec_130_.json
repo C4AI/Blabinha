@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 130,
+    "falaUser": "sim",
+    "falaGPT": "||Neste desafio, teremos no máximo 7 turnos.\n Durante esses turnos, a criança pode fazer perguntas sobre a Amazônia Azul para criar heróis mais fortes.\n Além disso, você também pode pedir dicas, pedir para terminar o jogo ou pedir para criar o herói em algum momento da interação.\n Lembre-se que esses três casos finais não contam como turno.\n Vamos começar! O que você quer saber sobre a Amazônia Azul?||Você entendeu as regras do desafio? Se precisar de alguma ajuda ou tiver alguma dúvida, por favor, me avise!",
+    "Tokens": 538,
+    "TimeStamp": "2024_05_15_00_42_36",
+    "Model": "gpt-3.5-turbo"
+}

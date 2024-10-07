@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "Qual a vegetação da AA?",
+    "falaGPT": "||Na Amazônia Azul, a vegetação predominante é a vida marinha, como algas marinhas, corais, plantas aquáticas e outras espécies que habitam o ambiente marinho.\n Também podemos encontrar manguezais e áreas de restinga próximas à costa, que abrigam uma grande diversidade de plantas adaptadas às condições de solo salino e úmido.\n A biodiversidade marinha da Amazônia Azul é rica e variada, com milhares de espécies diferentes que garantem a saúde e equilíbrio do ecossistema marinho.\n",
+    "Tokens": 304,
+    "TimeStamp": "2024_05_17_19_18_02",
+    "Model": "gpt-3.5-turbo"
+}

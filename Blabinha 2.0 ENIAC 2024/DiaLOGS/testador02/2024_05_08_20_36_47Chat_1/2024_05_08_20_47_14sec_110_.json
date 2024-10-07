@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 110,
+    "falaUser": "Pode me chamar de Testador02",
+    "falaGPT": "||Olá, Testador02! Que legal conversar com você! Já ouviu falar sobre a Amazônia Azul? É uma área marítima de grande importância para o Brasil.\n",
+    "Tokens": 173,
+    "TimeStamp": "2024_05_08_20_47_14",
+    "Model": "gpt-3.5-turbo"
+}

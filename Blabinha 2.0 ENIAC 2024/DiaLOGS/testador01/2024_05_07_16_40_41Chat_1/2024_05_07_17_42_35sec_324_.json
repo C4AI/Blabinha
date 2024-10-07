@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 324,
+    "falaUser": "Gostaria que tivesse espinhos igual um ouriço-do-mar",
+    "falaGPT": "||Que legal! O segundo atributo do herói é a capa.\n Como você gostaria que fosse a capa do herói? Comprida, curta, colorida, com estampas? Me conte como seria a capa dos seus sonhos para o herói!",
+    "Tokens": 120,
+    "TimeStamp": "2024_05_07_17_42_35",
+    "Model": "gpt-3.5-turbo"
+}

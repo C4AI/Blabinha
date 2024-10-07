@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "pode nadar lá? tem que pagar pra entrar?",
+    "falaGPT": "||Na Amazônia Azul, você pode nadar em algumas áreas, dependendo das regras de uso e da preservação ambiental.\n Geralmente, é recomendado ter cuidado com a vida marinha e respeitar as normas locais para proteger a natureza.\n Não é necessário pagar para nadar na Amazônia Azul, mas é importante estar ciente das taxas ou regulamentos de entrada em áreas protegidas ou reservas naturais na região.\n Sempre é bom pesquisar e se informar antes de visitar esses locais para garantir uma experiência segura e sustentável.\n Brincar e explorar o mar é muito divertido, mas também precisamos cuidar dele para que as futuras gerações também possam desfrutar dessa beleza natural!",
+    "Tokens": 350,
+    "TimeStamp": "2024_05_15_12_08_16",
+    "Model": "gpt-3.5-turbo"
+}

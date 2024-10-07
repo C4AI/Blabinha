@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "A região tem um animal símbolo?",
+    "falaGPT": "||Você pode fazer mais perguntas! Mas não se esqueça de falarmos sobre a Amazônia Azul, combinado? Vamos explorar juntos!",
+    "Tokens": 104,
+    "TimeStamp": "2024_05_17_19_33_23",
+    "Model": "gpt-3.5-turbo"
+}

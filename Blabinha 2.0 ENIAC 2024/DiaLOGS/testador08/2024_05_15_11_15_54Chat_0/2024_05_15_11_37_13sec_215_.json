@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "quais tipos de animais tem lá?",
+    "falaGPT": "||Você pode me fazer mais perguntas se quiser! 😉",
+    "Tokens": 61,
+    "TimeStamp": "2024_05_15_11_37_13",
+    "Model": "gpt-3.5-turbo"
+}

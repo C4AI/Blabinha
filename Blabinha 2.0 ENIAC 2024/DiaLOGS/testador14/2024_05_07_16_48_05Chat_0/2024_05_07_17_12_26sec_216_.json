@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 216,
+    "falaUser": "que tecnologias eles usam para explorar a amazonia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é um lugar gigante e misterioso, como um oceano de segredos! Para explorar esse espaço enorme, os cientistas usam algumas tecnologias super legais! Eles têm navios especiais que navegam pelas águas, e esses navios têm equipamentos que conseguem ver o que está debaixo d'água.\n Eles usam sonares, que são como um eco que manda som e ouve o retorno para saber onde estão as coisas no mar.\n\n\nTambém usam robôs submarinos que podem mergulhar bem fundo, onde até a luz do sol não chega! Esses robôzinhos podem tirar fotos, coletar pedacinhos do fundo do mar e até pegar água para ver o que tem nela.\n\n\nE satélites lá no céu também ajudam, viu? Eles olham para o mar de cima e podem mostrar onde estão ilhas, recifes e até ajudar a ver se o mar está saudável ou não.\n É tudo muito interessante e ajuda a cuidar do nosso grandão azul!||Vou fazer uma pergunta relacionada ao tema que discutimos.\n Isso vai ajudar a testar seu entendimento sobre as tecnologias usadas para explorar a Amazônia Azul.\n Preparado? Vamos lá!||Qual das seguintes tecnologias NÃO é comumente utilizada para a exploração da Amazônia Azul?\n\n1) Robôs submarinos automatizados\n2) Satélites de observação terrestre\n3) Lasers de detecção aérea\n4) Sonares de mapeamento submarino",
+    "Tokens": 1205,
+    "TimeStamp": "2024_05_07_17_12_26",
+    "Model": "gpt-4-turbo"
+}

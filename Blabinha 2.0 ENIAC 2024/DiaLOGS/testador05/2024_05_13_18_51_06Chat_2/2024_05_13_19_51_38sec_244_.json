@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 244,
+    "falaUser": "Tem petróleo na Amazônia Azul ?",
+    "falaGPT": "||Na Amazônia Azul não há petróleo, pois essa região é composta principalmente por água do mar, solo marinho e vida marinha.\n O petróleo é encontrado em áreas terrestres ou em plataformas de exploração marítima em locais específicos, não fazendo parte naturalmente da região da Amazônia Azul.\n É muito importante cuidar e preservar a Amazônia Azul para proteger a vida marinha e garantir a sustentabilidade desse ecossistema incrível.\n Vamos cuidar do nosso planeta e manter a natureza saudável e equilibrada!||Uau! Parece que você caiu em um bônus! Vamos lá: que ferramenta você acha que nosso super-herói vai usar para proteger o mar do Brasil? \n1) Um escudo mágico que repele a poluição marinha.\n\n2) Um raio laser que limpa os resíduos do oceano.\n\n3) Uma rede de proteção que impede a pesca ilegal.\n\n4) Um dispositivo de monitoramento que detecta vazamentos de petróleo.\n\nEscolha a opção que mais te inspira e vamos juntos proteger a natureza e os oceanos do nosso país! 🌊✨",
+    "Tokens": 732,
+    "TimeStamp": "2024_05_13_19_51_38",
+    "Model": "gpt-3.5-turbo"
+}

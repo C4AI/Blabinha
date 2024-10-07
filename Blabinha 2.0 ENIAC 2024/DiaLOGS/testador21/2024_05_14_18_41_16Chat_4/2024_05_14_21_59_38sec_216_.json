@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 216,
+    "falaUser": "o que são recursos naturais na amazonia azul?",
+    "falaGPT": "||Ah, os recursos naturais na Amazônia Azul são coisas incríveis que encontramos no nosso oceano, perto do Brasil! Imagina só: temos muitos peixinhos, corais coloridos e também petróleo e gás natural que estão escondidos debaixo do mar.\n Além disso, tem areia e sal.\n É como um tesouro escondido que ajuda as pessoas de muitas maneiras diferentes!||Vou preparar uma questão sobre os recursos naturais encontrados na Amazônia Azul para testar seu conhecimento sobre o que acabamos de discutir.\n Está pronto para o desafio?||Qual dos seguintes recursos não é considerado um recurso natural típico encontrado na Amazônia Azul?\n\n1) Petróleo\n2) Gás natural\n3) Diamantes\n4) Sal marinho",
+    "Tokens": 695,
+    "TimeStamp": "2024_05_14_21_59_38",
+    "Model": "gpt-4-turbo"
+}

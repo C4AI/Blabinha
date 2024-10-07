@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 212,
+    "falaUser": "Quem protege a amazonia azul?",
+    "falaGPT": "||A Amazônia Azul, que é toda a região marinha do Brasil, é protegida pela Marinha do Brasil, que realiza a chamada Operação Amazônia Azul.\n Além da Marinha do Brasil, órgãos governamentais e organizações não governamentais também atuam na proteção e preservação desse importante ecossistema marinho.\n Todos juntos trabalham para garantir que a Amazônia Azul seja mantida saudável e com sua biodiversidade preservada para as futuras gerações.\n É muito importante cuidarmos do ambiente marinho, assim como cuidamos da floresta amazônica em terra firme.\n Vamos valorizar e proteger a Amazônia Azul!||Agora vou propor uma pergunta: Quais instituições e organizações estão envolvidas na proteção da Amazônia Azul no Brasil?||Quem é responsável pela proteção da Amazônia Azul?\n1) Marinha do Brasil\n2) Exército Brasileiro\n3) Corpo de Bombeiros\n4) Polícia Federal",
+    "Tokens": 884,
+    "TimeStamp": "2024_05_11_13_26_06",
+    "Model": "gpt-3.5-turbo"
+}

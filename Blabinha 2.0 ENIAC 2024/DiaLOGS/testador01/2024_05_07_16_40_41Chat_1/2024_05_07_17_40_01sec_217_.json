@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 217,
+    "falaUser": "Onde eu posso aprender mais sobre a Amazônia Azul?",
+    "falaGPT": "||Você pode aprender mais sobre a Amazônia Azul em livros, documentários, websites e também através de visitas a centros de estudo e conservação marinha.\n Além disso, escolas e museus frequentemente realizam exposições e atividades relacionadas ao tema.\n Também é possível participar de palestras e eventos que abordem a importância e a conservação da Amazônia Azul.\n Converse com professores, especialistas e pesquise em fontes confiáveis para obter informações detalhadas sobre esse ecossistema marinho único.\n",
+    "Tokens": 305,
+    "TimeStamp": "2024_05_07_17_40_01",
+    "Model": "gpt-3.5-turbo"
+}

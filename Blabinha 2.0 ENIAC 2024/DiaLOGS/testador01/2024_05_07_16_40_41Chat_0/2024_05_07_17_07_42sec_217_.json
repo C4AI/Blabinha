@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 217,
+    "falaUser": "Agricultura na região costeira?",
+    "falaGPT": "||A resposta \"Agricultura na região costeira\" está incorreta.\n Um dos temas de pesquisa científica na Amazônia Azul é a \"Biodiversidade marinha\".\n Essa pesquisa é importante para a preservação do meio ambiente marinho e sustentabilidade dos recursos naturais na região.\n Parabéns pela participação!",
+    "Tokens": 459,
+    "TimeStamp": "2024_05_07_17_07_42",
+    "Model": "gpt-3.5-turbo"
+}

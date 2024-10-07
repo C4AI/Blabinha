@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 212,
+    "falaUser": "Que espécies marinhas são únicas à Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é como um enorme aquário cheio de criaturinhas incríveis! Nesta área, a gente pode encontrar várias espécies que são superespeciais e únicas do Brasil, como o peixe-boi marinho e a tartaruga-verde.\n Também tem corais coloridos e até algumas espécies de tubarões que só passeiam por lá.\n É como se fosse um parque aquático natural cheio de surpresas!||Vou agora montar uma pergunta sobre as espécies únicas da Amazônia Azul para testar seu conhecimento.\n Fique ligado!||Qual destas espécies é única da Amazônia Azul e não é encontrada em outros oceanos do mundo?\n\n1) Baleia-azul\n2) Tubarão-branco\n3) Peixe-boi marinho\n4) Golfinho-comum",
+    "Tokens": 736,
+    "TimeStamp": "2024_05_15_04_03_55",
+    "Model": "gpt-4-turbo"
+}

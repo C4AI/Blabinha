@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 212,
+    "falaUser": "o meu super herói atira laser?",
+    "falaGPT": "||Claro! Pode fazer mais perguntas.\n Estou aqui para ajudar e responder o que você quiser saber!",
+    "Tokens": 74,
+    "TimeStamp": "2024_05_15_04_42_29",
+    "Model": "gpt-4-turbo"
+}

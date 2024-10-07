@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 205,
+    "falaUser": "Não quero",
+    "falaGPT": "||Vou repetir para ficar mais fácil de entender, ok? As regras são simples: você precisa fazer perguntas sobre a Amazônia azul.\n Quanto mais você mantiver o assunto, mais pontos ganhará.\n Se não souber sobre o que perguntar, pode pedir dica.\n E se quiser parar, pode pedir para terminar a hora que quiser!",
+    "Tokens": 234,
+    "TimeStamp": "2024_05_17_19_09_56",
+    "Model": "gpt-3.5-turbo"
+}

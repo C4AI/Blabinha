@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 215,
+    "falaUser": "todas opçoes",
+    "falaGPT": "||Parabéns, todas as opções estão corretas! Na região da Amazônia Azul, podemos encontrar pirarucus, tucunarés, pacus e outras espécies de peixes de água doce.\n Esses peixes desempenham um papel fundamental para o ecossistema local e para as comunidades que dependem deles.\n",
+    "Tokens": 408,
+    "TimeStamp": "2024_05_09_00_03_59",
+    "Model": "gpt-3.5-turbo"
+}

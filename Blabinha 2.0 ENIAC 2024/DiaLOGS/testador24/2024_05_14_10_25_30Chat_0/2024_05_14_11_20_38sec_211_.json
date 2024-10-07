@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 211,
+    "falaUser": "Golfinho é peixe?",
+    "falaGPT": "||Claro! Pode perguntar mais, mas lembre-se de falar também sobre a Amazônia Azul.\n O que você quer saber?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_14_11_20_38",
+    "Model": "gpt-4-turbo"
+}

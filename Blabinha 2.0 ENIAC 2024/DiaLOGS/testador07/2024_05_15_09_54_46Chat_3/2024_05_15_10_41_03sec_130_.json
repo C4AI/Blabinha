@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 130,
+    "falaUser": "Não quero",
+    "falaGPT": "||Tem certeza de que não quer participar? Pode ser divertido criar um super-herói inspirado nessas informações interessantes sobre a região dos Abrolhos.\n Vai perder a chance de soltar a imaginação e se divertir um pouco?",
+    "Tokens": 178,
+    "TimeStamp": "2024_05_15_10_41_03",
+    "Model": "gpt-3.5-turbo"
+}

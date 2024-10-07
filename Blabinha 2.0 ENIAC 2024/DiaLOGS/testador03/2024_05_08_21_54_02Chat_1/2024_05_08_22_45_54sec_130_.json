@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 130,
+    "falaUser": "topo",
+    "falaGPT": "||Neste desafio, teremos no máximo 7 turnos para criar um herói inspirado na Amazônia Azul.\n Durante esses turnos, você pode pedir dicas sobre possíveis aspectos da Amazônia Azul para ajudar na criação do herói.\n Além disso, se em algum momento você quiser terminar o jogo, pedir para criar o herói ou simplesmente encerrar a interação, esses casos não contarão como turnos.\n Vamos começar a criar o herói da Amazônia Azul juntos! Como você gostaria que fosse esse herói?||Antes de continuarmos, você gostaria de saber mais alguma coisa sobre a Amazônia Azul ou tem alguma ideia específica para o herói? Se não, podemos seguir em frente.\n Você entendeu as regras do jogo?",
+    "Tokens": 612,
+    "TimeStamp": "2024_05_08_22_45_54",
+    "Model": "gpt-3.5-turbo"
+}

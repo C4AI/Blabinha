@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 213,
+    "falaUser": "Tem tubarão na amazônia azul?",
+    "falaGPT": "||Não, tubarões são animais marinhos e não habitam a região de água doce da Amazônia Azul, que se refere ao litoral brasileiro.\n||O usuário pode falar sobre a importância da preservação da Amazônia Azul, os recursos naturais presentes nessa região, as espécies marinhas que habitam nesse espaço, as pesquisas científicas desenvolvidas na área, os impactos da poluição e da pesca predatória, entre outros temas relevantes.\n A Amazônia Azul é um ecossistema único e essencial para a biodiversidade marinha e para a economia do país, portanto, abordar questões como conservação, sustentabilidade e uso responsável dos recursos são cruciais para garantir a proteção desse ambiente marinho.\n",
+    "Tokens": 407,
+    "TimeStamp": "2024_05_13_19_00_48",
+    "Model": "gpt-3.5-turbo"
+}

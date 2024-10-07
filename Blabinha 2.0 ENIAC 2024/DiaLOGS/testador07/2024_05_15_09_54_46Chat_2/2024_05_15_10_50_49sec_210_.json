@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 210,
+    "falaUser": "O que a Amazônia Azul protege?",
+    "falaGPT": "||A Amazônia Azul protege o mar, as espécies marinhas, as plantas aquáticas, os animais marinhos e os ecossistemas marinhos que vivem nessas águas.\n Ela também protege os recursos naturais presentes no oceano, como os minerais, petróleo e outros recursos que são importantes para a vida no planeta.\n É essencial cuidar da Amazônia Azul para garantir a saúde e a proteção desse ambiente marinho tão importante para a nossa vida.\n",
+    "Tokens": 293,
+    "TimeStamp": "2024_05_15_10_50_49",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 100,
+    "falaUser": "Olá!",
+    "falaGPT": "||Olá! Sou a Blabinha, um robô que adora conversar sobre a natureza! Hoje vou te contar sobre a Amazônia Azul, uma parte muito especial do nosso oceano.\n É uma grande área que fica ao redor do Brasil e tem muitos animais e plantas interessantes.\n Como posso te chamar?",
+    "Tokens": 196,
+    "TimeStamp": "2024_05_09_15_42_02",
+    "Model": "gpt-4-turbo"
+}

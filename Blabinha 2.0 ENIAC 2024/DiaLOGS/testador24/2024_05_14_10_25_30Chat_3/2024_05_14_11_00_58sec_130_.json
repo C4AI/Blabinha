@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 130,
+    "falaUser": "Eu quero sim! Vai ser como o Aquaman?",
+    "falaGPT": "||As instruções para o desafio incluem que ele dura no máximo 7 turnos.\n Apenas as perguntas que eu interpretar como relacionadas à Amazônia Azul serão consideradas turnos.\n Você, como criança, tem a liberdade de pedir dicas sobre temas possíveis ligados à Amazônia Azul.\n Além disso, você pode decidir finalizar o jogo ou solicitar a criação do herói em qualquer ponto da interação.\n Lembre-se, esses três últimos casos não serão contados como um turno.\n||Entendeu as regras do desafio, ou precisa de mais alguma explicação sobre como proceder?",
+    "Tokens": 546,
+    "TimeStamp": "2024_05_14_11_00_58",
+    "Model": "gpt-4-turbo"
+}

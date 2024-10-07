@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 212,
+    "falaUser": "Qual o peixe mais perigoso ?",
+    "falaGPT": "||Desculpe, mas o peixe mais perigoso não está diretamente relacionado com a Amazônia azul.\n Em geral, o peixe-pedra é considerado um dos mais perigosos devido às suas toxinas.\n||Sim, o usuário pode falar sobre a importância da preservação da Amazônia Azul, os recursos naturais marinhos presentes na região, a biodiversidade marinha ali existente e a exploração sustentável dos recursos marinhos.\n Além disso, também pode abordar as tecnologias utilizadas para monitoramento e proteção da região, bem como os impactos ambientais e medidas de conservação adotadas.\n Esses são apenas alguns exemplos de assuntos relevantes relacionados à Amazônia Azul que podem ser explorados em uma conversa.\n",
+    "Tokens": 401,
+    "TimeStamp": "2024_05_13_19_21_49",
+    "Model": "gpt-3.5-turbo"
+}

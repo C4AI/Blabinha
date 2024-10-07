@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 211,
+    "falaUser": "Onde fica a amazônia azul?",
+    "falaGPT": "||A Amazônia Azul não é um lugar físico como a floresta Amazônica, é uma região marinha que fica ao redor do Brasil, incluindo o oceano Atlântico.\n É como se fosse uma extensão do nosso litoral, onde vivem muitos animais marinhos e plantas aquáticas.\n É super importante cuidar da Amazônia Azul também, para preservar a vida marinha e manter o equilíbrio do nosso planeta.\n Legal, né? Vamos cuidar também do nosso mar!",
+    "Tokens": 302,
+    "TimeStamp": "2024_05_08_20_40_59",
+    "Model": "gpt-3.5-turbo"
+}

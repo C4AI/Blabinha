@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "ha muito turismo nesta regiao?",
+    "falaGPT": "||Desculpe, mas a \"Amazônia azul\" se refere aos oceanos e mares do Brasil, não ao turismo na região.\n Posso te ajudar com outras informações sobre a Amazônia azul.\n||Isso mesmo! O usuário pode falar sobre a importância da preservação da biodiversidade marinha na Amazônia Azul, as atividades econômicas sustentáveis desenvolvidas na região, os impactos da exploração descontrolada dos recursos marinhos, e também sobre os esforços de pesquisa e monitoramento ambiental realizados na área.\n São temas relevantes que englobam tanto a conservação do meio ambiente marinho quanto o desenvolvimento socioeconômico do Brasil.\n A Amazônia Azul é um patrimônio nacional que merece ser estudado e protegido.\n",
+    "Tokens": 403,
+    "TimeStamp": "2024_05_17_19_01_20",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "O que é um ecossistema?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Se eu não souber sobre um assunto, posso dar dicas para ajudar a entender melhor.\n",
+    "Tokens": 95,
+    "TimeStamp": "2024_05_11_11_05_26",
+    "Model": "gpt-3.5-turbo"
+}

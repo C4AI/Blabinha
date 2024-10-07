@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 110,
+    "falaUser": "androides sonham com ovelhas elétricas?",
+    "falaGPT": "||Claro! \"Androides Sonham com Ovelhas Elétricas?\" é um livro de ficção científica escrito por Philip K.\n Dick, que explora temas de identidade, humanidade e realidade.\n Na história, androides são praticamente indistinguíveis dos humanos, o que levanta questões sobre o que realmente significa ser humano.\n A pergunta-título sugere uma reflexão sobre a capacidade dos androides de terem experiências e emoções similares às humanas, mesmo sendo máquinas.\n É um ponto de partida fascinante para discussões sobre inteligência artificial e ética na tecnologia.\n",
+    "Tokens": 276,
+    "TimeStamp": "2024_05_15_04_33_07",
+    "Model": "gpt-4-turbo"
+}

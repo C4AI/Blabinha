@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 218,
+    "falaUser": "a praia onde nos banhamos faz parte da amazonia azul?",
+    "falaGPT": "||Uau, você conversou tanto que chegou no final da nossa conversa! Agora vamos partir para a criação do herói.\n Mas antes de começarmos, preciso ler toda a nossa conversa com a ajuda de um script, então peço a sua paciência, ok? Assim que eu terminar de ler, vamos criar juntos o herói!\n\nPara começar, basta você escrever qualquer coisa.\n Estou aqui aguardando!",
+    "Tokens": 234,
+    "TimeStamp": "2024_05_08_23_00_20",
+    "Model": "gpt-3.5-turbo"
+}

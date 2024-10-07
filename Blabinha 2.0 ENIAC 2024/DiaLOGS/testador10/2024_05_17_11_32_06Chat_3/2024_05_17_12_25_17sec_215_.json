@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 215,
+    "falaUser": "Qual a importância econômica dela?",
+    "falaGPT": "||Você pode me fazer mais perguntas! Se precisar de dicas, é só pedir.\n Estou aqui para ajudar! 🤖",
+    "Tokens": 93,
+    "TimeStamp": "2024_05_17_12_25_17",
+    "Model": "gpt-3.5-turbo"
+}

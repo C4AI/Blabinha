@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 140,
+    "falaUser": "Quero falar de outro assunto. Qual o animal mais rápido de todos?",
+    "falaGPT": "||O animal mais rápido do mundo é o guepardo! Ele pode correr a uma velocidade incrível, chegando até 112 km/h! Imagina só, ele corre mais rápido que um carro na estrada! Você gostaria de saber mais curiosidades sobre animais ou outro assunto interessante? Vamos ver quem descobre o animal mais lento agora!",
+    "Tokens": 199,
+    "TimeStamp": "2024_05_07_17_32_22",
+    "Model": "gpt-4-turbo"
+}

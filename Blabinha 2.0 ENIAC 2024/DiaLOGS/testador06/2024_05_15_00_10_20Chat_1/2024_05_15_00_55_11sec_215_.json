@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 215,
+    "falaUser": "quais são as iniciativas para limpeza de mares?",
+    "falaGPT": "||Desculpe pelo equivoco! Existem várias iniciativas para a limpeza dos mares, como campanhas de conscientização para evitar o descarte de lixo nas praias e oceanos, a realização de mutirões de limpeza em áreas costeiras, a implantação de barreiras para contenção de resíduos flutuantes, a criação de ecobarreiras nos rios para evitar que o lixo chegue no mar, a reciclagem e reutilização de plásticos encontrados nos oceanos, entre outras ações.\n É importante que todos nós façamos a nossa parte para proteger o meio ambiente e os animais marinhos, mantendo os mares limpos e saudáveis.\n Juntos podemos fazer a diferença!",
+    "Tokens": 350,
+    "TimeStamp": "2024_05_15_00_55_11",
+    "Model": "gpt-3.5-turbo"
+}

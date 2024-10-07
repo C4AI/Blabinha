@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 213,
+    "falaUser": "quem é responsavel pela pluição dos mares?",
+    "falaGPT": "||Se quiser saber mais alguma coisa, pode perguntar!",
+    "Tokens": 63,
+    "TimeStamp": "2024_05_15_00_53_39",
+    "Model": "gpt-3.5-turbo"
+}

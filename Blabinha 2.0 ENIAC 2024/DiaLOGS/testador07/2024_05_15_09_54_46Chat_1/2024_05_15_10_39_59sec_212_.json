@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 212,
+    "falaUser": "A amazônia azul é importante apenas para o brasil?",
+    "falaGPT": "||Se precisar de mais informações ou tiver outras perguntas, é só falar.\n Se quiser encerrar a conversa, é só me avisar.\n",
+    "Tokens": 89,
+    "TimeStamp": "2024_05_15_10_39_59",
+    "Model": "gpt-3.5-turbo"
+}

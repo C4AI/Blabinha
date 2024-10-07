@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 214,
+    "falaUser": "Quais são os animais que fazem arte da amazônia azul?",
+    "falaGPT": "||Claro, vou dar dicas de alguns assuntos relacionados à Amazônia Azul.\n Entre eles, podemos destacar: a importância da biodiversidade marinha, a exploração sustentável dos recursos marinhos, a preservação do ecossistema marinho e a pesquisa científica realizada na região.\n Esses são temas relevantes que envolvem a Amazônia Azul e sua importância para o Brasil e o mundo.\n",
+    "Tokens": 229,
+    "TimeStamp": "2024_05_15_10_18_38",
+    "Model": "gpt-3.5-turbo"
+}

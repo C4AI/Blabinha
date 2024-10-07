@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 275,
+    "falaUser": "quero encerrar",
+    "falaGPT": "||Tudo bem, querido! Se você não quer participar do desafio agora, está tudo bem.\n Foi legal conversar com você! Este chat será encerrado, mas fique à vontade para voltar quando quiser.\n Tenha um ótimo dia! Adeus!",
+    "Tokens": 196,
+    "TimeStamp": "2024_05_11_12_00_10",
+    "Model": "gpt-3.5-turbo"
+}

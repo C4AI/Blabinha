@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 140,
+    "falaUser": "sim",
+    "falaGPT": "||Olha só, amiguinho! Para brincar no desafio, você precisa me fazer perguntinhas sobre a Amazônia azul, tá? Quanto mais perguntas você fizer sobre esse assunto, mais pontinhos você ganha! Se não souber sobre o que perguntar, pode pedir uma dica.\n E lembre-se, você pode parar e sair da brincadeira quando quiser, viu? ||Você entendeu as regras do jogo? Se precisar de alguma explicação adicional, estou à disposição para ajudar.\n",
+    "Tokens": 298,
+    "TimeStamp": "2024_05_08_23_47_11",
+    "Model": "gpt-3.5-turbo"
+}

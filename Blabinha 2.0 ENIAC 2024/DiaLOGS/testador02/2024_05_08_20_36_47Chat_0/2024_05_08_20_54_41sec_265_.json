@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 265,
+    "falaUser": "tudo bem, então. Qual é o maior risco para amazônia azul?",
+    "falaGPT": "||Você gostaria de fazer mais alguma pergunta? Estou aqui para responder!",
+    "Tokens": 66,
+    "TimeStamp": "2024_05_08_20_54_41",
+    "Model": "gpt-3.5-turbo"
+}

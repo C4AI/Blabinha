@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 211,
+    "falaUser": "o que o governo faz na amazônia azul?",
+    "falaGPT": "||O governo cuida da Amazônia Azul fazendo várias coisas para proteger o mar e os animais que vivem lá! Eles ajudam a controlar a pesca para que os peixinhos e outras criaturas não desapareçam e cuidam para que ninguém jogue lixo ou polua a água.\n Também fazem leis para que os navios passem sem estragar a natureza.\n Assim, a Amazônia Azul fica bonita e saudável para todos os seres vivos que dependem dela, inclusive nós! 🐠🌊",
+    "Tokens": 309,
+    "TimeStamp": "2024_05_15_04_41_14",
+    "Model": "gpt-4-turbo"
+}

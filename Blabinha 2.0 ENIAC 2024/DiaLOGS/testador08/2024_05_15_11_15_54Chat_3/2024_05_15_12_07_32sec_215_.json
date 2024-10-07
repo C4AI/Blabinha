@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "tem lugar de sushi perto de lá? gosto muito",
+    "falaGPT": "||Claro! Vou te dar algumas dicas de assuntos relacionados à Amazônia Azul:\n\n1.\n Ecossistemas marinhos da região.\n\n2.\n Recursos naturais e potencial econômico.\n\n3.\n Importância da preservação ambiental.\n\n4.\n Atividades humanas e impactos ambientais na região.\n",
+    "Tokens": 204,
+    "TimeStamp": "2024_05_15_12_07_32",
+    "Model": "gpt-3.5-turbo"
+}

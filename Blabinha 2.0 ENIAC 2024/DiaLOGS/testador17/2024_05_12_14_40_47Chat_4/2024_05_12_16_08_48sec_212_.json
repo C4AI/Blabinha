@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 212,
+    "falaUser": "Para que serve a Marinha? ",
+    "falaGPT": "||A Marinha é como um grupo de super-heróis do mar! Eles têm muitas funções importantes, sabia? Uma delas é proteger nossa Amazônia Azul, que é uma área enorme de mar que pertence ao Brasil.\n Eles cuidam para que ninguém faça coisas ruins como poluir as águas ou pescar mais do que deveria.\n Além disso, a Marinha ajuda na segurança do país, patrulhando os mares para que fiquemos seguros de qualquer perigo, como piratas dos tempos modernos ou invasões.\n Eles também ajudam quando acontecem desastres, como um naufrágio ou um grande temporal, salvando pessoas e mantendo tudo em ordem.\n Então, a Marinha é realmente importante para manter nossos mares seguros e saudáveis! 🚢⚓||Agora vou te fazer uma pergunta sobre o que acabamos de conversar.\n Vamos ver o quanto você aprendeu sobre a Marinha! Está pronto?||Qual das seguintes afirmações descreve uma das principais funções da Marinha do Brasil?\n\n1) Controlar o tráfego aéreo em todo o território nacional.\n\n2) Gerenciar todas as reservas florestais do país.\n\n3) Patrulhar e proteger as águas territoriais brasileiras.\n\n4) Supervisionar a produção agrícola nas regiões costeiras.\n",
+    "Tokens": 1014,
+    "TimeStamp": "2024_05_12_16_08_48",
+    "Model": "gpt-4-turbo"
+}

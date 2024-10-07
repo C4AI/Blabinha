@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 213,
+    "falaUser": "Para se alimentar.",
+    "falaGPT": "||Parabéns! As baleias passam pela Amazônia Azul principalmente para se alimentar, pois é um ambiente marinho rico em nutrientes e peixes.\n Após se alimentarem, elas seguem seu ciclo migratório para outras regiões, como áreas de reprodução.\n",
+    "Tokens": 414,
+    "TimeStamp": "2024_05_08_22_30_52",
+    "Model": "gpt-3.5-turbo"
+}

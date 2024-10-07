@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 216,
+    "falaUser": "Quais tipos de tubarão estão na AA?",
+    "falaGPT": "||Na região da Amazônia Azul, podemos encontrar diversas espécies de tubarões, alguns exemplos são o tubarão-lixa, tubarão-martelo, tubarão-tigre, tubarão-cabeça-chata e o tubarão-cinza.\n Eles fazem parte da rica diversidade de vida marinha que habita as águas dessa região brasileira.\n Esses tubarões são muito importantes para o equilíbrio dos ecossistemas marinhos e desempenham um papel fundamental na cadeia alimentar.\n É sempre importante proteger essas espécies e garantir a preservação de seus habitats para que continuem a desempenhar seu papel no ecossistema marinho da Amazônia Azul.\n||Agora vou fazer uma pergunta sobre a diversidade de tubarões na região da Amazônia Azul.\n Qual é o nome de pelo menos três espécies de tubarões que podem ser encontradas nessa região?||Qual espécie de tubarão não é encontrada na região da Amazônia Azul?\n\n1) Tubarão-lixa\n2) Tubarão-branco\n3) Tubarão-tigre\n4) Tubarão-martelo",
+    "Tokens": 928,
+    "TimeStamp": "2024_05_17_19_16_36",
+    "Model": "gpt-3.5-turbo"
+}

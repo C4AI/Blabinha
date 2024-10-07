@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 211,
+    "falaUser": "o qué são manguezais?",
+    "falaGPT": "||Manguezais são áreas de vegetação que crescem em regiões entre a terra e o mar, onde a água salgada se mistura com a água doce dos rios.\n Essas áreas têm muitas plantas adaptadas para viver em solos alagados e salgados.\n Os manguezais são importantes porque protegem as margens dos rios da erosão causada pelas ondas do mar, fornecem habitat para diversos animais, como caranguejos e pássaros, e ajudam a manter a biodiversidade marinha.\n Além disso, os manguezais também contribuem para a filtragem da água, absorção de carbono e proteção contra tempestades.\n Então, são ecossistemas muito importantes para o equilíbrio ambiental!",
+    "Tokens": 349,
+    "TimeStamp": "2024_05_15_00_48_54",
+    "Model": "gpt-3.5-turbo"
+}

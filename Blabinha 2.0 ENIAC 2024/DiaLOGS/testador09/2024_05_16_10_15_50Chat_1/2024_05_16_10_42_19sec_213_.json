@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 213,
+    "falaUser": "Quais peixes tem na Amazonia Azul?",
+    "falaGPT": "||Em meio à rica biodiversidade da Amazônia Azul, podemos encontrar diferentes espécies de peixes, como o peixe-boi, o peixe-palhaço, o peixe-espada, o boto cor-de-rosa, arraias, tubarões, pirarucus, piranhas e muitos outros! Esses animais marinhos vivem nas águas da Amazônia Azul, trazendo beleza e vitalidade para esse importante ecossistema.\n É incrível observar a variedade de peixes e animais marinhos que habitam essa região, tornando-a única e repleta de vida! 🌊🐟🐬",
+    "Tokens": 332,
+    "TimeStamp": "2024_05_16_10_42_19",
+    "Model": "gpt-3.5-turbo"
+}

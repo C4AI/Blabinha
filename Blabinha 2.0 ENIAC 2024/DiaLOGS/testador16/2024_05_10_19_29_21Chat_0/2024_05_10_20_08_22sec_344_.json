@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador16",
+    "secao": 344,
+    "falaUser": "Eu queria uma baleia",
+    "falaGPT": "||O quarto atributo é a casa do herói.\n Como você imagina que será a casa do herói? Será uma casa grande ou pequena? Será que é uma casa muito diferente, como uma casa na árvore ou até uma nave espacial? O que você acha?",
+    "Tokens": 122,
+    "TimeStamp": "2024_05_10_20_08_22",
+    "Model": "gpt-4-turbo"
+}

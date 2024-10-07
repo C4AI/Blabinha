@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 214,
+    "falaUser": "o que posso perguntar sobre o heroi?",
+    "falaGPT": "||Você pode perguntar sobre a origem do herói, seus poderes e habilidades, seus inimigos, suas aventuras, seu uniforme e acessórios, seu personagem secundário, seus valores e missão como herói, suas fraquezas, sua identidade secreta, seu alter ego, sua história de origem, seu interesse amoroso, entre outros detalhes que te interessem sobre o herói.\n O que mais gostaria de saber sobre ele?||Claro! Agora vou te fazer uma pergunta sobre o herói que discutimos.\n Qual é o principal poder ou habilidade do herói e como ele utiliza isso em suas aventuras?||Qual é o nome verdadeiro do herói Batman?\n\n1) Bruce Wayne\n2) Clark Kent\n3) Peter Parker\n4) Diana Prince",
+    "Tokens": 693,
+    "TimeStamp": "2024_05_08_22_38_01",
+    "Model": "gpt-3.5-turbo"
+}

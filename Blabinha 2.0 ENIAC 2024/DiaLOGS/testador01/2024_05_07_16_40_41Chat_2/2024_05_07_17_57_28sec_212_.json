@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 212,
+    "falaUser": "A FAB também participa da proteção da Amazônia Azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser, ou dizer \"terminar\" para encerrar nossa conversa.\n O que você prefere?",
+    "Tokens": 86,
+    "TimeStamp": "2024_05_07_17_57_28",
+    "Model": "gpt-3.5-turbo"
+}

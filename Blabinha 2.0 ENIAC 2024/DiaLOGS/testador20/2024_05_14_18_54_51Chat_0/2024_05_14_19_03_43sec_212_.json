@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 212,
+    "falaUser": "Eu posso visitar a Amazônia Azul?",
+    "falaGPT": "||Claro que você pode visitar a Amazônia Azul! É uma área maravilhosa do nosso oceano, cheia de peixinhos coloridos, baleias, tartarugas e muitos outros animais fofinhos! Mas lembre-se de sempre respeitar a natureza, não jogar lixo no mar e cuidar bem dos animais e das plantas que você encontrar por lá, tá bom? Assim, todo mundo pode continuar aproveitando essa beleza incrível do nosso planeta! 🌊🐠🐢||A Amazônia Azul, termo que se refere à imensa área marítima ao redor do Brasil, é rica em biodiversidade e recursos naturais.\n Você consideraria fazer uma visita guiada para aprender mais sobre sua conservação e importância ecológica?||Qual das seguintes afirmações descreve corretamente a Amazônia Azul?\n\n1) Uma região da Floresta Amazônica que possui um alto índice de precipitação.\n\n2) Uma área do oceano Atlântico ao redor da costa brasileira, rica em biodiversidade marinha.\n\n3) Um parque aquático localizado no norte do Brasil, popular entre turistas.\n\n4) Uma zona desértica no sul da América do Sul com uma vareidade de cactos azuis.\n",
+    "Tokens": 866,
+    "TimeStamp": "2024_05_14_19_03_43",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 216,
+    "falaUser": "quero saber sobre o 3",
+    "falaGPT": "||Desculpe, não entendi sua pergunta.\n Poderia reformular ou fornecer mais informações para eu te ajudar melhor?||Entendi, agora vou fazer uma pergunta sobre o número 3: Qual é o resultado da multiplicação de 3 por 5?||Qual é a resposta para a pergunta feita acima? \n\n1) Retornar à explicação anterior\n2) Continuar com a mesma explicação\n3) Saber mais informações\n4) Reformular a pergunta",
+    "Tokens": 450,
+    "TimeStamp": "2024_05_15_11_51_33",
+    "Model": "gpt-3.5-turbo"
+}

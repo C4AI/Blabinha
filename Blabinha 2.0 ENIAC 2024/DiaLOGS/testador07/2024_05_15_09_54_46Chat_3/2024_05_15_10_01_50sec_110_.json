@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 110,
+    "falaUser": "Pode me chamar de Lie",
+    "falaGPT": "||Ok, Lie! Vamos seguir em frente.\n Você já ouviu falar sobre a Amazônia Azul?",
+    "Tokens": 192,
+    "TimeStamp": "2024_05_15_10_01_50",
+    "Model": "gpt-3.5-turbo"
+}

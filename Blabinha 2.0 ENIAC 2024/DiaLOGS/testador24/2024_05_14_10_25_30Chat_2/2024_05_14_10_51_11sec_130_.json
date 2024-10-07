@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 130,
+    "falaUser": "Mas você faz alguma outra coisa?",
+    "falaGPT": "||Claro! Além de criar histórias, posso ajudar com jogos, responder perguntas, e a gente pode até desenhar juntos.\n O que você prefere fazer agora?",
+    "Tokens": 205,
+    "TimeStamp": "2024_05_14_10_51_11",
+    "Model": "gpt-4-turbo"
+}

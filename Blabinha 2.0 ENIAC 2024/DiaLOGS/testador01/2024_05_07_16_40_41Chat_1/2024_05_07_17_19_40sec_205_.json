@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 205,
+    "falaUser": "É só eu ir fazendo perguntas?",
+    "falaGPT": "||Vou repetir para você entender melhor, tá? Na brincadeira do desafio, você me faz perguntas sobre a Amazônia azul e ganha pontos se continuar falando desse assunto.\n Se precisar de dica ou quiser sair da brincadeira, é só pedir, combinado?",
+    "Tokens": 219,
+    "TimeStamp": "2024_05_07_17_19_40",
+    "Model": "gpt-3.5-turbo"
+}

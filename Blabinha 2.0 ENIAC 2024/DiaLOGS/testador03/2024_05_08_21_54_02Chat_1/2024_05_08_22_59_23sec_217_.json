@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 217,
+    "falaUser": "Baleia",
+    "falaGPT": "||Parabéns, você acertou! De fato, a baleia é o maior mamífero marinho do mundo, tanto em comprimento quanto em peso.\n Algumas espécies de baleias podem chegar a pesar mais de 100 toneladas, sendo o maior animal do planeta.\n Muito bem!",
+    "Tokens": 341,
+    "TimeStamp": "2024_05_08_22_59_23",
+    "Model": "gpt-3.5-turbo"
+}

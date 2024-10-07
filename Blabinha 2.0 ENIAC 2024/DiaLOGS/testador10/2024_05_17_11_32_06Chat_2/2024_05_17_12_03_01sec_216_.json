@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 216,
+    "falaUser": "Fernando de Noronha fica na Amazônia Azul?",
+    "falaGPT": "||Não, Fernando de Noronha não fica na Amazônia Azul.\n Fernando de Noronha é um arquipélago localizado no Oceano Atlântico, a cerca de 350 quilômetros da costa nordeste do Brasil, sendo conhecido pelas suas belezas naturais e praias paradisíacas.\n Já a Amazônia Azul se refere à extensão marítima brasileira que inclui o mar territorial, a zona econômica exclusiva e a plataforma continental, mas não engloba a região onde se localiza Fernando de Noronha.\n||Agora vou te fazer uma pergunta relacionada ao assunto: Você sabe qual é a região da Amazônia Azul e qual sua importância para o Brasil?||Em qual região brasileira está localizado o arquipélago de Fernando de Noronha?\n\n1) Amazônia Azul\n2) Pantanal\n3) Nordeste\n4) Sul\n\n",
+    "Tokens": 795,
+    "TimeStamp": "2024_05_17_12_03_01",
+    "Model": "gpt-3.5-turbo"
+}

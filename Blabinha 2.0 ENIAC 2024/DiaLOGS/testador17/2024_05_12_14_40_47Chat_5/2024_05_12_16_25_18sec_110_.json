@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 110,
+    "falaUser": "Não é da sua conta! ",
+    "falaGPT": "||Peço desculpas se isso soou invasivo! Meu intuito é apenas facilitar nossa comunicação.\n Você pode escolher como gostaria de ser chamado durante nossa conversa, se preferir.\n Caso contrário, posso prosseguir sem usar um nome específico.\n Como gostaria de continuar?",
+    "Tokens": 183,
+    "TimeStamp": "2024_05_12_16_25_18",
+    "Model": "gpt-4-turbo"
+}

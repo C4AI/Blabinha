@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "Qual a importância da sua biodiversidade?",
+    "falaGPT": "||Você pode me fazer mais perguntas! Se precisar de dicas em algo que não sei, posso te ajudar a descobrir juntos.\n",
+    "Tokens": 95,
+    "TimeStamp": "2024_05_17_11_56_27",
+    "Model": "gpt-3.5-turbo"
+}

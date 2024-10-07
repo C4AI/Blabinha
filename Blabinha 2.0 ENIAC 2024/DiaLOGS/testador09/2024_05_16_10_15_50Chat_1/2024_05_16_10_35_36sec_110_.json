@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 110,
+    "falaUser": "Mas eu não quero dizer meu nome",
+    "falaGPT": "||Entendi, mas na verdade não sei como me referir a você sem um nome.\n Você poderia me explicar de que forma prefere ser chamado(a) ou me informar algum apelido ou termo que você gostaria que eu utilizasse? Assim posso me dirigir a você da maneira correta.\n",
+    "Tokens": 173,
+    "TimeStamp": "2024_05_16_10_35_36",
+    "Model": "gpt-3.5-turbo"
+}

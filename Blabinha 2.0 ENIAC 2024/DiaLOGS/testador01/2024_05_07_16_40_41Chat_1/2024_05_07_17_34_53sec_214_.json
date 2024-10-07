@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 214,
+    "falaUser": "A Amazônia Azul está poluída?",
+    "falaGPT": "||Sim, infelizmente a Amazônia Azul também está sofrendo com a poluição.\n O lixo e resíduos lançados no mar, além da contaminação por produtos químicos e vazamentos de petróleo, estão causando danos ao meio ambiente marinho.\n É importante cuidarmos da Amazônia Azul, assim como cuidamos da floresta amazônica, para garantir a conservação da vida marinha e a saúde dos ecossistemas aquáticos.\n Podemos ajudar evitando jogar lixo no mar, conscientizando sobre a importância da preservação e apoiando iniciativas de limpeza e conservação dos oceanos.\n Juntos, podemos fazer a diferença e proteger a Amazônia Azul!||Certo! Vou fazer uma pergunta sobre a importância da preservação da Amazônia Azul: O que podemos fazer para ajudar na conservação dos oceanos e evitar a poluição marinha?||A poluição na Amazônia Azul é causada por qual dos seguintes fatores?\n\n1) Lixo e resíduos lançados no mar\n2) Contaminação por produtos químicos\n3) Desmatamento da floresta amazônica\n4) Aquecimento global\n\nQual dos seguintes fatores contribui para a poluição na Amazônia Azul?",
+    "Tokens": 965,
+    "TimeStamp": "2024_05_07_17_34_53",
+    "Model": "gpt-3.5-turbo"
+}

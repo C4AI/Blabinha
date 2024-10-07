@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 212,
+    "falaUser": "Os estados brasileiros podem explorar os recursos naturais da Amazônia Azul?",
+    "falaGPT": "||Os estados brasileiros não podem explorar diretamente os recursos naturais da Amazônia Azul, pois essa área é de responsabilidade da União.\n A exploração dos recursos marinhos da Amazônia Azul é regulamentada pela legislação brasileira e requer autorização e controle por parte do governo federal.\n A proteção e sustentabilidade desses recursos são temas importantes para garantir a preservação do meio ambiente marinho.\n É fundamental que a exploração dos recursos naturais da Amazônia Azul seja feita de forma sustentável, respeitando a biodiversidade e os ecossistemas marinhos.\n A conscientização e o cuidado com o meio ambiente são essenciais para preservarmos essa importante região.\n||Agora, gostaria de saber se você concorda com a necessidade de uma regulamentação e controle rigorosos por parte do governo federal para a exploração dos recursos naturais da Amazônia Azul, visando a proteção e a sustentabilidade desses recursos.\n Você concorda?||Questão: Quem é o responsável pela regulação e autorização da exploração dos recursos naturais da Amazônia Azul?\n\n1) Estados brasileiros\n2) Municípios costeiros\n3) União\n4) Organizações internacionais",
+    "Tokens": 951,
+    "TimeStamp": "2024_05_07_17_59_00",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 210,
+    "falaUser": "o que é?",
+    "falaGPT": "||Oops! Parece que você esqueceu de me dizer sobre o que você quer saber! Pode me contar mais detalhes? 😊",
+    "Tokens": 196,
+    "TimeStamp": "2024_05_09_16_37_44",
+    "Model": "gpt-4-turbo"
+}

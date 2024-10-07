@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 211,
+    "falaUser": "o boto rosa esta extinto?",
+    "falaGPT": "||Você pode fazer mais perguntas! Eu estou aqui para ajudar e conversar com você.\n O que você gostaria de saber?",
+    "Tokens": 77,
+    "TimeStamp": "2024_05_17_18_53_24",
+    "Model": "gpt-3.5-turbo"
+}

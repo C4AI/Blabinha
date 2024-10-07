@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 210,
+    "falaUser": "Qual é o tipo de vida marinha da amazônia azul?",
+    "falaGPT": "||Na Amazônia Azul, a vida marinha é muito diversificada! Podemos encontrar uma grande variedade de peixes, como os peixes-palhaço, arraias, tubarões, peixes-boi, botos, tartarugas marinhas e muitos outros animais marinhos incríveis.\n Além disso, vale ressaltar a presença de algas, corais, esponjas e outros seres vivos que fazem parte desse ecossistema marinho especial.\n É um lugar rico em biodiversidade e cheio de vida para explorar e proteger.\n Legal, né? 🐠🌊🌿",
+    "Tokens": 326,
+    "TimeStamp": "2024_05_18_14_43_36",
+    "Model": "gpt-3.5-turbo"
+}

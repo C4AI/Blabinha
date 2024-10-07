@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 215,
+    "falaUser": "Pode me falar mais sobre a flora da Amazônia Azul?",
+    "falaGPT": "||Claro! Pode fazer mais perguntas e se precisar de dicas sobre algum assunto, é só pedir!",
+    "Tokens": 89,
+    "TimeStamp": "2024_05_14_19_13_28",
+    "Model": "gpt-4-turbo"
+}

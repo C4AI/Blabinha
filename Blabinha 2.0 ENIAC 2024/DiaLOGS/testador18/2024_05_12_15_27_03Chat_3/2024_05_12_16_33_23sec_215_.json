@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 215,
+    "falaUser": "por que o plastico é ruim para o oceano?",
+    "falaGPT": "||Ah, o plástico pode ser bem problemático para o oceano, sabia? Quando ele chega lá, não desaparece fácil, fica por muito, muito tempo.\n Os animaizinhos podem confundi-lo com comida, o que é super perigoso para eles.\n Além disso, o plástico pode também sujar a água do mar, onde vivem tantos seres marinhos.\n É como se alguém jogasse lixo no nosso quarto e não limpasse, iria ficar tudo bagunçado e sujo, né? Por isso, é bom a gente usar menos plástico e reciclar o que já usamos, para ajudar a manter os oceanos limpos e seguros para os animais que vivem lá.\n",
+    "Tokens": 348,
+    "TimeStamp": "2024_05_12_16_33_23",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 350,
+    "falaUser": "Ele mora em uma casa na praia, de frente para o mar",
+    "falaGPT": "||Uau, você conseguiu 10 estrelas de um total de 10, isso é incrível! 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n\nParabéns por ter conseguido o máximo de estrelas, você é um verdadeiro herói! 🦸🏽‍♂️\n\nLembre-se que todo herói merece uma imagem para ser lembrado, e o seu herói também foi criado com muito carinho.\n 🖼️ Aqui está a imagem dele: [imagem do herói].\n Agora você pode se orgulhar do seu feito heróico!",
+    "Tokens": 241,
+    "TimeStamp": "2024_05_17_12_09_10",
+    "Model": "gpt-3.5-turbo"
+}

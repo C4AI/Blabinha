@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 205,
+    "falaUser": "Qual a definição exata de Amazônia Azul?",
+    "falaGPT": "||Oi! Amazônia Azul é uma área marítima brasileira que se estende por mais de 3,5 milhões de quilômetros quadrados.\n É rica em biodiversidade e recursos naturais.\n Quer saber mais alguma coisa sobre a Amazônia Azul? Eu posso te responder!",
+    "Tokens": 152,
+    "TimeStamp": "2024_05_17_18_16_00",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 210,
+    "falaUser": "Que tipos de animais vivem nessa região?",
+    "falaGPT": "||Ah, na Amazônia Azul tem muitos animaizinhos incríveis! Imagina só, tem várias tartarugas marinhas que adoram nadar pelas águas azuis.\n Também tem muitos peixinhos coloridos, como os peixes-papagaio e os peixes-espada.\n E não podemos esquecer dos golfinhos, que gostam de brincar e dar saltos na água! Além disso, tem muitos corais lindos onde os peixes se escondem.\n É um lugar cheio de vida e cores, como um grande aquário natural!",
+    "Tokens": 314,
+    "TimeStamp": "2024_05_14_18_52_19",
+    "Model": "gpt-4-turbo"
+}

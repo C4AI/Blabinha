@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 100,
+    "falaUser": "Olá",
+    "falaGPT": "||Olá! Eu sou Blabinha, um robô aqui para conversar.\n Como posso te chamar? ",
+    "Tokens": 144,
+    "TimeStamp": "2024_05_11_10_47_17",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "Que tipo de golfinhos há nessa região?",
+    "falaGPT": "||Na região da Amazônia Azul é possível encontrar diversos tipos de golfinhos, como o golfinho-rotador, o golfinho-nariz-de-garrafa e o golfinho-pintado-do-atlântico.\n Cada um desses golfinhos possui características únicas e são fundamentais para o equilíbrio do ecossistema marinho nessa região.\n Eles são animais muito inteligentes e sociáveis, sendo sempre incrível ter a oportunidade de vê-los nadando e brincando nas águas da Amazônia Azul.\n Esses golfinhos são verdadeiros tesouros da nossa biodiversidade marinha, e é muito importante protegê-los e conservar o seu habitat para que possam continuar a encantar e alegrar a todos que têm a sorte de cruzar com eles no mar.\n",
+    "Tokens": 366,
+    "TimeStamp": "2024_05_17_11_38_46",
+    "Model": "gpt-3.5-turbo"
+}

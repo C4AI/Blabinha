@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 211,
+    "falaUser": "Quantas copas do mundo Brasil possui?",
+    "falaGPT": "||Você pode fazer mais perguntas ou me pedir para terminar.\n",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_17_11_51_39",
+    "Model": "gpt-3.5-turbo"
+}

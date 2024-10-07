@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "Qual a vegetação da AA?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Estou aqui para responder o que você quiser saber, é só falar comigo!",
+    "Tokens": 78,
+    "TimeStamp": "2024_05_17_19_18_03",
+    "Model": "gpt-3.5-turbo"
+}

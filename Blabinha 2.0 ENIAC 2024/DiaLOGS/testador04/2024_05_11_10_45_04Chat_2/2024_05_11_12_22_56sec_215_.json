@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "que tipos de peixes podem ser encontrados no mar brasileiro?",
+    "falaGPT": "||No mar brasileiro, é possível encontrar uma grande diversidade de peixes, incluindo o famoso tubarão, espécies de arraias, tartarugas marinhas, peixes tropicais coloridos como o peixe-palhaço, o peixe-sapo, a garoupa, o badejo, o pargo, o atum, o dourado, a sardinha, o robalo, entre muitos outros.\n Cada um desses peixes tem seu habitat e características próprias, contribuindo para a rica biodiversidade marinha do Brasil.\n É muito interessante observar e aprender sobre essas diferentes espécies de peixes que vivem no nosso mar!",
+    "Tokens": 335,
+    "TimeStamp": "2024_05_11_12_22_56",
+    "Model": "gpt-3.5-turbo"
+}

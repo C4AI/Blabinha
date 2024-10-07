@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 211,
+    "falaUser": "Quais recursos naturais que existem na Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é como um grande tesouro escondido no fundo do mar! Ela tem muitos recursos naturais superimportantes.\n Imagina só, lá no fundinho do oceano tem petróleo e gás natural, que são usados para fazer combustível para carros e energia para as casas.\n Também tem muitos tipos de peixes e frutos do mar, que são deliciosos e importantes para a alimentação das pessoas.\n Além disso, existem vários minerais e até bioativos que são substâncias especiais encontradas nos seres vivos do mar e que podem ser usados para fazer remédios.\n É como um baú do tesouro escondido nas águas!",
+    "Tokens": 342,
+    "TimeStamp": "2024_05_15_05_56_01",
+    "Model": "gpt-4-turbo"
+}

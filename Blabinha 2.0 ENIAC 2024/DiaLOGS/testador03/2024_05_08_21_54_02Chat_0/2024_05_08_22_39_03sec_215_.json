@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 215,
+    "falaUser": "Bruce WAyne",
+    "falaGPT": "||Parabéns, você acertou! O nome verdadeiro do herói Batman é Bruce Wayne.\n Bruce Wayne é um empresário bilionário de Gotham City que se torna o vigilante mascarado conhecido como Batman para lutar contra o crime.\n",
+    "Tokens": 300,
+    "TimeStamp": "2024_05_08_22_39_03",
+    "Model": "gpt-3.5-turbo"
+}

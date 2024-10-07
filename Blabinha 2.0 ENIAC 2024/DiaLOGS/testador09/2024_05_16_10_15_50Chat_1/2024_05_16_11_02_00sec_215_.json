@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 215,
+    "falaUser": "o que é o leito do mar?",
+    "falaGPT": "||Você pode me fazer mais perguntas, mas não se esqueça de falarmos sobre a Amazônia Azul.\n O que mais você quer saber?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_16_11_02_00",
+    "Model": "gpt-3.5-turbo"
+}

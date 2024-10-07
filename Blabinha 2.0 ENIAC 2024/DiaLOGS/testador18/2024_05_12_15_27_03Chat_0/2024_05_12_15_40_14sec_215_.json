@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 215,
+    "falaUser": "E qual o menor animal?",
+    "falaGPT": "||Você pode fazer mais perguntas! Se precisar de dicas sobre algum assunto, é só pedir, tá bom?",
+    "Tokens": 89,
+    "TimeStamp": "2024_05_12_15_40_14",
+    "Model": "gpt-4-turbo"
+}

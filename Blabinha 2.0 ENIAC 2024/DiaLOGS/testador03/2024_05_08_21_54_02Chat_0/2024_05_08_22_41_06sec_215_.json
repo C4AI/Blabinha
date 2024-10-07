@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 215,
+    "falaUser": "quais sao os impactos ambientais causados por atividades humanas?",
+    "falaGPT": "||As atividades humanas podem impactar negativamente o meio ambiente de várias maneiras, como a poluição do ar, água e solo, o desmatamento, a emissão de gases de efeito estufa, a destruição de habitats naturais, a sobrepesca, entre outros.\n Todas essas ações podem causar danos aos ecossistemas, levando à perda de biodiversidade, ao desequilíbrio ambiental, às mudanças climáticas, à escassez de recursos naturais e à degradação do próprio bem-estar humano.\n É importante que todos nós façamos nossa parte para tentar minimizar esses impactos, através de práticas mais sustentáveis e conscientes em nosso dia a dia.\n Vamos cuidar do nosso planeta juntos!",
+    "Tokens": 359,
+    "TimeStamp": "2024_05_08_22_41_06",
+    "Model": "gpt-3.5-turbo"
+}

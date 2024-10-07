@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 241,
+    "falaUser": "o cinto!",
+    "falaGPT": "||Ótima escolha! O cinto tecnológico que monitora a poluição e ajuda na limpeza dos oceanos é uma ferramenta essencial para proteger a Amazônia Azul.\n Com esse dispositivo, o super-herói pode detectar e combater a poluição, garantindo a preservação desse ecossistema marinho tão importante.\n Parabéns pela escolha consciente!",
+    "Tokens": 498,
+    "TimeStamp": "2024_05_08_22_16_08",
+    "Model": "gpt-3.5-turbo"
+}

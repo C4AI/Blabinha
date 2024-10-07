@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 215,
+    "falaUser": "o que é o leito do mar?",
+    "falaGPT": "||Desculpe, mas a resposta anterior estava incorreta.\n O leito do mar é a parte do oceano que fica abaixo da superfície da água e é composto por diferentes materiais como areia, rochas, corais e sedimentos.\n É onde ficam os animais marinhos que vivem no fundo do mar, como estrelas-do-mar, peixes, esponjas e muitos outros seres incríveis.\n O leito do mar também pode conter plantas marinhas e formações geológicas interessantes, como montanhas submersas e vulcões.\n É um lugar misterioso e cheio de vida, muito importante para o equilíbrio do ecossistema marinho.\n Espero que tenha entendido melhor agora!",
+    "Tokens": 340,
+    "TimeStamp": "2024_05_16_11_01_59",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 130,
+    "falaUser": "Legal! Eu topo participar!",
+    "falaGPT": "||Neste desafio, você tem até 7 turnos disponíveis.\n Apenas perguntas específicas sobre Amazônia Azul que eu, Blabinha, conseguir entender contam como turnos.\n Caso necessite, você pode solicitar dicas de temas relacionados à Amazônia Azul.\n Também é possível pedir para encerrar o jogo ou para criar o herói em qualquer momento da interação.\n Importante lembrar que essas três últimas ações não são contabilizadas como turnos.\n||Entendeu as regras? Se precisar de alguma coisa durante o jogo, como dicas ou esclarecimentos, é só perguntar.\n Estou aqui para ajudar!",
+    "Tokens": 534,
+    "TimeStamp": "2024_05_14_18_46_47",
+    "Model": "gpt-4-turbo"
+}

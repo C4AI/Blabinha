@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 205,
+    "falaUser": "Me de uma dica",
+    "falaGPT": "||Uma dica legal é perguntar sobre a Amazônia Azul, que é a área marítima brasileira.\n Pode perguntar sobre sua importância, biodiversidade, recursos naturais, e o que podemos fazer para preservá-la.\n Vamos lá! Pergunte o que quiser e eu vou te responder.\n",
+    "Tokens": 146,
+    "TimeStamp": "2024_05_18_15_17_50",
+    "Model": "gpt-3.5-turbo"
+}

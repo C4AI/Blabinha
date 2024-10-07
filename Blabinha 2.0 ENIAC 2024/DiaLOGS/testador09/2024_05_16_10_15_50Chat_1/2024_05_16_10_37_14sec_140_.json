@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 140,
+    "falaUser": "Ok, quero",
+    "falaGPT": "||Vamos brincar de um joguinho! Aqui estão as regras: você tem que fazer perguntas sobre a Amazônia azul para mim, a Blabinha.\n Quanto mais você falar sobre isso, mais pontos vai ganhar! Se tiver dúvidas, pode pedir uma dica.\n E se quiser parar, é só falar, tá bom? Vamos lá! 🌊🐠||Você entendeu as regras até agora? Posso ajudar em algo mais?",
+    "Tokens": 281,
+    "TimeStamp": "2024_05_16_10_37_14",
+    "Model": "gpt-3.5-turbo"
+}

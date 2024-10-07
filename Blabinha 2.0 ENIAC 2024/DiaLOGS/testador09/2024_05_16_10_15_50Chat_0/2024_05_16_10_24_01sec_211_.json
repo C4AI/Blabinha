@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 211,
+    "falaUser": "Qual o tamanho da Amazonia Azul?",
+    "falaGPT": "||A Amazônia Azul é uma área marítima que abrange cerca de 4,5 milhões de quilômetros quadrados ao redor do litoral do Brasil, o que a torna uma das maiores extensões de águas territoriais do mundo.\n É um lugar cheio de vida marinha e recursos naturais importantes para o equilíbrio do planeta.\n É extremamente importante cuidarmos e preservarmos a Amazônia Azul, assim como fazemos com a Amazônia verde, para garantir um futuro melhor para todos os seres vivos que dela dependem.\n Vamos proteger e cuidar desse tesouro que é tão fundamental para a nossa vida e para a saúde do nosso planeta!",
+    "Tokens": 335,
+    "TimeStamp": "2024_05_16_10_24_01",
+    "Model": "gpt-3.5-turbo"
+}

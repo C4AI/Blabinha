@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 310,
+    "falaUser": "blablabla",
+    "falaGPT": "||Olá! Vamos começar a dar a pontuação do jogo agora, tá bem? Analisando o quanto você interagiu e se divertiu, você ganhou 4 estrelas de um total de quatro! Incrível! Você se saiu muito bem e participou bastante.\n Parabéns pela sua pontuação máxima! 🌟🌟🌟🌟||Legal! Vamos fazer uma análise dos tópicos da nossa conversa.\n Você falou 14 vezes sobre o Meio Ambiente, 9 vezes sobre Governança e 9 vezes sobre Riquezas.\n Por abordar tão bem esses temas, você conquistou 4 estrelas! Parabéns! 🌟🌟🌟🌟||Que legal! Você encontrou um bônus e por isso ganhou duas estrelas! Parabéns! 🌟🌟\n\nAgora, o super-herói vai usar a ferramenta Trincheira encantada que purifica as águas.\n Isso vai ajudar muito nas aventuras! 🦸‍♂️🌊||Que legal! Você respondeu às 3 perguntas e agora vai poder escolher 4 atributos do herói.\n \n\nPara começar, o primeiro atributo é a roupa do super herói.\n Como você quer que seja a roupa do herói?",
+    "Tokens": 744,
+    "TimeStamp": "2024_05_07_18_09_12",
+    "Model": "gpt-3.5-turbo"
+}

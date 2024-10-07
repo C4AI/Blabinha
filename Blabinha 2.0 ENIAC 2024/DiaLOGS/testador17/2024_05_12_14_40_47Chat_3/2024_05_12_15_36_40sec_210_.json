@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 210,
+    "falaUser": "Criar herói",
+    "falaGPT": "||Pode perguntar mais, mas lembre-se de falar sobre a Amazônia Azul.\n Tem algo específico que quer saber sobre ela?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_12_15_36_40",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 216,
+    "falaUser": "Quais os minerais que existem na Amazônia Azul?",
+    "falaGPT": "||Na Amazônia Azul, também conhecida como Mar Brasileiro, podemos encontrar diversos minerais, incluindo o petróleo, gás natural, fosfato, níquel, cobalto, cobre, zinco, manganês e outros metais preciosos e estratégicos.\n Esses minerais são importantes para a economia e o desenvolvimento do Brasil, sendo explorados de forma responsável para garantir a preservação do meio ambiente marinho.\n A Amazônia Azul é uma região rica em recursos minerais e biológicos, que precisam ser explorados de forma sustentável para garantir a conservação do ecossistema marinho e o bem-estar das gerações futuras.\n||Agora vou fazer uma pergunta sobre os minerais encontrados na Amazônia Azul: Quais são os principais minerais estratégicos e preciosos encontrados nessa região marítima brasileira?||Quais minerais podem ser encontrados na Amazônia Azul?\n1) Petróleo\n2) Ferro\n3) Prata\n4) Diamante",
+    "Tokens": 884,
+    "TimeStamp": "2024_05_17_18_26_04",
+    "Model": "gpt-3.5-turbo"
+}

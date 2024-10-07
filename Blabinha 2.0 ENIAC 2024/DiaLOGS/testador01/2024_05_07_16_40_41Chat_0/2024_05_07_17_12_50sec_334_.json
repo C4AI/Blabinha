@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 334,
+    "falaUser": "Brilhante, com escamas de peixe!",
+    "falaGPT": "||No terceiro atributo, o herói terá um companheiro de exploração! Qual companheiro você acha que seria legal para o herói ter nessa aventura? Um animal fofinho, um robô tecnológico, um dragão majestoso? Me conta!",
+    "Tokens": 125,
+    "TimeStamp": "2024_05_07_17_12_50",
+    "Model": "gpt-3.5-turbo"
+}

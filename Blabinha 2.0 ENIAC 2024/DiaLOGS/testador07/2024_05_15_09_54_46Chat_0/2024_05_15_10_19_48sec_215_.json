@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 215,
+    "falaUser": "Opção 1 e 4",
+    "falaGPT": "||Você pode fazer mais perguntas! Mas não se esqueça de conversarmos sobre a Amazônia Azul.\n O que mais você gostaria de saber?",
+    "Tokens": 103,
+    "TimeStamp": "2024_05_15_10_19_48",
+    "Model": "gpt-3.5-turbo"
+}

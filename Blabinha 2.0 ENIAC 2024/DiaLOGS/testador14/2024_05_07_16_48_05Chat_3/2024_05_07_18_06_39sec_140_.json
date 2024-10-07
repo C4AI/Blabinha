@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 140,
+    "falaUser": "Mudei de ideia, eu topo o desafio",
+    "falaGPT": "||Olha só, vamos jogar um jogo sobre a Amazônia Azul! Primeiro, você precisa me fazer perguntas sobre esse tema, tá bom? Se você continuar falando sobre isso, vai ganhar mais e mais pontos.\n Se ficar difícil e você não souber mais o que perguntar, pode pedir uma dica de assunto pra mim.\n E lembre-se, você pode decidir parar de jogar e sair quando quiser, tá bom? Vamos começar?||Entendeu bem as regras que expliquei ou tem alguma dúvida que posso esclarecer?",
+    "Tokens": 300,
+    "TimeStamp": "2024_05_07_18_06_39",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 217,
+    "falaUser": "que peixes tem na amazonia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas, mas não se esqueça de falarmos sobre a Amazônia Azul, está bem?",
+    "Tokens": 97,
+    "TimeStamp": "2024_05_15_12_14_52",
+    "Model": "gpt-3.5-turbo"
+}

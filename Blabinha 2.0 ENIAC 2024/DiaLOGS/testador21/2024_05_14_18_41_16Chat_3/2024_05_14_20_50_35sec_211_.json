@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 211,
+    "falaUser": "que tipo de animal eu posso encontrar lá?",
+    "falaGPT": "||Na Amazônia Azul você pode encontrar muitos animais incríveis! Tem golfinhos que adoram brincar nas ondas, tartarugas marinhas que são super antigas e viajam o mundo, e também muitos peixinhos coloridos que parecem pinturas nadando! Além disso, temos baleias que são gigantes gentis e adoram cantar, e não podemos esquecer dos tubarões, que são os grandes reis do mar! Ah, e muitos, muitos tipos de corais que formam casinhas para os peixes e outros animaizinhos do mar.\n É um mundo mágico debaixo d'água!",
+    "Tokens": 325,
+    "TimeStamp": "2024_05_14_20_50_35",
+    "Model": "gpt-4-turbo"
+}

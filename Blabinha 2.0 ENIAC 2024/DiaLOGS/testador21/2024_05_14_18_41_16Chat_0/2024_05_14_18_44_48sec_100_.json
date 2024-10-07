@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 100,
+    "falaUser": "Olá, meu nome é Testador21",
+    "falaGPT": "||Olá, Testador21! Eu sou a Blabinha, um robô criado para conversar e compartilhar informações interessantes.\n Já ouviu falar da Amazônia Azul? É um lugar muito especial aqui no Brasil!",
+    "Tokens": 185,
+    "TimeStamp": "2024_05_14_18_44_48",
+    "Model": "gpt-4-turbo"
+}

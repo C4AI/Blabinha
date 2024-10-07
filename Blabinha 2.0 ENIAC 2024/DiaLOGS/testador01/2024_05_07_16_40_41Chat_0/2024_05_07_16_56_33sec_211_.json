@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "Existem espécies de animais que só são encontradas na Amazônia Azul?",
+    "falaGPT": "||Você pode fazer mais perguntas, mas não se esqueça de falarmos sobre a Amazônia Azul.\n O que mais gostaria de saber?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_07_16_56_33",
+    "Model": "gpt-3.5-turbo"
+}

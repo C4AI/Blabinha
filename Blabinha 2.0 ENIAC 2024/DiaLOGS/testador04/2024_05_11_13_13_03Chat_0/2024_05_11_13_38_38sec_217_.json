@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 217,
+    "falaUser": "quais especies estão em extinção na amazonia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Se precisar de ajuda, é só pedir dicas.\n",
+    "Tokens": 87,
+    "TimeStamp": "2024_05_11_13_38_38",
+    "Model": "gpt-3.5-turbo"
+}

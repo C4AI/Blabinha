@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 214,
+    "falaUser": "Pode explicar o que é responsabilidade ambiental? ",
+    "falaGPT": "||Claro! A responsabilidade ambiental é como se a gente fosse super-heróis que ajudam a cuidar da natureza! Sabe quando você arruma seu quarto? Então, é mais ou menos isso, mas com o nosso planeta.\n Isso significa que as pessoas e as empresas precisam cuidar dos rios, das plantas, dos animais e do ar.\n E como a gente faz isso? Reciclando coisas, economizando água, plantando árvores e não jogando lixo no chão.\n Assim, ajudamos a Terra a ficar feliz e saudável para nós e para os animais! Legal, né?||Agora, vamos ver o que você aprendeu! Vou fazer uma pergunta sobre responsabilidade ambiental para testar seus conhecimentos.\n Preparado? Vamos lá!||Qual destas ações NÃO faz parte da responsabilidade ambiental?\n\n1) Plantar árvores.\n\n2) Jogar lixo nos rios.\n\n3) Reciclar materiais usados.\n\n4) Economizar água.\n",
+    "Tokens": 831,
+    "TimeStamp": "2024_05_12_16_10_55",
+    "Model": "gpt-4-turbo"
+}

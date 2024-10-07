@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 324,
+    "falaUser": "quero que o heroi seja uma sereia, com um cabelo branco e encaracolado",
+    "falaGPT": "||Olá! Para criarmos um herói, o segundo atributo que vamos escolher é a capa.\n Como você gostaria que fosse a capa do nosso herói? Você prefere uma capa curta e vermelha, ou talvez uma capa longa e azul brilhante? Ou tem alguma outra ideia em mente para a capa do herói?",
+    "Tokens": 145,
+    "TimeStamp": "2024_05_11_13_45_55",
+    "Model": "gpt-3.5-turbo"
+}

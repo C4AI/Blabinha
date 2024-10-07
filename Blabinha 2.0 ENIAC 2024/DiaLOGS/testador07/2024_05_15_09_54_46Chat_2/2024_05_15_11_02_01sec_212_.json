@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 212,
+    "falaUser": "Quero terminar o caht",
+    "falaGPT": "||Você tem certeza que quer terminar? Estamos quase criando juntos o herói da nossa história!",
+    "Tokens": 100,
+    "TimeStamp": "2024_05_15_11_02_01",
+    "Model": "gpt-3.5-turbo"
+}

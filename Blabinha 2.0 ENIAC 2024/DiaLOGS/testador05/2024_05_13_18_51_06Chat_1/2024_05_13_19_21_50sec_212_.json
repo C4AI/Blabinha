@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 212,
+    "falaUser": "Qual o peixe mais perigoso ?",
+    "falaGPT": "||Você pode perguntar mais! Não esqueça de falarmos sobre a Amazônia Azul, ok? Estou ansiosa para as suas perguntas!",
+    "Tokens": 104,
+    "TimeStamp": "2024_05_13_19_21_50",
+    "Model": "gpt-3.5-turbo"
+}

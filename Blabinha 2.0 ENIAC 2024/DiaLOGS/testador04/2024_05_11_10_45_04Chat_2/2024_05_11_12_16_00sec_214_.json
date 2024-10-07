@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 214,
+    "falaUser": "que animais vivem nos corais?",
+    "falaGPT": "||Peixes coloridos, como os peixes-palhaços e peixes-anjo, são alguns dos animais que vivem nos corais.\n Também podemos encontrar estrelas-do-mar, caranguejos, polvos, cavalos-marinhos e uma grande diversidade de animais marinhos.\n Eles se escondem e se alimentam dos corais e das algas presentes nesse ambiente.\n É um lugar tão bonito e cheio de vida! Você gostaria de mergulhar para ver de perto esses animais?||Claro! Vou te fazer uma pergunta sobre os animais que vivem nos corais.\n Você está pronto para responder?||Quais são alguns dos animais que vivem nos corais?\n\n1) Peixes-palhaços\n2) Golfinhos\n3) Tubarões\n4) Tartarugas marinhas",
+    "Tokens": 728,
+    "TimeStamp": "2024_05_11_12_16_00",
+    "Model": "gpt-3.5-turbo"
+}

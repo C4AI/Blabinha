@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 210,
+    "falaUser": "quantos golfinhos tem na Amazônia Azul?",
+    "falaGPT": "||Você pode continuar fazendo perguntas, mas não se esqueça de falarmos sobre a Amazônia Azul.\n O que mais deseja saber?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_17_19_12_07",
+    "Model": "gpt-3.5-turbo"
+}

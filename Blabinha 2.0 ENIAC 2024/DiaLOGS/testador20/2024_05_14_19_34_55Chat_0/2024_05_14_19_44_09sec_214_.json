@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 214,
+    "falaUser": "posso praticar esportes lá?",
+    "falaGPT": "||Ah, na Amazônia Azul tem muita água, né? Então dá para brincar de nadar, mergulhar, velejar, e até surfar! Mas sempre acompanhado de um adulto e com muita segurança.\n Também tem que cuidar dos bichinhos e plantinhas que vivem lá, tá bom? Vamos proteger e brincar ao mesmo tempo! 🐟🌊||Legal que você gostou de aprender sobre a Amazônia Azul! Vou te fazer uma perguntinha agora: quais são os esportes aquáticos que você pode praticar na Amazônia Azul sem prejudicar o meio ambiente? Pensa direitinho e me conta!||Qual das seguintes atividades pode ser praticada com segurança na Amazônia Azul, sempre sob supervisão adequada e respeitando o meio ambiente?\n\n1) Mergulho\n2) Caça Subaquática\n3) Desmatamento para construção de resorts\n4) Poluição das águas através de descarte irregular de resíduos",
+    "Tokens": 735,
+    "TimeStamp": "2024_05_14_19_44_09",
+    "Model": "gpt-4-turbo"
+}

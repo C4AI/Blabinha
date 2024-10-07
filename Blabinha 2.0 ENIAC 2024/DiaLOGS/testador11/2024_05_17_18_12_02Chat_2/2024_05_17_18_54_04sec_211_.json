@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 211,
+    "falaUser": "tem petroleo lá?",
+    "falaGPT": "||Na Amazônia Azul, que compreende a região marinha do Brasil, existem diversas riquezas naturais, mas o petróleo é uma delas.\n O petróleo é uma substância encontrada no subsolo marinho e é extraído através de plataformas de petróleo.\n Esse recurso natural é muito importante para a economia do país, mas também é essencial cuidar para que a exploração seja feita de forma sustentável, sem prejudicar o meio ambiente marinho e a vida dos animais que habitam essas águas.\n É importante proteger e preservar as riquezas da Amazônia Azul para garantir um futuro melhor para todos.\n",
+    "Tokens": 326,
+    "TimeStamp": "2024_05_17_18_54_04",
+    "Model": "gpt-3.5-turbo"
+}

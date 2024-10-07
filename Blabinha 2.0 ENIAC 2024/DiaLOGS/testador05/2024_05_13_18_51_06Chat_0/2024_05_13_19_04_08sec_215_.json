@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 215,
+    "falaUser": "qual é o maior coral da Amazônia Azul ?",
+    "falaGPT": "||Pode perguntar mais, mas não se esqueça da Amazônia Azul! Ela é super importante, cheia de vida marinha e belezas naturais.\n",
+    "Tokens": 108,
+    "TimeStamp": "2024_05_13_19_04_08",
+    "Model": "gpt-3.5-turbo"
+}

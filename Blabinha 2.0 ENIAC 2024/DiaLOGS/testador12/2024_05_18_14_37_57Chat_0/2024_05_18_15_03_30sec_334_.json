@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 334,
+    "falaUser": "A capa deve ter a cor verde marinho",
+    "falaGPT": "||No terceiro atributo, vamos escolher o companheiro de exploração do nosso herói! Qual companheiro você acha que seria mais legal para o herói ter nessa aventura? Pode ser um animal, um personagem mágico, um robô.\n.\n.\n Qualquer coisa que vier à sua imaginação!",
+    "Tokens": 133,
+    "TimeStamp": "2024_05_18_15_03_30",
+    "Model": "gpt-3.5-turbo"
+}

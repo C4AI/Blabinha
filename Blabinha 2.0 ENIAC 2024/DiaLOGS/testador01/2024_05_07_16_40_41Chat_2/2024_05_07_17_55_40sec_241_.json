@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 241,
+    "falaUser": "A melhor opção é o raio laser.",
+    "falaGPT": "||Ótima escolha! O raio laser seria uma ferramenta eficaz para remover resíduos tóxicos do oceano e ajudar a proteger a Amazônia Azul.\n A tecnologia poderia ser uma aliada importante na preservação desse ecossistema marinho, garantindo a saúde e equilíbrio da vida marinha.\n Parabéns pela decisão!",
+    "Tokens": 464,
+    "TimeStamp": "2024_05_07_17_55_40",
+    "Model": "gpt-3.5-turbo"
+}

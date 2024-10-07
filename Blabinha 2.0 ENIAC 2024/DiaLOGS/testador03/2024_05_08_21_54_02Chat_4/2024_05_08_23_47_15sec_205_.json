@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 205,
+    "falaUser": "sim",
+    "falaGPT": "||Oi! Agora vamos falar sobre a Amazônia Azul.\n Faça perguntas e eu responderei.\n O que você gostaria de saber sobre esse importante ecossistema marinho?",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_08_23_47_15",
+    "Model": "gpt-3.5-turbo"
+}

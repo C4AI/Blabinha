@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 130,
+    "falaUser": "Sim!",
+    "falaGPT": "||Ao longo do desafio, você pode fazer perguntas sobre a Amazônia Azul para fortalecer o herói que está sendo criado, mas lembre-se que as perguntas contam como turnos.\n Além disso, você também pode pedir dicas sobre possíveis assuntos da Amazônia Azul, solicitar para terminar o desafio ou até mesmo criar o herói em algum momento da interação.\n Essas ações não serão contadas como turnos.\n Vamos começar?||Você entendeu as regras do desafio e está pronto para começar a criar o herói da Amazônia Azul? Se tiver mais alguma dúvida, pode perguntar!",
+    "Tokens": 546,
+    "TimeStamp": "2024_05_11_12_07_15",
+    "Model": "gpt-3.5-turbo"
+}

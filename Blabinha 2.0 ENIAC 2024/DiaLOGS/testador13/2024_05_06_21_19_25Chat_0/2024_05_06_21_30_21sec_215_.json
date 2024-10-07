@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 215,
+    "falaUser": "Tem água viva na amazonia azul?",
+    "falaGPT": "||Claro! Você pode fazer mais perguntas ou pedir dicas sobre o que a gente tá falando.\n",
+    "Tokens": 86,
+    "TimeStamp": "2024_05_06_21_30_21",
+    "Model": "gpt-4-turbo"
+}

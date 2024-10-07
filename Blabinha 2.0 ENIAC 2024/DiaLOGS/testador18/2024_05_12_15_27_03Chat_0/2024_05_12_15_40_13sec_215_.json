@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 215,
+    "falaUser": "E qual o menor animal?",
+    "falaGPT": "||Ah, claro! Se estamos falando de animaizinhos super pequenininhos, o título de menor animal vai para o tardígrado, também conhecido como \"urso d'água\".\n Eles são microscópicos, medindo cerca de 0,5 milímetros no máximo.\n Os tardígrados são muito especiais porque conseguem sobreviver em condições extremas, até mesmo no espaço! Eles encolhem e se tornam quase indestrutíveis quando as coisas ficam difíceis.\n São pequenos mas muito poderosos!",
+    "Tokens": 297,
+    "TimeStamp": "2024_05_12_15_40_13",
+    "Model": "gpt-4-turbo"
+}

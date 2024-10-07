@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 217,
+    "falaUser": "O que tem de plantas na amazonia azul?",
+    "falaGPT": "||Você quer continuar conversando ou prefere encerrar por aqui? Pode fazer mais perguntas se quiser!",
+    "Tokens": 79,
+    "TimeStamp": "2024_05_14_22_12_46",
+    "Model": "gpt-4-turbo"
+}

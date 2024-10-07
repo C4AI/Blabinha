@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 215,
+    "falaUser": "qual é a origem do nosso heroi?",
+    "falaGPT": "||Desculpe, mas a questão sobre a origem de um herói não está relacionada com a Amazônia Azul, que é uma área marítima de interesse do Brasil.\n Como posso ajudar?||O user pode falar sobre a importância da preservação da biodiversidade marinha na Amazônia Azul, a exploração sustentável dos recursos naturais presentes nessa região, os impactos ambientais causados por atividades humanas como a pesca predatória e a exploração de petróleo, além dos esforços de conservação e proteção ambiental realizados no âmbito da Amazônia Azul.\n Outros temas relevantes são a pesquisa científica realizada na região para a compreensão dos ecossistemas marinhos presentes, a riqueza da flora e fauna marinha, os povos indígenas e comunidades locais que dependem desses recursos, e as políticas públicas voltadas para a gestão sustentável do ambiente marinho na Amazônia Azul.\n",
+    "Tokens": 457,
+    "TimeStamp": "2024_05_08_22_39_37",
+    "Model": "gpt-3.5-turbo"
+}

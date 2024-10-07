@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 130,
+    "falaUser": "sim!!!",
+    "falaGPT": "||Lembre-se de que o desafio terá, no máximo, sete turnos.\n Você pode pedir dicas sobre possíveis assuntos relacionados à Amazônia Azul, pedir para criar o herói em algum momento da interação, pedir para terminar o jogo ou encerrar o jogo sem que essas ações contem como um turno.\n Vamos começar! Como posso te ajudar a criar um herói para a Amazônia Azul?||Que tipo de superpoderes você gostaria que seu herói tivesse? Qual seria sua origem? Como ele protegeria a Amazônia Azul? Compreendi suas escolhas?",
+    "Tokens": 506,
+    "TimeStamp": "2024_05_15_11_59_45",
+    "Model": "gpt-3.5-turbo"
+}

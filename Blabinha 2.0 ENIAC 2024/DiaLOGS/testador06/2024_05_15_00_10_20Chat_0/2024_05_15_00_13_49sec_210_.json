@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 210,
+    "falaUser": "quais animais moram lá?",
+    "falaGPT": "||Na Amazônia Azul, vivem diversos animais marinhos, como peixes, baleias, golfinhos, tartarugas, tubarões, polvos, e muito mais! Eles fazem parte desse ecossistema marinho incrível e diversificado, proporcionando um ambiente único e cheio de vida para explorar e proteger.\n Os oceanos são o lar de uma variedade impressionante de criaturas, todas desempenhando papéis importantes na saúde do ecossistema marinho.\n É muito legal aprender sobre esses animais e como podemos ajudar a conservar o ambiente marinho para que eles possam continuar a viver felizes e saudáveis em seus habitats naturais.\n E a Amazônia Azul, sendo parte do mar do Brasil, é um lugar especial cheio de vida marinha para cuidarmos!",
+    "Tokens": 357,
+    "TimeStamp": "2024_05_15_00_13_49",
+    "Model": "gpt-3.5-turbo"
+}

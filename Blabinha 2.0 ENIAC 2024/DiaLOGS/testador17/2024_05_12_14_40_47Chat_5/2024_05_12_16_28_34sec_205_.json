@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 205,
+    "falaUser": "Um triângulo retângulo tem um cateto medindo 1,2m e outro cateto medindo 50 cm. Qual é a medida da hipotenusa?",
+    "falaGPT": "||Agora, se você quiser, posso te contar sobre a Amazônia Azul, uma área muito especial no Brasil.\n Só me fazer perguntas sobre ela!",
+    "Tokens": 144,
+    "TimeStamp": "2024_05_12_16_28_34",
+    "Model": "gpt-4-turbo"
+}

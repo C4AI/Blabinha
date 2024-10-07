@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 205,
+    "falaUser": "A Amazônia Azul abriga que tipos de animais?",
+    "falaGPT": "||A Amazônia Azul abriga uma grande diversidade de animais marinhos, como golfinhos, tartarugas, peixes coloridos, corais, baleias, tubarões e muito mais.\n Você tem alguma pergunta sobre esses animais ou sobre a Amazônia Azul? Eu posso te ajudar a descobrir mais informações!",
+    "Tokens": 167,
+    "TimeStamp": "2024_05_13_19_18_40",
+    "Model": "gpt-3.5-turbo"
+}

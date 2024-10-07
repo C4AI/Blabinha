@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 212,
+    "falaUser": "tem plantas lá?",
+    "falaGPT": "||Na Amazônia Azul existe uma grande diversidade de plantas marinhas, como algas, coral, e outras formas de vida vegetal adaptadas ao ambiente aquático.\n Essas plantas desempenham um papel importante na manutenção do ecossistema marinho, fornecendo alimento e abrigo para muitas espécies animais, ajudando a manter o equilíbrio ecológico das águas.\n É incrível como a vida marinha é variada e cheia de surpresas!||Vou apresentar uma pergunta sobre a diversidade de plantas marinhas na Amazônia Azul, e você poderá responder com base nas informações fornecidas.\n||Quais tipos de plantas podem ser encontradas na Amazônia Azul?\n\n1) Algas\n2) Coral\n3) Manguezais\n4) Seaweed",
+    "Tokens": 709,
+    "TimeStamp": "2024_05_15_12_02_52",
+    "Model": "gpt-3.5-turbo"
+}

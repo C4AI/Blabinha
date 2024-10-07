@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 214,
+    "falaUser": "Qual o principal peixe?",
+    "falaGPT": "||Na Amazônia Azul, um dos principais peixes é o peixe-boi, que é muito importante para o ecossistema marinho.\n Ele é um mamífero aquático que se alimenta de plantas aquáticas e desempenha um papel fundamental na manutenção do equilíbrio ambiental.\n Além do peixe-boi, há também vários outros peixes importantes na região, como o tubarão, o peixe-palhaço e o boto-cor-de-rosa.\n Todos esses animais contribuem para a diversidade e saúde dos oceanos.\n E você, já viu algum desses peixes de perto?||Agora, vou fazer uma pergunta sobre os principais peixes da Amazônia Azul: Qual é o nome do peixe que é um mamífero aquático e desempenha um papel fundamental no ecossistema marinho desta região?||Qual dos peixes abaixo é considerado um dos principais na Amazônia Azul?\n\n1) Peixe-boi\n2) Salmão\n3) Atum\n4) Dourado",
+    "Tokens": 835,
+    "TimeStamp": "2024_05_17_11_58_15",
+    "Model": "gpt-3.5-turbo"
+}

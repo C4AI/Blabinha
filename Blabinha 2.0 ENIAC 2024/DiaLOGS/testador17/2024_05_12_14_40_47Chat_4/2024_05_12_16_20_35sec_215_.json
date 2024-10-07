@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 215,
+    "falaUser": "A moreia-azul pode ser encontrada na Amazônia Azul? ",
+    "falaGPT": "||Ah, entendi! Olha, a moreia-azul é um tipo de peixe que vive em águas salgadas, principalmente em recifes de coral e ambientes rochosos no oceano.\n A Amazônia Azul é uma área no oceano do Brasil, mas não tem corais como os lugares onde a moreia-azul gosta de viver.\n Então, a moreia-azul não é encontrada na Amazônia Azul, tá? Ela prefere lugares como o Caribe ou o Pacífico.\n Legal saber disso, né? 🐠🌊",
+    "Tokens": 317,
+    "TimeStamp": "2024_05_12_16_20_35",
+    "Model": "gpt-4-turbo"
+}

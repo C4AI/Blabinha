@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 141,
+    "falaUser": "Então vamos lá",
+    "falaGPT": "||Olha só, amiguinho! As regras do jogo são fáceis: você me faz perguntinhas sobre a Amazônia azul e ganha pontos se falar bastante sobre isso.\n Se ficar sem ideia, pode pedir dica.\n E se quiser parar, pode sair a qualquer hora, tá bom?||Você entendeu as regras do jogo? Se quiser posso explicar novamente.\n Vamos começar!",
+    "Tokens": 267,
+    "TimeStamp": "2024_05_13_19_44_00",
+    "Model": "gpt-3.5-turbo"
+}

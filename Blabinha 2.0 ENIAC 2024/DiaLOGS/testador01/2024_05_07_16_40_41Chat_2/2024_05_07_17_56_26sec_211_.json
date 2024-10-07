@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "Quem protege a Amazônia Azul?",
+    "falaGPT": "||Para proteger a Amazônia Azul, a Marinha do Brasil é a responsável por essa tarefa! Ela trabalha para garantir a segurança das águas, combatendo atividades ilegais, como pesca predatória, tráfico de animais marinhos e poluição.\n Além disso, realiza missões de patrulhamento e monitoramento para proteger a biodiversidade marinha e os recursos naturais.\n Graças a esses esforços, a Amazônia Azul é preservada e suas riquezas são protegidas para as gerações futuras! A Marinha do Brasil é uma grande amiga dos mares e oceanos!",
+    "Tokens": 327,
+    "TimeStamp": "2024_05_07_17_56_26",
+    "Model": "gpt-3.5-turbo"
+}

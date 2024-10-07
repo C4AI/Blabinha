@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 217,
+    "falaUser": "que peixes tem na amazonia azul?",
+    "falaGPT": "||Desculpe pela confusão.\n Na região da Amazônia Azul, que faz parte do mar brasileiro, você pode encontrar uma grande variedade de peixes, como o peixe-boi, o pirarucu, o tambaqui, o aruanã, a piranha, entre outros.\n Essa região é rica em biodiversidade marinha, com muitas espécies diferentes de peixes coloridos e interessantes para conhecer.\n Também é importante lembrar que a preservação da Amazônia Azul é fundamental para a manutenção dessas espécies e de todo o ecossistema marinho.\n Espero que tenha ajudado a responder sua pergunta!",
+    "Tokens": 331,
+    "TimeStamp": "2024_05_15_12_14_51",
+    "Model": "gpt-3.5-turbo"
+}

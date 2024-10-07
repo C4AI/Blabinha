@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 210,
+    "falaUser": "O que é a Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é como se fosse um grande pedaço do oceano que pertence ao Brasil, sabe? É como um marzão cheio de peixinhos e outras criaturas maravilhosas, cobrindo uma área grande que vai desde a praia até bem longe no oceano! É superimportante porque tem muitos animais, plantas e até tesouros escondidos, como petróleo e minerais.\n E, claro, ajuda a gente a cuidar da natureza e usar esses recursos de maneira responsável.\n É como um tesouro azul que precisamos proteger!",
+    "Tokens": 315,
+    "TimeStamp": "2024_05_12_15_40_23",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 267,
+    "falaUser": "Continuar, quantos litros de água tem na Amazônia Azul?",
+    "falaGPT": "||Que legal que você decidiu continuar! A Amazônia Azul não se refere a uma área de água, mas sim à extensão marítima brasileira.\n Continue explorando este tema interessante!",
+    "Tokens": 159,
+    "TimeStamp": "2024_05_17_18_27_14",
+    "Model": "gpt-3.5-turbo"
+}

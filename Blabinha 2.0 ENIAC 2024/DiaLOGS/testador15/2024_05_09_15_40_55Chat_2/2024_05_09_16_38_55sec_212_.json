@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 212,
+    "falaUser": "o que tem lá?",
+    "falaGPT": "||Ops, não entendi bem o que você quis dizer com \"o que tem lá?\".\n Você pode me contar mais sobre o que você está pensando? Eu adoro imaginar lugares e coisas! 😊||Claro! Para entender melhor e responder à sua pergunta, precisarei de mais informações sobre o que ou onde você está se referindo.\n Pode me dar mais detalhes sobre o assunto ou lugar mencionado? Isso ajudará a fornecer uma resposta mais precisa!||Claro, aqui está uma questão com quatro alternativas:\n\nQual é a capital da França?\n1) Barcelona\n2) Berlim\n3) Paris\n4) Roma",
+    "Tokens": 515,
+    "TimeStamp": "2024_05_09_16_38_55",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 120,
+    "falaUser": "Quais animais tem?",
+    "falaGPT": "||Na Amazônia Azul, podemos encontrar uma grande variedade de animais marinhos, como golfinhos, tartarugas, peixes de diferentes espécies, corais coloridos, além de muitas plantas aquáticas.\n Todos esses seres vivos contribuem para a riqueza e equilíbrio do ecossistema marinho.\n E aí, você topa participar do desafio de criar um super-herói inspirado na Amazônia Azul? Seria muito legal ver a sua criatividade nessa aventura! Que tal embarcar nessa jornada? 🌊🦈🌿",
+    "Tokens": 356,
+    "TimeStamp": "2024_05_17_19_11_25",
+    "Model": "gpt-3.5-turbo"
+}

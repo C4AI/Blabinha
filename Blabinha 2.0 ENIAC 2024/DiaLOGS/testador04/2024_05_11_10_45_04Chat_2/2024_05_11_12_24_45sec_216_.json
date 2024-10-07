@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 216,
+    "falaUser": "qual o maior tubarão que existe no Brasil?",
+    "falaGPT": "||Você pode continuar fazendo perguntas ou me avisar se deseja encerrar a conversa.\n Eu estou aqui para ajudar!",
+    "Tokens": 84,
+    "TimeStamp": "2024_05_11_12_24_45",
+    "Model": "gpt-3.5-turbo"
+}

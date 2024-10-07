@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "O que são anêmonas da AA?",
+    "falaGPT": "||Posso ajudar mais em alguma coisa? Se precisar de mais informações, é só perguntar! Ou posso dar tchau se preferir.\n",
+    "Tokens": 90,
+    "TimeStamp": "2024_05_17_19_37_00",
+    "Model": "gpt-3.5-turbo"
+}

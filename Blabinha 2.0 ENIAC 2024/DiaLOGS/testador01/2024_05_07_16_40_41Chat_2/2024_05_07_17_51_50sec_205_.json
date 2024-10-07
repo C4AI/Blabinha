@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 205,
+    "falaUser": "Entendi",
+    "falaGPT": "||Vou repetir de um jeito mais simples, ok? Aqui vai: Você precisa me fazer perguntas sobre a Amazônia azul para ganhar pontos.\n Se ficar sem ideias, é só pedir uma dica.\n E pode parar a hora que quiser.\n",
+    "Tokens": 208,
+    "TimeStamp": "2024_05_07_17_51_50",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 215,
+    "falaUser": "quais são as tecnologías utilizadas para exploração da amazonia azul?",
+    "falaGPT": "||Desculpe pela confusão, vou corrigir minha resposta.\n As tecnologias utilizadas para explorar a Amazônia Azul incluem satélites de observação da Terra, veículos submarinos não tripulados, sensores acústicos e sonares, como o Ecobatímetro e LIDAR, que ajudam a mapear o relevo submarino.\n Além disso, são utilizados equipamentos de comunicação via satélite, radares marítimos e sistemas de monitoramento ambiental para acompanhar as atividades na região e garantir a segurança e preservação do ambiente marinho.\n Essas tecnologias são essenciais para estudar, proteger e explorar de forma sustentável os recursos da Amazônia Azul.\n",
+    "Tokens": 356,
+    "TimeStamp": "2024_05_15_00_34_27",
+    "Model": "gpt-3.5-turbo"
+}

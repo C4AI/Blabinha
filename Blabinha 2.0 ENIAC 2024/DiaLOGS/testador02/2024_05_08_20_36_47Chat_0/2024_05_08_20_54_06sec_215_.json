@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 215,
+    "falaUser": "vamos encerrar",
+    "falaGPT": "||Tem certeza que quer parar agora? Estamos quase terminando de criar o herói juntos, falta pouco!",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_08_20_54_06",
+    "Model": "gpt-3.5-turbo"
+}

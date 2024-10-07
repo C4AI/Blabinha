@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 324,
+    "falaUser": "Meu herói usa um relógio à prova d'água e tem roupa de mergulho azul",
+    "falaGPT": "||Legal! Então o segundo atributo do nosso herói é a capa.\n Como você imagina que seja a capa dele? Tem alguma cor ou detalhe especial que você gostaria que tivesse?",
+    "Tokens": 103,
+    "TimeStamp": "2024_05_14_19_52_39",
+    "Model": "gpt-4-turbo"
+}

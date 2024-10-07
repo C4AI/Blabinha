@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 213,
+    "falaUser": "qual é a biodiversidade marinha na Amazonia azul?",
+    "falaGPT": "||Na biodiversidade marinha da Amazônia Azul, podemos encontrar uma variedade incrível de animais, plantas e microorganismos! Entre eles, há peixes coloridos, corais, algas, tartarugas, golfinhos, tubarões e muitas outras espécies fascinantes.\n A diversidade de vida na Amazônia Azul é única e importante para o equilíbrio dos ecossistemas marinhos.\n É como se fosse um verdadeiro tesouro escondido no fundo do mar, repleto de vida e magia! Gostou de saber um pouquinho mais sobre a biodiversidade marinha da Amazônia Azul? 😉🌊🐠🌿",
+    "Tokens": 342,
+    "TimeStamp": "2024_05_08_22_54_20",
+    "Model": "gpt-3.5-turbo"
+}

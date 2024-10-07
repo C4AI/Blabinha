@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 213,
+    "falaUser": "Acredito que seja a poluição",
+    "falaGPT": "||Parabéns! Você acertou! A poluição é de fato um dos maiores riscos para a Amazônia Azul, causando danos significativos à vida marinha, ecossistemas e à saúde das pessoas.\n É essencial combater a poluição para preservar esse importante ecossistema marinho.\n",
+    "Tokens": 431,
+    "TimeStamp": "2024_05_08_20_57_40",
+    "Model": "gpt-3.5-turbo"
+}

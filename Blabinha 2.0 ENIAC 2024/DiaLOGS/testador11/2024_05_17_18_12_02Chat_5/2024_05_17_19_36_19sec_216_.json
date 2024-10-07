@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 216,
+    "falaUser": "Qual o menor animal da região da AA?",
+    "falaGPT": "||Na região da Amazônia Azul, um dos menores animais pode ser o zooplâncton, que são organismos microscópicos que vivem na água do mar e servem de alimento para muitos outros animais marinhos.\n Eles são tão pequenininhos que só conseguimos vê-los com um microscópio! Também existem alguns peixes bem pequenos, como certas espécies de cardumes.\n Mas é importante lembrar que todos esses animais, mesmo os pequenininhos, têm um papel importante no equilíbrio do ecossistema marinho.\n Legal, né? E você sabia que existem muitas outras criaturas incríveis no fundo do mar, como os corais e os anêmonas? É uma biodiversidade riquíssima!||Vou fazer uma pergunta sobre a biodiversidade marinha na região da Amazônia Azul.\n Essa região abriga uma grande variedade de espécies de animais de todos os tamanhos.\n Vamos ver se você sabe qual é o menor animal marinho encontrado por lá!||Qual dos seguintes animais é considerado o menor da região da Amazônia Azul?\n1) Zooplâncton\n2) Peixe cardume\n3) Tartaruga marinha\n4) Golfinho",
+    "Tokens": 981,
+    "TimeStamp": "2024_05_17_19_36_19",
+    "Model": "gpt-3.5-turbo"
+}

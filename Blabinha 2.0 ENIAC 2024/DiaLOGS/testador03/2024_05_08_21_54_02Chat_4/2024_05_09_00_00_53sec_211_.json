@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 211,
+    "falaUser": "os rios sao parte da amazonia azul?",
+    "falaGPT": "||Ops, me desculpe pela confusão anterior! Os rios não fazem parte da Amazônia Azul.\n A Amazônia Azul abrange principalmente as águas marítimas e oceânicas que fazem parte da costa do Brasil, incluindo a plataforma continental.\n Os rios, por outro lado, estão localizados principalmente em áreas terrestres e não fazem parte dessa região marítima.\n No entanto, os rios podem desempenhar um papel importante no abastecimento de água doce para os ecossistemas da Amazônia Azul, pois a água dos rios frequentemente se mistura com as águas costeiras e oceânicas.\n Espero que isso tenha esclarecido a sua dúvida!",
+    "Tokens": 348,
+    "TimeStamp": "2024_05_09_00_00_53",
+    "Model": "gpt-3.5-turbo"
+}

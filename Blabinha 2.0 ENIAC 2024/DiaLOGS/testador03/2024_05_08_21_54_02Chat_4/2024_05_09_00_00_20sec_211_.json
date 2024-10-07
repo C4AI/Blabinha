@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 211,
+    "falaUser": "existem outras amazonias azuis ?",
+    "falaGPT": "||Você pode fazer mais perguntas sobre o que quiser! Estou aqui para ajudar e conversar com você.\n O que mais deseja saber?",
+    "Tokens": 80,
+    "TimeStamp": "2024_05_09_00_00_20",
+    "Model": "gpt-3.5-turbo"
+}

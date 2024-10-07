@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 213,
+    "falaUser": "Tem poluição na Amazonia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é bem grande e bonita, não é? Mas sabia que, mesmo sendo no mar, ela pode sim ter poluição? Pois é, às vezes, algumas pessoas jogam lixo como plásticos nos rios e esse lixo vai parar no mar.\n Também tem navios que soltam óleo e sujeiras na água.\n Isso tudo pode fazer mal para os peixinhos e todas as criaturas que vivem lá.\n É super importante cuidar bem dos nossos mares para que todos os animais marinhos possam viver felizes e saudáveis, né?",
+    "Tokens": 309,
+    "TimeStamp": "2024_05_14_20_38_52",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 217,
+    "falaUser": "opção 1",
+    "falaGPT": "||A resposta não está correta.\n A opção correta é a 3) Exploração autorizada de petróleo.\n Pirataria envolve atividades ilegais, e a exploração autorizada de petróleo não é ilegal ou considerada pirataria.\n",
+    "Tokens": 443,
+    "TimeStamp": "2024_05_15_04_20_51",
+    "Model": "gpt-4-turbo"
+}

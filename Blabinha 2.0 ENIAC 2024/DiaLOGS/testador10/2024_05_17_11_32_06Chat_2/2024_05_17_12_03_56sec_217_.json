@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 217,
+    "falaUser": "Há alguma ilha na Amazônia Azul?",
+    "falaGPT": "||Você deseja fazer mais perguntas ou podemos encerrar por aqui? Eu estou aqui para te ajudar!",
+    "Tokens": 79,
+    "TimeStamp": "2024_05_17_12_03_56",
+    "Model": "gpt-3.5-turbo"
+}

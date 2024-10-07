@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "O que são anêmonas da AA?",
+    "falaGPT": "||Desculpa, mas não encontrei informações sobre anêmonas específicas da Amazônia Azul.\n No entanto, as anêmonas são criaturas marinhas muito interessantes que vivem em ambientes de água salgada e são parentes próximas dos corais e das medusas.\n Elas têm tentáculos venenosos que usam para capturar alimentos e se proteger de predadores.\n Algumas anêmonas têm cores vibrantes e formas bonitas, tornando-as ainda mais fascinantes de se observar no fundo do mar.\n Se eu puder ajudar com mais alguma informação sobre a Amazônia Azul ou outras criaturas marinhas, fico à disposição!",
+    "Tokens": 332,
+    "TimeStamp": "2024_05_17_19_36_59",
+    "Model": "gpt-3.5-turbo"
+}

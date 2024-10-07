@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 217,
+    "falaUser": "Quantos navios tem na amazonia azul?",
+    "falaGPT": "||Claro, pode perguntar mais! O que mais você gostaria de saber?",
+    "Tokens": 67,
+    "TimeStamp": "2024_05_07_17_22_10",
+    "Model": "gpt-4-turbo"
+}

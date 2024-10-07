@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 215,
+    "falaUser": "O governo federal",
+    "falaGPT": "||Parabéns, a resposta está correta! O governo federal é o principal responsável pela gestão e proteção da Amazônia Azul no Brasil, coordenando ações e políticas para garantir a preservação e o uso sustentável dessa importante região marítima.\n",
+    "Tokens": 390,
+    "TimeStamp": "2024_05_07_17_04_25",
+    "Model": "gpt-3.5-turbo"
+}

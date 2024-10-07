@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 130,
+    "falaUser": "Ok",
+    "falaGPT": "||Nesse desafio, o jogo tem no máximo 7 turnos.\n Durante esses turnos, você pode fazer perguntas sobre a Amazônia Azul para criar um herói com a Blabinha.\n Além disso, você pode pedir dicas sobre possíveis assuntos da Amazônia Azul para ajudar na criação do herói.\n Se quiser, pode pedir para terminar o jogo ou para criar o herói em algum momento da interação, e nesses casos, não contam como turno.\n Vamos começar? Como posso te ajudar a criar o herói da Amazônia Azul?||Você entendeu as regras do desafio para criarmos juntos o herói da Amazônia Azul? Se precisar de mais alguma informação, estou aqui para ajudar!",
+    "Tokens": 610,
+    "TimeStamp": "2024_05_18_15_16_45",
+    "Model": "gpt-3.5-turbo"
+}

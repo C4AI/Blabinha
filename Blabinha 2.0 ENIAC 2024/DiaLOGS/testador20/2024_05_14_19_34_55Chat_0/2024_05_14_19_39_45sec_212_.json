@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 212,
+    "falaUser": "Como ela é protegida?",
+    "falaGPT": "||Ah, claro! A Amazônia Azul é super importante e precisa de muita proteção para cuidar de todos os animais marinhos e plantinhas que vivem lá! Ela é protegida pelo governo do Brasil e pela Marinha, que cuidam para que ninguém faça coisas ruins lá, como poluir ou pescar demais.\n Eles usam navios e aviões para vigiar tudo bem de pertinho e também fazem leis para manter a Amazônia Azul segura e saudável, assim todos os nossos amigos peixinhos e corais podem viver felizes! 🐟🌊||Vou criar uma pergunta sobre a Amazônia Azul, focando em como ela é protegida.\n Isso ajudará a entender melhor a importância dessa região e as medidas adotadas para conservá-la.\n||Qual órgão é responsável pela proteção e vigilância da Amazônia Azul, garantindo a segurança das suas riquezas naturais?\n\n1) Ministério da Saúde\n2) Marinha do Brasil\n3) Ministério da Educação\n4) Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA)",
+    "Tokens": 856,
+    "TimeStamp": "2024_05_14_19_39_45",
+    "Model": "gpt-4-turbo"
+}

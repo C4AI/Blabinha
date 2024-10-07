@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 324,
+    "falaUser": "quero que ele vista uma roupa azul",
+    "falaGPT": "||Legal! O segundo atributo do herói que estamos criando é a capa.\n Como você gostaria que fosse a capa do nosso herói? Ela poderia ser colorida, brilhante, com algum símbolo especial, ou ter algum poder mágico? Me conta o que você imagina!",
+    "Tokens": 128,
+    "TimeStamp": "2024_05_15_11_42_52",
+    "Model": "gpt-3.5-turbo"
+}

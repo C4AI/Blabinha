@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 214,
+    "falaUser": "Qual vai ser o nome do super-herói?",
+    "falaGPT": "||Desculpe, mas o nome do super-herói não está relacionado ao tema da Amazônia azul.\n Se tiver outra pergunta sobre o assunto, estou à disposição para ajudar.\n||O usuário pode falar sobre a Amazônia Azul abordando diferentes aspectos, como a biodiversidade marinha presente na região, os impactos ambientais e a importância da preservação do ecossistema marinho, as atividades econômicas desenvolvidas na região, como a pesca e a exploração de recursos minerais, a exploração de petróleo e gás offshore, além das pesquisas científicas e tecnológicas relacionadas à Amazônia Azul, como estudos sobre o potencial biotecnológico dos organismos marinhos.\n São muitas as possibilidades de temas interessantes para explorar em relação a essa extensa e rica região marítima brasileira.\n",
+    "Tokens": 432,
+    "TimeStamp": "2024_05_07_17_30_23",
+    "Model": "gpt-3.5-turbo"
+}

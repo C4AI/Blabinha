@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 212,
+    "falaUser": "Quantos metros de profundidade?",
+    "falaGPT": "||Olá! Desculpe, mas eu não possuo a informação sobre a profundidade em metros da Amazônia Azul.\n Essa é uma área marinha extensa e possui diferentes profundidades, que variam de acordo com a localização geográfica.\n Se quiser, posso tentar buscar mais informações sobre isso para você.\n Posso ajudar em mais alguma coisa?||Agora vou criar uma questão para testar seus conhecimentos sobre a Amazônia Azul.\n Fique atento e boa sorte!||Qual é a profundidade média da região da Amazônia Azul?\n1) 500 metros\n2) 1000 metros\n3) 2000 metros\n4) 3000 metros",
+    "Tokens": 613,
+    "TimeStamp": "2024_05_17_19_32_39",
+    "Model": "gpt-3.5-turbo"
+}

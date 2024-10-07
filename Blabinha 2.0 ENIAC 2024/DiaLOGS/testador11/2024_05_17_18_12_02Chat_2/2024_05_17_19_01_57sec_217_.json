@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "qual o maior peixe encontrado na amazonia azul?",
+    "falaGPT": "||Na Amazônia Azul, a região que engloba as águas brasileiras no oceano Atlântico, o maior peixe encontrado é o tubarão-baleia.\n Esse gigante gentil pode chegar a mais de 12 metros de comprimento, sendo um dos maiores peixes do mundo! Eles se alimentam de plâncton e pequenos peixes, nadando calmamente pelas águas azuis da região, tornando-se um espetáculo incrível de se ver.\n Esses majestosos animais são muito importantes para o equilíbrio do ecossistema marinho e a preservação da biodiversidade na Amazônia Azul.\n É muito legal aprender sobre essas maravilhas da natureza!",
+    "Tokens": 349,
+    "TimeStamp": "2024_05_17_19_01_57",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 211,
+    "falaUser": "O que são crustáceos?",
+    "falaGPT": "||Crustáceos são animais do mar que têm o corpo coberto por uma casca dura, como um \"casaco\" resistente.\n Eles incluem caranguejos, camarões, lagostas e siris, e vivem em diversos ambientes aquáticos, como oceanos, rios e lagos.\n Os crustáceos são muito importantes para o equilíbrio das cadeias alimentares marinhas, e também são uma fonte de alimento para muitas outras espécies, incluindo nós humanos.\n São animais muito interessantes de observar, com suas diversas formas e tamanhos!",
+    "Tokens": 308,
+    "TimeStamp": "2024_05_11_10_53_27",
+    "Model": "gpt-3.5-turbo"
+}

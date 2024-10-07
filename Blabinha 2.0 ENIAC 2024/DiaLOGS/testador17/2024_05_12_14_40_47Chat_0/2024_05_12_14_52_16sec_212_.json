@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 212,
+    "falaUser": "Fale um pouco sobre os animais ",
+    "falaGPT": "||Claro! Vou te contar sobre alguns animais super legais!\n\nOs animais são nossos amigos fofinhos e interessantes que vivem no planeta Terra junto com a gente! Temos muitos tipos diferentes, como os gatinhos que ronronam e adoram uma carícia, os cachorrinhos que abanam o rabinho e adoram brincar, e os passarinhos que cantam lindas músicas lá no céu!\n\nE não podemos esquecer dos animais que vivem na água, como os peixinhos coloridos que nadam nos rios e oceanos, e os golfinhos que fazem piruetas e parecem sempre estar sorrindo!\n\nCada animalzinho tem sua própria casa, seja na floresta, no deserto ou nos oceanos, e eles nos ensinam muito sobre cuidar do nosso planeta.\n São todos muito especiais! 🐶🐱🐠||Agora farei uma questão sobre o assunto que tratamos! Vai ser divertido testar seu conhecimento sobre esses incríveis habitantes do nosso planeta.\n Preparado?||Qual dos seguintes animais é conhecido por sua habilidade de fazer piruetas e parecer sorrir?\n\n1) Tubarão\n2) Polvo\n3) Golfinho\n4) Baleia azul",
+    "Tokens": 1021,
+    "TimeStamp": "2024_05_12_14_52_16",
+    "Model": "gpt-4-turbo"
+}

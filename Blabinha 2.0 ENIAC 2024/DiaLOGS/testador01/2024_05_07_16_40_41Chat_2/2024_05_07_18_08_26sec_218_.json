@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 218,
+    "falaUser": "Qual é a pena pra quem polui o mar brasileiro?",
+    "falaGPT": "||Uau, você conversou tanto que chegamos ao final! Agora, vamos criar juntos o nosso herói! Para isso, vou precisar ler toda a nossa conversa com a ajuda de um script para poder avaliar as informações.\n Quando estiver tudo pronto, você poderá começar a escrever a história do nosso herói.\n \n\nPara começar, basta você escrever qualquer coisa!",
+    "Tokens": 220,
+    "TimeStamp": "2024_05_07_18_08_26",
+    "Model": "gpt-3.5-turbo"
+}

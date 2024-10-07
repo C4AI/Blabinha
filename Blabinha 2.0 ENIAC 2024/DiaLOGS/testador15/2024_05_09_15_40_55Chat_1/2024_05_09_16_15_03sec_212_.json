@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 212,
+    "falaUser": "onde a amazonia azul se encontra?",
+    "falaGPT": "||A Amazônia Azul é como uma grande piscina de água salgada que fica bem ao lado do nosso país, o Brasil! Ela está no Oceano Atlântico, abraçando todo o nosso litoral.\n Imagina só, é como se o Brasil tivesse um enorme quintal azul onde moram peixinhos, baleias e até corais coloridos! É super importante e linda, né?||Agora, vamos fazer uma pergunta sobre o que aprendemos.\n Preparado? É só uma maneira de ver como você entendeu sobre a Amazônia Azul e sua importância.\n Vamos lá!||Qual das seguintes áreas é considerada parte da Amazônia Azul?\n\n1) A região amazônica no norte do Brasil.\n\n2) O litoral brasileiro no Oceano Atlântico.\n\n3) As montanhas da região sul do Brasil.\n\n4) O Pantanal no centro-oeste do Brasil.\n",
+    "Tokens": 714,
+    "TimeStamp": "2024_05_09_16_15_03",
+    "Model": "gpt-4-turbo"
+}

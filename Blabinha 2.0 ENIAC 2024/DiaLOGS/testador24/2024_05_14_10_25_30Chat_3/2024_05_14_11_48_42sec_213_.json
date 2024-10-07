@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 213,
+    "falaUser": "Pode repetir a pergunta?",
+    "falaGPT": "||Claro! Quais dos seguintes recursos naturais nosso herói se dedica a proteger?\n\n1) Reservas de petróleo\n2) Florestas e sua biodiversidade\n3) Minas de urânio\n4) Fábricas de plástico",
+    "Tokens": 347,
+    "TimeStamp": "2024_05_14_11_48_42",
+    "Model": "gpt-4-turbo"
+}

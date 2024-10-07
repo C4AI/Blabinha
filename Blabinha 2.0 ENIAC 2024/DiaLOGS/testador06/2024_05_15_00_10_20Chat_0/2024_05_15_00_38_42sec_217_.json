@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 217,
+    "falaUser": "o qué são sensores acústicos?",
+    "falaGPT": "||Sensores acústicos são dispositivos que conseguem detectar e interpretar sons ao seu redor.\n Eles funcionam captando ondas sonoras e transformando essas vibrações em sinais elétricos que podem ser analisados e utilizados para diversas finalidades, como monitoramento ambiental, comunicação submarina, detecção de objetos e animais no oceano, entre outros.\n São como super ouvidos da natureza!",
+    "Tokens": 272,
+    "TimeStamp": "2024_05_15_00_38_42",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 217,
+    "falaUser": "Porque precisamos da biodiversidade marinha?",
+    "falaGPT": "||Precisamos da biodiversidade marinha porque ela é muito importante para manter o equilíbrio dos ecossistemas marinhos e para a sobrevivência de muitos seres vivos, como peixes, corais, tartarugas, golfinhos e muitos outros animais marinhos.\n Além disso, a biodiversidade marinha nos ajuda a obter alimentos, remédios e outros recursos naturais essenciais para a nossa vida.\n Quando cuidamos dos oceanos e dos seres vivos que vivem neles, estamos protegendo a natureza, garantindo a nossa própria saúde e o bem-estar de todo o planeta Terra.\n Então, é muito importante preservar e respeitar a biodiversidade marinha!",
+    "Tokens": 344,
+    "TimeStamp": "2024_05_15_10_23_23",
+    "Model": "gpt-3.5-turbo"
+}

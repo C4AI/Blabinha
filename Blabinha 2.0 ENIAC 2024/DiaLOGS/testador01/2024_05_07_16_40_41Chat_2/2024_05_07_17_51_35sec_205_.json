@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 205,
+    "falaUser": "Não entendi. Qual é o desafio?",
+    "falaGPT": "||Vou repetir para você, tá? Aqui estão as regras do desafio: você precisa fazer perguntas para mim, a Blabinha, sobre o assunto Amazônia azul.\n Quanto mais você manter no assunto, mais pontos vai ganhar.\n Se não souber o que perguntar, pode pedir uma dica.\n E, se quiser, pode pedir para terminar o desafio a qualquer momento.\n Que tal?",
+    "Tokens": 248,
+    "TimeStamp": "2024_05_07_17_51_35",
+    "Model": "gpt-3.5-turbo"
+}

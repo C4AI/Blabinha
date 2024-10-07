@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "A União, ou seja, o Governo Federal",
+    "falaGPT": "||Se quiser, pode me perguntar mais coisas! E se precisar de ajuda em algum assunto, posso dar dicas.\n",
+    "Tokens": 94,
+    "TimeStamp": "2024_05_07_18_00_24",
+    "Model": "gpt-3.5-turbo"
+}

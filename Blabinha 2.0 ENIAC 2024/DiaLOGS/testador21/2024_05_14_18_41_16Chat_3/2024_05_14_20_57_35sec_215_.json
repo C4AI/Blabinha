@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 215,
+    "falaUser": "Posso nadar na Amazonia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é um lugar enorme e cheio de água, quase como um grande parque aquático natural! Mas, sabe, não é em todo lugar que dá para nadar por lá.\n Algumas áreas podem ser perigosas devido a correntes fortes, animais selvagens como tubarões, e também é importante pensar na preservação desse espaço tão especial.\n Então, se um dia você for lá, é bom estar em um lugar seguro e sempre com alguém que conheça bem a região, como um guia turístico.\n Assim você pode aproveitar a beleza do lugar com segurança! 🌊🐠",
+    "Tokens": 322,
+    "TimeStamp": "2024_05_14_20_57_35",
+    "Model": "gpt-4-turbo"
+}

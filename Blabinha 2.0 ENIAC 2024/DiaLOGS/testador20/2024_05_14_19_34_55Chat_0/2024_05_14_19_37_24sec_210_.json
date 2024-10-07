@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 210,
+    "falaUser": "Quais animais vivem lá?",
+    "falaGPT": "||Ah, a Amazônia Azul é um lugar cheio de vida marinha, sabia? Lá vivem muitos animais diferentes! Temos baleias, golfinhos e tartarugas que nadam pelo oceano.\n Também há muitos peixes coloridos e até tubarões! E não podemos esquecer dos simpáticos manatis, que são como vacas do mar.\n Além disso, muitos corais e algas fazem da água seu lar, criando um paraíso debaixo d'água! É como um enorme aquário onde todos vivem juntos! 🌊🐠🐟🐬",
+    "Tokens": 319,
+    "TimeStamp": "2024_05_14_19_37_24",
+    "Model": "gpt-4-turbo"
+}

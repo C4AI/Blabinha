@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 130,
+    "falaUser": "topo",
+    "falaGPT": "||O desafio funciona da seguinte maneira: teremos no máximo 7 turnos.\n Apenas as perguntas que eu reconhecer como relacionadas à Amazônia Azul serão contadas como turnos.\n Você, criança, pode me pedir dicas sobre temas relacionados à Amazônia Azul.\n Além disso, você pode optar por encerrar o jogo ou solicitar a criação do herói a qualquer momento durante nossa interação.\n Vale lembrar que esses três últimos casos não são contabilizados como turnos.\n||Você entendeu todas as regras do desafio sobre a Amazônia Azul, ou precisa que eu esclareça algo mais sobre o jogo antes de começarmos?",
+    "Tokens": 555,
+    "TimeStamp": "2024_05_09_16_09_26",
+    "Model": "gpt-4-turbo"
+}

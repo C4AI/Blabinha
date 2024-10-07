@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 120,
+    "falaUser": "Não, nunca ouvi falar",
+    "falaGPT": "||Peço desculpas pela repetição, mas você já ouviu falar da Amazônia Azul?\n\nReformulando: Você tem conhecimento sobre a Amazônia Azul?",
+    "Tokens": 131,
+    "TimeStamp": "2024_05_08_20_37_55",
+    "Model": "gpt-3.5-turbo"
+}

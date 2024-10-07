@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 213,
+    "falaUser": "pode me falar mais sobre os produtos desenvolvidos a partir da exploração da amazonia azul?",
+    "falaGPT": "||Alguns dos produtos desenvolvidos a partir da exploração da Amazônia Azul incluem medicamentos, cosméticos e alimentos feitos a partir dos recursos marinhos encontrados nessa região.\n Além disso, a pesquisa científica realizada na Amazônia Azul também contribui para o desenvolvimento de novas tecnologias, como a exploração de petróleo e gás offshore, a produção de energia renovável e a bioprospecção de novos compostos naturais com potencial farmacêutico.\n Esses produtos e tecnologias são importantes para o desenvolvimento sustentável da região e para a preservação dos recursos marinhos.\n",
+    "Tokens": 342,
+    "TimeStamp": "2024_05_11_11_53_08",
+    "Model": "gpt-3.5-turbo"
+}

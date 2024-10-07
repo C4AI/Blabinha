@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 263,
+    "falaUser": "Tem petróleo na Amazônia Azul ?",
+    "falaGPT": "||Se tiver mais perguntas, pode perguntar! E se precisar de dicas sobre algum assunto, é só pedir.\n Estou aqui para ajudar!",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_13_19_49_21",
+    "Model": "gpt-3.5-turbo"
+}

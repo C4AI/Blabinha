@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 217,
+    "falaUser": "me diga um animal da amazonia azuk?",
+    "falaGPT": "||Pode fazer mais perguntas, mas lembra de falar sobre a Amazônia Azul também, tá?",
+    "Tokens": 94,
+    "TimeStamp": "2024_05_10_21_50_41",
+    "Model": "gpt-4-turbo"
+}

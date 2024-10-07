@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 216,
+    "falaUser": "qual é o melhor lugar para ir ver a amazonia azul?",
+    "falaGPT": "||Ah, para visitar a Amazônia Azul e ver tudo que ela tem de especial, você pode ir a lugares no litoral do Brasil como Fernando de Noronha, que é super bonito e cheio de vida marinha! Lá, você pode ver peixes coloridos, tartarugas e até golfinhos! Outro lugar legal é a região de Abrolhos, na Bahia, que tem uns corais incríveis e muitos animais marinhos para ver.\n Isso tudo faz parte da Amazônia Azul.\n Mergulhar nesses lugares é como explorar outro mundo debaixo d'água! Que aventura, né?||Agora, vou fazer uma pergunta sobre a Amazônia Azul para testar o que aprendemos.\n Pronto para responder e explorar mais sobre este fascinante tema marinho do Brasil? Vamos lá!||Qual dos seguintes locais faz parte da região conhecida como Amazônia Azul e é famoso por sua biodiversidade marinha?\n\n1) Pantanal Matogrossense\n2) Chapada Diamantina\n3) Fernando de Noronha\n4) Serra da Capivara",
+    "Tokens": 868,
+    "TimeStamp": "2024_05_06_21_54_25",
+    "Model": "gpt-4-turbo"
+}

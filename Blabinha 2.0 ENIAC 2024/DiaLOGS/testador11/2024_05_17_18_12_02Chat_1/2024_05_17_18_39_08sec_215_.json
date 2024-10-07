@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 215,
+    "falaUser": "3",
+    "falaGPT": "||Desculpe, mas a resposta está incorreta.\n O órgão responsável por regulamentar as atividades na Amazônia Azul é a Marinha do Brasil.\n Ela exerce a coordenação geral dessas atividades e fiscaliza a exploração dos recursos marinhos nessa região.\n",
+    "Tokens": 260,
+    "TimeStamp": "2024_05_17_18_39_08",
+    "Model": "gpt-3.5-turbo"
+}

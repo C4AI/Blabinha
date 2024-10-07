@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 211,
+    "falaUser": "me conte algo legal sobre a Amazônia Azul",
+    "falaGPT": "||Claro! A Amazônia Azul é como se fosse a versão marinha da Amazônia, cheia de vida e riquezas naturais.\n Nesse lugar, existem muitos animais marinhos, como golfinhos, tartarugas, peixes coloridos e até mesmo corais incríveis! Além disso, a Amazônia Azul é super importante para a nossa natureza, pois ajuda a manter o equilíbrio do nosso planeta.\n É como se fosse um verdadeiro tesouro escondido debaixo d'água, cheio de mistérios e belezas para serem explorados.\n Não é demais?!",
+    "Tokens": 327,
+    "TimeStamp": "2024_05_13_19_45_49",
+    "Model": "gpt-3.5-turbo"
+}

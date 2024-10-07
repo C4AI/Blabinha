@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 211,
+    "falaUser": "Onde fica a amazônia azul?",
+    "falaGPT": "||Você pode me fazer mais perguntas se quiser! Se precisar de ajuda ou dicas sobre algum assunto, só pedir! 😊",
+    "Tokens": 94,
+    "TimeStamp": "2024_05_08_20_41_00",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 324,
+    "falaUser": "podemos começar",
+    "falaGPT": "||Olá! Vamos criar juntos um herói? O segundo atributo que vamos escolher é a capa.\n Como você gostaria que fosse a capa do nosso herói? Ela pode ser de uma cor específica, com algum símbolo especial, ou ter algum poder especial? Me conte como você imagina!",
+    "Tokens": 129,
+    "TimeStamp": "2024_05_15_01_03_28",
+    "Model": "gpt-3.5-turbo"
+}

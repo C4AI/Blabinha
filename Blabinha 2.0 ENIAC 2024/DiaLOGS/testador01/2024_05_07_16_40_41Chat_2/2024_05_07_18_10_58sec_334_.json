@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 334,
+    "falaUser": "Poderia ter um desenho bordado representando a biodiversidade brasileira.",
+    "falaGPT": "||Olá! Sabia que o terceiro atributo de um herói é o companheiro de exploração? Qual companheiro você acha que o herói deveria ter para ajudá-lo em suas aventuras? Pode ser um animal, um robô, um amigo.\n.\n.\n Qual você imagina que seria perfeito para essa missão?",
+    "Tokens": 136,
+    "TimeStamp": "2024_05_07_18_10_58",
+    "Model": "gpt-3.5-turbo"
+}

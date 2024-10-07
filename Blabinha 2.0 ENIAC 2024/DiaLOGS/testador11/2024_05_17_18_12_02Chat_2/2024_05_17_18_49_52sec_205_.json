@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 205,
+    "falaUser": "meu super heroi precisa ser um animal?",
+    "falaGPT": "||Vou repetir e falar de uma maneira que fique mais fácil de entender: \n\n\"As regras do desafio são simples! Primeiro, você precisa fazer perguntas para mim, a Blabinha, sobre o assunto Amazônia Azul.\n Quanto mais focado você estiver nesse tema, mais pontos ganhará.\n Se não souber sobre o que perguntar, pode pedir uma dica! E lembre-se, você pode sair a hora que quiser, é só pedir!\"",
+    "Tokens": 262,
+    "TimeStamp": "2024_05_17_18_49_52",
+    "Model": "gpt-3.5-turbo"
+}

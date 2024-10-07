@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 120,
+    "falaUser": "Explique como funciona um motor de quatro tempos.",
+    "falaGPT": "||Claro, vou te explicar de um jeito bem simples!\n\nUm motor de quatro tempos é como o coração de um carro, fazendo ele se mover.\n Ele funciona em quatro passos principais usando gasolina e ar:\n\n1.\n **Admissão**: Primeiro, o motor puxa ar do lado de fora e um pouco de gasolina para dentro de um cilindro.\n Isso acontece quando o pistão dentro do cilindro desce, criando espaço.\n\n\n2.\n **Compressão**: Depois, o pistão sobe e aperta (comprime) essa mistura de ar e gasolina, preparando-a para acender.\n\n\n3.\n **Explosão**: Quando a mistura está bem comprimida, uma faísca de uma vela de ignição a acende, causando uma pequena explosão.\n Essa explosão empurra o pistão para baixo com muita força.\n\n\n4.\n **Exaustão**: Por último, o pistão sobe novamente e empurra para fora do cilindro os gases que sobraram da explosão, limpando o caminho para começar tudo de novo!\n\nE aí, o que achou de aprender como funciona um motor de quatro tempos?",
+    "Tokens": 473,
+    "TimeStamp": "2024_05_12_16_26_43",
+    "Model": "gpt-4-turbo"
+}

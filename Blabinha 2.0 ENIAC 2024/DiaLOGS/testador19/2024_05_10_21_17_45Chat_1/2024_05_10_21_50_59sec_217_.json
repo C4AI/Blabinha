@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 217,
+    "falaUser": "qual o tamanho da Amazonia?",
+    "falaGPT": "||Você pode fazer mais perguntas ou, se quiser, podemos terminar por aqui.\n O que você prefere?",
+    "Tokens": 80,
+    "TimeStamp": "2024_05_10_21_50_59",
+    "Model": "gpt-4-turbo"
+}

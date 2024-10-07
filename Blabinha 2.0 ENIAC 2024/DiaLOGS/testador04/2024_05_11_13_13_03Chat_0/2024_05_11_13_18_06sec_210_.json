@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 210,
+    "falaUser": "Qual o maior peixe presente na amazônia azul?",
+    "falaGPT": "||Na Amazônia Azul, encontramos uma grande diversidade de peixes incríveis! Um dos maiores peixes que podemos encontrar nessa região é o tubarão-baleia.\n Esse gigante gentil pode alcançar mais de 12 metros de comprimento e pode ser avistado nas águas azuis do nosso lindo mar.\n É um animal marinho muito interessante de se observar, porque apesar do seu tamanho impressionante, se alimenta principalmente de plâncton! Já pensou nadar ao lado desse gigante do mar? Que emoção! Mas, lembre-se sempre de respeitar a vida marinha e observar de uma distância segura.\n Vamos explorar juntos a beleza dos oceanos e aprender mais sobre esses incríveis animais!",
+    "Tokens": 355,
+    "TimeStamp": "2024_05_11_13_18_06",
+    "Model": "gpt-3.5-turbo"
+}

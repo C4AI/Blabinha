@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 130,
+    "falaUser": "tá bom",
+    "falaGPT": "||Neste desafio, podemos interagir por até 7 turnos.\n Durante esses turnos, você pode fazer perguntas sobre a Amazônia Azul para ajudar a criar um herói mais forte.\n Além disso, você pode pedir dicas sobre possíveis assuntos relacionados à Amazônia Azul.\n Caso queira encerrar o jogo, pedir para criar o herói em algum momento ou pedir para finalizar contam como exceções e não como um turno.\n Pronto para começar? O que gostaria de saber sobre a Amazônia Azul?||Você entendeu as regras do jogo? Se tiver alguma dúvida ou quiser começar a criar seu herói, estou aqui para ajudar!",
+    "Tokens": 559,
+    "TimeStamp": "2024_05_15_00_12_27",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 212,
+    "falaUser": "a amazônia azul tem algum risco hoje?",
+    "falaGPT": "||A Amazônia Azul, que se refere às águas oceânicas sob jurisdição do Brasil, enfrenta alguns desafios e riscos atualmente.\n Alguns desses riscos incluem a poluição marinha, a pesca excessiva, a exploração predatória de recursos naturais, a perda de biodiversidade e as mudanças climáticas, que afetam diretamente os ecossistemas marinhos e a vida dos seres que vivem nessas regiões.\n Proteger a Amazônia Azul é muito importante para garantir a preservação da vida marinha e dos recursos naturais para as gerações futuras.\n Vamos cuidar e respeitar nosso mar! 🐠🌊||Vou fazer uma pergunta sobre os riscos enfrentados pela Amazônia Azul.\n Como podemos contribuir para a proteção desse ecossistema marinho e conservação dos recursos naturais?||Qual dos seguintes não é um risco atual enfrentado pela Amazônia Azul?\n\n1) Poluição marinha\n2) Pesca sustentável\n3) Exploração predatória de recursos naturais\n4) Mudanças climáticas",
+    "Tokens": 913,
+    "TimeStamp": "2024_05_08_20_43_01",
+    "Model": "gpt-3.5-turbo"
+}

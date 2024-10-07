@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 277,
+    "falaUser": "tenho certeza",
+    "falaGPT": "||Tudo bem! Se você não quer mais continuar, está tudo certo.\n Se quiser continuar mais tarde, é só iniciar um novo chat.\n Até a próxima!",
+    "Tokens": 156,
+    "TimeStamp": "2024_05_17_11_45_23",
+    "Model": "gpt-3.5-turbo"
+}

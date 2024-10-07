@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 100,
+    "falaUser": "Oi, tudo bem?",
+    "falaGPT": "||Oi! Estou bem sim, obrigada por perguntar! Eu sou a Blabinha, um robô que adora falar sobre muitos assuntos interessantes.\n Hoje, eu gostaria de compartilhar algumas informações sobre a Amazônia Azul.\n Esse é um nome dado à vasta área marítima que pertence ao Brasil, rica em recursos naturais e muito importante para o país.\n Vamos explorar juntos esse fascinante assunto! Como você gostaria que eu te chamasse?",
+    "Tokens": 235,
+    "TimeStamp": "2024_05_14_10_48_30",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 212,
+    "falaUser": "Já estou satisfeito.",
+    "falaGPT": "||Desculpe, acho que houve algum engano.\n O que você gostaria de saber sobre a Amazônia Azul? Posso ajudar com mais informações!||Vou fazer uma pergunta sobre a importância da Amazônia Azul para o Brasil.\n Ela se refere à extensão territorial marítima do país e sua importância estratégica para a biodiversidade e recursos naturais.\n||Qual é o nome dado à extensão do território marítimo brasileiro que corresponde à zona econômica exclusiva do país, compreendendo a Amazônia Azul?\n\n1) Mar Territorial\n2) Terra Indígena\n3) Zona Econômica Exclusiva\n4) Reserva Extrativista",
+    "Tokens": 531,
+    "TimeStamp": "2024_05_07_16_57_47",
+    "Model": "gpt-3.5-turbo"
+}

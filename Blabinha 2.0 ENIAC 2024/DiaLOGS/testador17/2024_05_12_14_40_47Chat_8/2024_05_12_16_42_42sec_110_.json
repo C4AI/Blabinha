@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 110,
+    "falaUser": "Explique a relação entre o cianeto e a Amazônia Azul.",
+    "falaGPT": "||Tudo bem, vamos seguir em frente! A Amazônia Azul é uma área muito importante no Brasil, cobrindo toda a nossa costa marítima.\n Ela é rica em biodiversidade e recursos naturais.\n Por outro lado, o cianeto é um composto químico que pode ser muito perigoso, especialmente se usado incorretamente, como na mineração e na pesca ilegal, o que pode prejudicar a vida marinha.\n Proteger a Amazônia Azul é crucial para manter o equilíbrio do nosso ecossistema marinho.\n Você já ouviu falar na Amazônia Azul antes?",
+    "Tokens": 340,
+    "TimeStamp": "2024_05_12_16_42_42",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 241,
+    "falaUser": "Qual tipo de animal vive na Amazônia Azul?",
+    "falaGPT": "||Ah, claro! A Amazônia Azul é como um grande parquinho aquático gigante cheio de criaturas marinhas! Lá vivem muitos tipos de peixes coloridos, tartarugas que parecem super velhinhas, golfinhos que adoram brincar e pular, e até baleias enormes! Além disso, tem muitos corais super coloridos e um monte de estrelas-do-mar que parecem estrelas de verdade no fundo do mar.\n É um lugar super mágico cheio de vida! 🐠🐬🐳✨||Uau, você acaba de descobrir um bônus secreto! 🎉 Agora, ajude nosso super-herói a escolher a ferramenta certa para proteger o nosso incrível mar do Brasil! Qual ele deve usar?\n\n1) Rede de monitoramento de pesca ilegal\n2) Dispositivo de limpeza de poluição plástica\n3) Sistema de proteção de recifes de coral\n4) Aplicativo de educação ambiental para comunidades costeiras\n\nEscolha com sabedoria, a missão de salvar a Amazônia Azul depende disso! 🌊",
+    "Tokens": 715,
+    "TimeStamp": "2024_05_15_05_53_50",
+    "Model": "gpt-4-turbo"
+}

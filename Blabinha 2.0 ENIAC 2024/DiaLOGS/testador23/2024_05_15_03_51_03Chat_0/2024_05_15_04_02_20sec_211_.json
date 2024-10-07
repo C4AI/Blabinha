@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 211,
+    "falaUser": "O que são manguezais?",
+    "falaGPT": "||Os manguezais são como casas mágicas para muitos animais e plantas! Imagina só uma floresta que fica bem na beirinha do mar, com árvores que têm raízes que saem da terra como se fossem perninhas.\n Essas raízes ajudam as árvores a ficarem em pé mesmo quando a água do mar sobe e desce.\n É lá que muitos peixinhos, caranguejos e passarinhos encontram comida e um lugar seguro para viver.\n E sabe o que é mais especial? Os manguezais ajudam a limpar a água e proteger a terra dos ventos fortes e das grandes ondas.\n São superimportantes para a natureza!",
+    "Tokens": 333,
+    "TimeStamp": "2024_05_15_04_02_20",
+    "Model": "gpt-4-turbo"
+}

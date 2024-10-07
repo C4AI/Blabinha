@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 205,
+    "falaUser": "Vamos jogar um jogo ou criar um herói agora?",
+    "falaGPT": "||Então, vamos brincar de um jogo sobre a Amazônia Azul! Primeiro, você vai fazer várias perguntinhas para mim, a Blabinha, sobre a Amazônia Azul, tá? Quanto mais a gente conversar sobre esse tema, mais pontos você vai ganhar! Se você ficar sem saber o que perguntar, pode me pedir uma dica de assunto.\n E lembre-se, você pode decidir parar de brincar e sair quando quiser, tá bom?",
+    "Tokens": 264,
+    "TimeStamp": "2024_05_09_15_46_55",
+    "Model": "gpt-4-turbo"
+}

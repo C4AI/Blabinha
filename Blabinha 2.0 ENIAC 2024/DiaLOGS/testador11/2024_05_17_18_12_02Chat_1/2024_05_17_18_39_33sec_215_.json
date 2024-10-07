@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 215,
+    "falaUser": "Desde quando existe o termo Amazônia Azul?",
+    "falaGPT": "||O termo \"Amazônia Azul\" foi criado a partir de 2004, quando o governo brasileiro decidiu adotar essa expressão para se referir à extensão da plataforma continental do país e à riqueza de recursos naturais marinhos presentes nessa região.\n Então, podemos dizer que o termo \"Amazônia Azul\" existe desde aproximadamente 2004.\n",
+    "Tokens": 268,
+    "TimeStamp": "2024_05_17_18_39_33",
+    "Model": "gpt-3.5-turbo"
+}

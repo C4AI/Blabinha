@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 210,
+    "falaUser": "Mas eu quero saber a história da Elara. Conte para mim, por favor",
+    "falaGPT": "||Pode fazer mais perguntas ou se quiser, podemos terminar por aqui.\n O que você prefere?",
+    "Tokens": 79,
+    "TimeStamp": "2024_05_14_10_56_50",
+    "Model": "gpt-4-turbo"
+}

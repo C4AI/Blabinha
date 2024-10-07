@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 334,
+    "falaUser": "Pode ser uma capa azul, com desenho de uma tubarão",
+    "falaGPT": "||Olá! O terceiro atributo do herói é o companheiro de exploração.\n Qual companheiro você acha que o herói terá nessa jornada emocionante?",
+    "Tokens": 104,
+    "TimeStamp": "2024_05_11_12_32_19",
+    "Model": "gpt-3.5-turbo"
+}

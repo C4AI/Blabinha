@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 211,
+    "falaUser": "Qual o potencial econômico da amazônia azul?",
+    "falaGPT": "||A Amazônia Azul possui um enorme potencial econômico, pois é rica em recursos naturais como petróleo, minerais, biodiversidade marinha, energia e alimentos provenientes da pesca e aquicultura.\n Além disso, a região é estratégica para a navegação e para a exploração de novas tecnologias, como a biotecnologia marinha e a exploração sustentável dos recursos.\n Dessa forma, a Amazônia Azul pode gerar oportunidades de desenvolvimento econômico e social para o Brasil, criando empregos, fortalecendo a indústria naval, promovendo a pesquisa científica e a inovação, e contribuindo para a sustentabilidade ambiental da região.\n",
+    "Tokens": 351,
+    "TimeStamp": "2024_05_11_11_45_40",
+    "Model": "gpt-3.5-turbo"
+}

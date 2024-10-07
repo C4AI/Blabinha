@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 213,
+    "falaUser": "Quais impostos devo pagar se eu comprar um jet ski?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Mas não se esqueça, precisamos falar sobre a Amazônia Azul.\n",
+    "Tokens": 98,
+    "TimeStamp": "2024_05_18_15_23_01",
+    "Model": "gpt-3.5-turbo"
+}

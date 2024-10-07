@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 213,
+    "falaUser": "1",
+    "falaGPT": "||A resposta está incorreta.\n A região conhecida como Amazônia Azul corresponde ao Oceano Atlântico, não à Floresta Amazônica.\n A Amazônia Azul é a extensão marítima do Brasil, vital para a biodiversidade marinha e a economia do país.\n ",
+    "Tokens": 399,
+    "TimeStamp": "2024_05_16_10_40_51",
+    "Model": "gpt-3.5-turbo"
+}

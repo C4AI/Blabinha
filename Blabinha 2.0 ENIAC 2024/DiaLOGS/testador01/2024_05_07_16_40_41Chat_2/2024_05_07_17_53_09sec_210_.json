@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 210,
+    "falaUser": "A gente pode visitar a Amazônia Azul?",
+    "falaGPT": "||A Amazônia Azul se refere à área marítima brasileira, não à floresta amazônica.\n Você pode visitar a região costeira, mas não a Amazônia Azul.\n||Claro! Para falar sobre a Amazônia Azul, você pode abordar diversos aspectos, como a biodiversidade marinha presente nessa região, os ecossistemas únicos e frágeis encontrados no ambiente marinho brasileiro, a importância da preservação e conservação dos recursos marinhos da Amazônia Azul para a sustentabilidade e a exploração responsável dos mesmos, bem como a importância econômica da região para o Brasil, através da pesca, do turismo e de outras atividades.\n São temas fundamentais para compreender e valorizar essa área única e rica em recursos naturais.\n",
+    "Tokens": 416,
+    "TimeStamp": "2024_05_07_17_53_09",
+    "Model": "gpt-3.5-turbo"
+}

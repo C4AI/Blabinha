@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 205,
+    "falaUser": "Quantos animais diferentes moram na Amazônia Azul ?",
+    "falaGPT": "||Vou repetir para você: Para ganhar pontos no desafio, você precisa me fazer perguntas sobre a Amazônia azul.\n Se não souber sobre o que falar, pode pedir dica.\n Além disso, você pode pedir para terminar o desafio a qualquer momento.\n",
+    "Tokens": 214,
+    "TimeStamp": "2024_05_13_19_18_16",
+    "Model": "gpt-3.5-turbo"
+}

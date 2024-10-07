@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 212,
+    "falaUser": "Existem perigos na amazonia azul?",
+    "falaGPT": "||Ah, sim, existem alguns perigos na Amazônia Azul! Por ser um grande espaço marinho, ela tem muitos animais, como tubarões, que podem ser perigosos se não tomarmos cuidado.\n Também temos que pensar sobre a poluição, que pode deixar a água e os animais doentes.\n E, claro, também tem o tempo lá fora no oceano, que pode mudar rapidinho e fazer grandes ondas! Então, é sempre bom ter cuidado e respeitar a natureza quando estamos explorando lugares como a Amazônia Azul.\n 🌊🐠||Vou criar uma pergunta sobre os perigos na Amazônia Azul para testar seus conhecimentos no assunto.\n Vamos ver como você se sai!||Qual das seguintes afirmações melhor descreve um dos principais perigos ambientais enfrentados pela Amazônia Azul?\n\n1) Invasão de espécies vegetais terrestres.\n\n2) Poluição por derramamento de petróleo.\n\n3) Aumento na pesca de água doce.\n\n4) Expansão acelerada de áreas urbanas no fundo do oceano.\n",
+    "Tokens": 842,
+    "TimeStamp": "2024_05_07_17_02_48",
+    "Model": "gpt-4-turbo"
+}

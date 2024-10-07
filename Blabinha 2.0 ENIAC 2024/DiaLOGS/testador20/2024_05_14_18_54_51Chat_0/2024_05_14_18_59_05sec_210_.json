@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 210,
+    "falaUser": "Quais animais encontramos na Amazônia Azul?",
+    "falaGPT": "||Ah a Amazônia Azul! É um lugar cheio de mistérios e criaturas incríveis! Lá vivem muitos animais, como o golfinho, que adora fazer acrobacias e tem um sorriso superfofo.\n Também temos as tartarugas marinhas, que são super antigas e nadam pelo oceano há milhões de anos.\n Além disso, há baleias gigantes que cantam canções longas e misteriosas, e tubarões, que são os grandes caçadores dos mares.\n Não podemos esquecer dos coloridos peixes e dos corais, que formam jardins subaquáticos! E olha que legal: tem até o misterioso peixe-boi marinho, que é super tranquilo e gosta de comer plantas aquáticas.\n A Amazônia Azul é realmente um tesouro cheio de vida marinha!",
+    "Tokens": 381,
+    "TimeStamp": "2024_05_14_18_59_05",
+    "Model": "gpt-4-turbo"
+}

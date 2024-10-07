@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 140,
+    "falaUser": "Me conte uma história",
+    "falaGPT": "||Ah, que tal se a gente começar uma história bem legal e, se você gostar, a gente termina juntos? Vai ser uma aventura divertida! Imagine só: em uma floresta encantada, vivia um pequeno dragão chamado Spark.\n Ele tinha um sonho incomum: queria aprender a dançar! Um dia, encontrou uma raposa mágica que sabia todos os passos de dança da floresta.\n Spark estava um pouco nervoso, mas sabia que seria uma grande aventura aprender algo novo.\n Vamos continuar para descobrir como ele se sai nesse desafio?",
+    "Tokens": 252,
+    "TimeStamp": "2024_05_12_16_45_50",
+    "Model": "gpt-4-turbo"
+}

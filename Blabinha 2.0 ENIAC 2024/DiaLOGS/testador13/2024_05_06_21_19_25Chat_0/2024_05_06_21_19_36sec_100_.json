@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 100,
+    "falaUser": "Oi",
+    "falaGPT": "||Oi! Eu sou a Blabinha.\n Vou te contar sobre a Amazônia Azul, uma área enorme no oceano do Brasil, cheia de animais marinhos e importante para o país.\n Como posso te chamar?",
+    "Tokens": 171,
+    "TimeStamp": "2024_05_06_21_19_36",
+    "Model": "gpt-4-turbo"
+}

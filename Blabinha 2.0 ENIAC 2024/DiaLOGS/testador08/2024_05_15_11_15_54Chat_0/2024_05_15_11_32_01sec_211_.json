@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 211,
+    "falaUser": "queria saber mais sobre os impactos da atividade humana na amazônia azul ",
+    "falaGPT": "||A atividade humana na Amazônia Azul, assim como em outros ambientes marinhos, pode causar diversos impactos negativos.\n A pesca excessiva, por exemplo, pode levar à diminuição da população de peixes e outros animais marinhos, desequilibrando o ecossistema.\n O despejo de lixo e poluentes no mar também prejudica a vida marinha e a qualidade da água.\n Além disso, o tráfego de navios e atividades de exploração de petróleo e minérios podem causar danos ao meio ambiente marinho.\n Por isso, é importante cuidar e proteger a Amazônia Azul, para garantir a preservação da vida marinha e a saúde dos oceanos.\n Espero que tenha entendido, ficou claro?",
+    "Tokens": 367,
+    "TimeStamp": "2024_05_15_11_32_01",
+    "Model": "gpt-3.5-turbo"
+}

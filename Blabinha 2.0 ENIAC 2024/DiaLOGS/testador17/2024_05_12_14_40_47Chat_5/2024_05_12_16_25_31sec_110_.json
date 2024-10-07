@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 110,
+    "falaUser": "Escreva um poema sobre a Inconfidência Mineira.\n\n",
+    "falaGPT": "||Desculpe, parece que ainda não sei exatamente como você prefere ser chamado.\n Poderia me informar como gostaria de ser tratado durante nossa conversa? Isso me ajudaria a personalizar melhor nossas interações.\n Agora, sobre a Inconfidência Mineira, aqui vai um poema que captura o espírito daquela época:\n\nNas Minas do ouro tão vastas, tão ricas,\nSurgiu um brado de liberdade,\nContra a dura Coroa, tão ávida, tão audaz.\n\n\nEm Vila Rica, o sonho fervia,\nJoaquim José, o da face alva e audaz,\nConjurou com poetas e sonhadores,\nPor uma terra livre, sem o fisco real.\n\n\nMas o sonho, oh! foi traído,\nSilvério dos Reis, a vilania encarnada,\nÀ Coroa tudo delatou, o destino selado.\n\n\nTiradentes, o mártir, sua vida entregou,\nNo patíbulo, sua esperança não sucumbiu,\nE nas vozes intrépidas do Brasil,\nEcoa o grito de liberdade que nunca desistiu.\n",
+    "Tokens": 406,
+    "TimeStamp": "2024_05_12_16_25_31",
+    "Model": "gpt-4-turbo"
+}

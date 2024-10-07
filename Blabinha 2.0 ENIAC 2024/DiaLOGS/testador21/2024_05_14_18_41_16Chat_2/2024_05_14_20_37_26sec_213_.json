@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 213,
+    "falaUser": "número 1",
+    "falaGPT": "||Isso mesmo! A resposta correta é a número 1.\n O petróleo extraído na Amazônia Azul é importante porque permite a exportação, fortalecendo a economia do Brasil.\n Parabéns por acertar!",
+    "Tokens": 423,
+    "TimeStamp": "2024_05_14_20_37_26",
+    "Model": "gpt-4-turbo"
+}

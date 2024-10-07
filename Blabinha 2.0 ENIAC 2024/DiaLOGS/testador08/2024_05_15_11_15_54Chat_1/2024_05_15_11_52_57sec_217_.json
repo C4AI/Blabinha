@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 217,
+    "falaUser": "o que 3 vezes 5 tem a ver com a amazonia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas ou pode pedir para terminar.\n Estou aqui para ajudar no que precisar!",
+    "Tokens": 81,
+    "TimeStamp": "2024_05_15_11_52_57",
+    "Model": "gpt-3.5-turbo"
+}

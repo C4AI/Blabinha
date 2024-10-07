@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "Deve ser 3: Zona Econômica Exclusiva. Acertei?",
+    "falaGPT": "||Parabéns! Você acertou.\n A Amazônia Azul corresponde à Zona Econômica Exclusiva (ZEE) do Brasil, que é uma área marítima onde o país tem soberania sobre os recursos econômicos e naturais.\n É uma região importante para a sustentabilidade e segurança do país.\n",
+    "Tokens": 320,
+    "TimeStamp": "2024_05_07_16_59_00",
+    "Model": "gpt-3.5-turbo"
+}

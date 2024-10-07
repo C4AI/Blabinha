@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 214,
+    "falaUser": "Onde fica a Amazônia Azul?",
+    "falaGPT": "||A Amazônia Azul fica no oceano, ao redor do Brasil! É como um grande \"tapete\" de água que cobre todo o litoral do nosso país, indo bem longe até onde o mar é bem fundo.\n É super importante porque tem muitos peixinhos e outras criaturinhas marinhas, além de ser um caminho para navios e um lugar onde podemos encontrar petróleo e outras coisas valiosas.\n Imagina só que tesouro azul!||Agora, vamos testar seu conhecimento! Qual é a importância da Amazônia Azul para o Brasil em termos de recursos naturais e segurança?||Qual dos seguintes recursos é considerado um dos principais benefícios proporcionados pela Amazônia Azul?\n\n1) Reservas de madeira  \n2) Campos de petróleo e gás  \n3) Minas de carvão  \n4) Indústrias têxteis",
+    "Tokens": 729,
+    "TimeStamp": "2024_05_14_19_06_22",
+    "Model": "gpt-4-turbo"
+}

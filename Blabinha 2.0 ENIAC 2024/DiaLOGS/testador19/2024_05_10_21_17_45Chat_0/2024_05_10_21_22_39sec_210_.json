@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 210,
+    "falaUser": "Qual o tipo de fauna?",
+    "falaGPT": "||Claro que pode fazer mais perguntas! E lembre-se de falar sobre a Amazônia Azul também.\n",
+    "Tokens": 95,
+    "TimeStamp": "2024_05_10_21_22_39",
+    "Model": "gpt-4-turbo"
+}

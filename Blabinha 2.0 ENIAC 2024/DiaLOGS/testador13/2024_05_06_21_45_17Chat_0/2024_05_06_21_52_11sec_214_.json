@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 214,
+    "falaUser": "Oq é turismo sustentável?",
+    "falaGPT": "||Turismo sustentável é como se fosse uma aventura super legal para conhecer diferentes lugares, mas sem bagunçar ou machucar a natureza.\n É como se a gente estivesse visitando a casa de um amiguinho e cuidando para deixar tudo organizado e limpo antes de ir embora, sabe? Assim, outras pessoas também poderão visitar e tudo no meio ambiente fica feliz e saudável!||Agora vou fazer uma pergunta sobre o que acabamos de conversar.\n Quero ver se você entendeu direitinho sobre como podemos viajar e conhecer lugares novos sem prejudicar a natureza.\n Preparado?||Qual das seguintes práticas NÃO é considerada uma parte do turismo sustentável?\n\n1) Reaproveitar materiais para reduzir o lixo nos locais turísticos.\n\n2) Usar apenas veículos poluentes para transportar turistas.\n\n3) Incentivar turistas a respeitar a cultura e as tradições locais.\n\n4) Promover o uso de recursos naturais de maneira responsável, assegurando que eles sejam preservados para futuras gerações.\n",
+    "Tokens": 740,
+    "TimeStamp": "2024_05_06_21_52_11",
+    "Model": "gpt-4-turbo"
+}

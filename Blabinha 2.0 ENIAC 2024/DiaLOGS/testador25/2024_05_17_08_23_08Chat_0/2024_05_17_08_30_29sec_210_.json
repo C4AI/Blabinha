@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 210,
+    "falaUser": "Quais os tipos de profissionais trabalham na região da amazônia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é super importante e tem muitos profissionais incríveis trabalhando lá! Temos biólogos marinhos que estudam os animais e plantas do mar.\n Os oceanógrafos exploram como são as águas e o fundo do mar.\n Os ambientalistas ajudam a cuidar da natureza e evitar a poluição.\n Também temos os engenheiros que trabalham com coisas como plataformas de petróleo e recursos naturais.\n E não podemos esquecer dos pescadores, que trabalham pegando peixes e outros frutos do mar! Todos eles ajudam a cuidar e entender melhor esse lugar tão especial.\n",
+    "Tokens": 337,
+    "TimeStamp": "2024_05_17_08_30_29",
+    "Model": "gpt-4-turbo"
+}

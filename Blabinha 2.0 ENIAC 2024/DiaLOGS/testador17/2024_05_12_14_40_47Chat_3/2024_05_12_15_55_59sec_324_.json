@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 324,
+    "falaUser": "A ferramenta será uma metralhadora. A roupa será uma armadura. ",
+    "falaGPT": "||Certo! O segundo atributo do nosso herói é a capa.\n Como você gostaria que fosse a capa dele? Você quer que seja colorida, tenha algum símbolo especial ou algum poder mágico?",
+    "Tokens": 107,
+    "TimeStamp": "2024_05_12_15_55_59",
+    "Model": "gpt-4-turbo"
+}

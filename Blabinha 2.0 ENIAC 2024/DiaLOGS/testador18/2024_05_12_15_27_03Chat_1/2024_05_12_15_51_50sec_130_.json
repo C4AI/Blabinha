@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 130,
+    "falaUser": "top",
+    "falaGPT": "||As regras do jogo são as seguintes: Primeiro, o jogo é composto de no máximo 7 turnos.\n Apenas perguntas relacionadas à Amazônia Azul contam como turnos.\n Você (criança) pode solicitar dicas sobre temas ligados à Amazônia Azul.\n Além disso, você pode optar por encerrar o jogo a qualquer momento ou decidir criar o herói durante a interação.\n Esses três últimos casos não são considerados turnos.\n||Essas são as regras do jogo.\n Você entendeu tudo direitinho ou tem alguma dúvida sobre como jogar?",
+    "Tokens": 526,
+    "TimeStamp": "2024_05_12_15_51_50",
+    "Model": "gpt-4-turbo"
+}

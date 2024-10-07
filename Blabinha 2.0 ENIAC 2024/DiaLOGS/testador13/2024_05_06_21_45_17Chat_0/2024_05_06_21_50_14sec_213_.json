@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 213,
+    "falaUser": "quantas perguntas eu fiz?",
+    "falaGPT": "||Você fez uma pergunta até agora! Se tiver mais, pode perguntar, tá bom? 😊",
+    "Tokens": 193,
+    "TimeStamp": "2024_05_06_21_50_14",
+    "Model": "gpt-4-turbo"
+}

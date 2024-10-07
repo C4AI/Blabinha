@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 211,
+    "falaUser": "Qual o peixe mais comum na Amazônia Azul ?",
+    "falaGPT": "||Na Amazônia Azul, região marítima brasileira, um dos peixes mais comuns é o xaréu, também conhecido como cavala.\n Esses peixes são encontrados em águas tropicais e são muito apreciados pelos pescadores e também pelos que gostam de saborear pratos feitos com peixe fresco.\n O xaréu é um peixe de porte médio a grande, com corpo alongado e nadadeiras robustas.\n Eles são conhecidos por sua agilidade e força na água, o que torna a pesca desse peixe uma atividade emocionante e desafiadora.\n Além do xaréu, a Amazônia Azul também abriga uma grande diversidade de outras espécies de peixes, tornando-a um verdadeiro paraíso para os amantes da pesca e da vida marinha.\n",
+    "Tokens": 382,
+    "TimeStamp": "2024_05_13_18_57_14",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 214,
+    "falaUser": "você sabe o tamanho da amazonia azul?",
+    "falaGPT": "||Peço desculpas pela confusão.\n A Amazônia Azul é uma área marítima de aproximadamente 4,5 milhões de quilômetros quadrados, localizada no Oceano Atlântico ao redor do Brasil.\n É uma região muito importante para a biodiversidade marinha e para a economia do país, pois abriga uma grande quantidade de recursos naturais.\n Espero que essa informação tenha esclarecido sua dúvida!||Excelente! Vou agora fazer uma pergunta sobre a Amazônia Azul: Qual a importância da Amazônia Azul para o Brasil em termos de recursos naturais e biodiversidade marinha?||Qual a extensão aproximada da Amazônia Azul?\n1) 4,5 milhões de quilômetros quadrados\n2) 2 milhões de quilômetros quadrados\n3) 1 milhão de quilômetros quadrados\n4) 6 milhões de quilômetros quadrados",
+    "Tokens": 729,
+    "TimeStamp": "2024_05_15_11_35_06",
+    "Model": "gpt-3.5-turbo"
+}

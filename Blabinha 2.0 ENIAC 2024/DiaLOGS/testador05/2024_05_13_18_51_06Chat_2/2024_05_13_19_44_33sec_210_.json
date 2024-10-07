@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 210,
+    "falaUser": "O que tem de legal na amazonia azul ?",
+    "falaGPT": "||Você gostaria de saber mais alguma coisa? Se precisar de ajuda ou dicas, pode me chamar!",
+    "Tokens": 88,
+    "TimeStamp": "2024_05_13_19_44_33",
+    "Model": "gpt-3.5-turbo"
+}

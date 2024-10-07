@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 211,
+    "falaUser": "o boto rosa esta extinto?",
+    "falaGPT": "||O boto cor-de-rosa não está extinto, mas está ameaçado devido à pesca predatória, poluição e destruição do seu habitat natural.\n||O usuário pode falar sobre a importância da preservação da Amazônia Azul, a biodiversidade marinha presente nessa região, a exploração sustentável dos recursos marinhos, e a atuação da Marinha do Brasil na proteção e monitoramento da Amazônia Azul.\n Esses são exemplos de assuntos que envolvem a região marítima brasileira e são relevantes para a compreensão e valorização desse ecossistema único.\n",
+    "Tokens": 362,
+    "TimeStamp": "2024_05_17_18_53_23",
+    "Model": "gpt-3.5-turbo"
+}

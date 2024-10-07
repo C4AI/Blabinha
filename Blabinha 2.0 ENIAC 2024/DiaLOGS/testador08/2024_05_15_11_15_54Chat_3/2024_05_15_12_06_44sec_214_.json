@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 214,
+    "falaUser": "lá pode pescar?",
+    "falaGPT": "||Na região da Amazônia Azul, é necessário verificar as regulamentações locais para saber se é permitido pescar e quais as restrições que podem existir.\n Recomendo sempre respeitar as leis e preservar a vida marinha, garantindo a sustentabilidade dos recursos marinhos para as gerações futuras.\n Se você gosta de pescar, lembre-se de praticar a pesca responsável e sustentável, cuidando do meio ambiente e dos animais marinhos.\n É muito legal se conectar com a natureza, mas é importante também ter consciência ambiental.\n Quem sabe você consegue pescar de forma consciente e contribuir para a preservação do nosso precioso ambiente marinho!||Claro! Agora vou fazer uma pergunta relacionada ao tema.\n Vamos lá!||Em qual região é necessário verificar as regulamentações locais para saber se é permitido pescar?\n\n1) Amazônia\n2) Pantanal\n3) Caatinga\n4) Pampas",
+    "Tokens": 858,
+    "TimeStamp": "2024_05_15_12_06_44",
+    "Model": "gpt-3.5-turbo"
+}

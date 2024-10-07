@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 217,
+    "falaUser": "o que a marinha usa para monitorar a amazonia azul?",
+    "falaGPT": "||Para monitorar a Amazônia Azul, a Marinha do Brasil usa várias ferramentas e tecnologias bem bacanas, como navios e aeronaves equipadas com sensores supermodernos.\n Eles também contam com satélites que ajudam a observar grandes áreas do oceano de uma vez só.\n Tem também os submarinos e drones subaquáticos que exploram debaixo d'água! Assim, eles podem proteger a vida marinha, olhar por nossas riquezas naturais e garantir que tudo esteja seguro por lá.\n É um trabalho muito importante e cheio de aventuras, igual aos desenhos de exploradores que você gosta de assistir!",
+    "Tokens": 332,
+    "TimeStamp": "2024_05_09_16_27_33",
+    "Model": "gpt-4-turbo"
+}

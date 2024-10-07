@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 212,
+    "falaUser": "Preciso sair",
+    "falaGPT": "||Claro! Eu peguei um pouco de água e lavei o rosto.\n Posso ajudar com mais alguma coisa?||Antes de sair, gostaria de fazer uma pergunta relacionada ao tema discutido.\n Posso prosseguir com a questão?||Qual ação a seguir é mais recomendada ao sentir a necessidade de sair de uma situação desconfortável?\n\n1) Comunicar de forma educada que precisa se retirar\n2) Simplesmente sair sem dar explicações\n3) Ignorar seus sentimentos e permanecer na situação\n4) Causar um conflito para justificar sua saída",
+    "Tokens": 485,
+    "TimeStamp": "2024_05_18_15_21_49",
+    "Model": "gpt-3.5-turbo"
+}

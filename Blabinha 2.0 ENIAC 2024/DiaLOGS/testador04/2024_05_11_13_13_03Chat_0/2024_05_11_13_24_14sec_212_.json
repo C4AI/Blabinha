@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 212,
+    "falaUser": "É proibido pescar na amazonia azul?",
+    "falaGPT": "||A Amazônia Azul se refere à extensão da plataforma continental brasileira no oceano Atlântico, não a Amazônia terrestre.\n A pesca é regulamentada de acordo com legislação específica.\n||É importante abordar a importância da Amazônia Azul, região marítima com ampla biodiversidade e riquezas naturais.\n Alguns exemplos de temas que podem ser discutidos são: 1.\n A preservação e sustentabilidade dos ecossistemas marinhos na Amazônia Azul; 2.\n A exploração sustentável dos recursos naturais marinhos, como pesca e mineração; 3.\n A pesquisa científica e descobertas de novas espécies na região; 4.\n A importância estratégica da Amazônia Azul para o Brasil, em termos de segurança, economia e biodiversidade.\n É fundamental destacar a necessidade de proteção e uso responsável desses recursos para garantir o equilíbrio ambiental e social da região.\n",
+    "Tokens": 464,
+    "TimeStamp": "2024_05_11_13_24_14",
+    "Model": "gpt-3.5-turbo"
+}

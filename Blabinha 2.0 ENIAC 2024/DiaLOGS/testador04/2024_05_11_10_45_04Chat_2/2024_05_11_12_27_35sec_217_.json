@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 217,
+    "falaUser": "Quem monitora a amazonia azul?",
+    "falaGPT": "||A Amazônia Azul é monitorada por diversos órgãos e instituições, tanto brasileiros quanto internacionais.\n No Brasil, a Marinha do Brasil, por meio do Centro de Hidrografia da Marinha (CHM) e da Diretoria de Hidrografia e Navegação (DHN), desempenha um papel fundamental no monitoramento da região.\n Além disso, o Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (IBAMA) e o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio) também atuam na proteção e monitoramento da Amazônia Azul.\n Organizações internacionais, como a ONU e a OEA, também acompanham a situação da região.\n É importante manter a Amazônia Azul protegida e preservada para garantir a biodiversidade e a sustentabilidade dos recursos marinhos.\n",
+    "Tokens": 389,
+    "TimeStamp": "2024_05_11_12_27_35",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 217,
+    "falaUser": "tem animais em extinção?",
+    "falaGPT": "||Ah, sim! Infelizmente, temos vários animais em extinção, sabe? Como o mico-leão-dourado, que é tão pequenininho e bonitinho, com uma juba laranja brilhante! E também o tigre-siberiano, que é bem grande e tem uma pelagem com listras pretas incríveis.\n Eles estão em perigo porque seu lar, a floresta, está sendo cortado e isso não é nada bom para eles.\n É importante cuidarmos de todos os animais para que eles possam continuar colorindo nosso mundo! 🐒🐅",
+    "Tokens": 308,
+    "TimeStamp": "2024_05_12_15_44_16",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 216,
+    "falaUser": "E sobre a governança da Amazônia Azul?",
+    "falaGPT": "||A Amazônia Azul é superimportante para o Brasil, sabia? Ela é uma área enorme no mar que é do nosso país e tem muita riqueza natural, como petróleo e peixinhos! Para cuidar bem dela, a Marinha do Brasil ajuda muito! Eles têm a missão de vigiar para que ninguém faça coisas erradas, como poluir ou pescar mais do que deveria.\n O governo brasileiro também cria leis para proteger esse tesouro azul, garantindo que ele seja usado de forma sustentável, sem prejudicar o meio ambiente.\n Assim, a Amazônia Azul pode continuar linda e cheia de vida, ajudando também as pessoas que vivem por perto! É como um grande parque natural, mas no mar! 🌊🐟||Vou elaborar uma questão para testar seus conhecimentos sobre a Amazônia Azul e como o Brasil cuida dessa importante área marítima.\n Isso vai ajudar a entender melhor a importância e os desafios associados à governança dessa região.\n Vamos lá!||Qual das seguintes afirmações descreve corretamente a principal função da Marinha do Brasil na governança da Amazônia Azul?\n\n1) Realizar atividades de pesquisa científica exclusivamente.\n\n2) Promover o turismo sustentável na região.\n\n3) Vigiar e proteger a região contra atividades ilegais, como a pesca predatória e a poluição.\n\n4) Explorar economicamente os recursos naturais, sem foco em sustentabilidade.\n",
+    "Tokens": 1034,
+    "TimeStamp": "2024_05_14_19_14_56",
+    "Model": "gpt-4-turbo"
+}

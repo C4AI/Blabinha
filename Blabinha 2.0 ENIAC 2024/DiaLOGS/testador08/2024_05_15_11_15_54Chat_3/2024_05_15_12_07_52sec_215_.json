@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "não, quero saber se tem lugar pra comer sushi",
+    "falaGPT": "||Desculpe, mas este assunto não está relacionado com a Amazônia Azul.\n Sugiro verificar em aplicativos de avaliações de restaurantes ou sites especializados em alimentação.\n||Ao falar sobre a Amazônia Azul, vale a pena abordar sua importância ambiental, econômica e estratégica para o Brasil.\n Alguns exemplos de assuntos relevantes incluem a biodiversidade marinha, como corais e animais marinhos; as áreas de proteção ambiental e os impactos da pesca predatória; a exploração sustentável dos recursos naturais, como petróleo e minerais; e a importância da segurança marítima e defesa nacional nessa região.\n Esses temas ilustram a riqueza e complexidade da Amazônia Azul, demonstrando a necessidade de seu uso responsável e preservação a longo prazo.\n",
+    "Tokens": 423,
+    "TimeStamp": "2024_05_15_12_07_52",
+    "Model": "gpt-3.5-turbo"
+}

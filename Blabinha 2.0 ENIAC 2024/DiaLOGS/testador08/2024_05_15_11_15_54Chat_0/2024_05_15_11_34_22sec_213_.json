@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 213,
+    "falaUser": "quem governa a amazônia azul?",
+    "falaGPT": "||A Amazônia Azul é uma região rica e importante, mas não é governada por uma única pessoa ou entidade.\n Na verdade, a gestão e proteção da Amazônia Azul envolve diversos órgãos e instituições, tanto do governo brasileiro quanto de organizações internacionais.\n O Brasil tem responsabilidades sobre essa vasta área marinha, mas também coopera com outros países e entidades para a conservação e uso sustentável dos recursos naturais presentes na região.\n É importante que todos trabalhem juntos para garantir a preservação da Amazônia Azul e o bem-estar das comunidades que dela dependem.\n",
+    "Tokens": 323,
+    "TimeStamp": "2024_05_15_11_34_22",
+    "Model": "gpt-3.5-turbo"
+}

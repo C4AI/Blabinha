@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 215,
+    "falaUser": "Quem são as pessoas que fazem pesquisas científicas na amazônia azul?",
+    "falaGPT": "||Você pode me fazer mais perguntas se quiser!",
+    "Tokens": 60,
+    "TimeStamp": "2024_05_15_10_20_16",
+    "Model": "gpt-3.5-turbo"
+}

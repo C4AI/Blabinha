@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 212,
+    "falaUser": "É proibido pescar na amazonia azul?",
+    "falaGPT": "||Você tem mais perguntas ou quer encerrar a conversa? Estou aqui para te ajudar!",
+    "Tokens": 77,
+    "TimeStamp": "2024_05_11_13_24_15",
+    "Model": "gpt-3.5-turbo"
+}

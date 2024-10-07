@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 218,
+    "falaUser": "O que é a Plataforma Continental?",
+    "falaGPT": "||Uau, você falou tanto que chegamos ao final da conversa! Agora vamos para a criação do herói.\n Para criar o herói, você precisa ter paciência, pois eu, a Blabinha, preciso ler toda a nossa conversa com a ajuda de um script especial e então avaliar suas respostas.\n \n\nVocê só pode escrever algo depois que eu falar algo, combinado? Para começar, basta você escrever qualquer coisa!",
+    "Tokens": 237,
+    "TimeStamp": "2024_05_07_17_09_22",
+    "Model": "gpt-3.5-turbo"
+}

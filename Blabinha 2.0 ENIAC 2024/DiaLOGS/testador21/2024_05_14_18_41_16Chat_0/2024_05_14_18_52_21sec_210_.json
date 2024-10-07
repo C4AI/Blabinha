@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 210,
+    "falaUser": "Que tipos de animais vivem nessa região?",
+    "falaGPT": "||Claro, pode perguntar mais! E já ouviu falar sobre a Amazônia Azul? É uma área muito importante no Brasil!",
+    "Tokens": 101,
+    "TimeStamp": "2024_05_14_18_52_21",
+    "Model": "gpt-4-turbo"
+}

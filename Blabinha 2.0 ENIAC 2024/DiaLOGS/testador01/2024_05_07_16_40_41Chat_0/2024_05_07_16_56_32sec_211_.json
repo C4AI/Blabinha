@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "Existem espécies de animais que só são encontradas na Amazônia Azul?",
+    "falaGPT": "||Na Amazônia Azul, que inclui as águas territoriais brasileiras, existem diversas espécies de animais que são encontradas apenas nessa região marinha.\n Alguns exemplos de animais exclusivos da Amazônia Azul são o boto-cor-de-rosa, o peixe-boi marinho, o golfinho-rotador e diversas espécies de peixes, corais e algas marinhas.\n Esses animais estão adaptados às condições específicas desse ambiente marinho e desempenham papéis importantes para a biodiversidade do ecossistema.\n Por isso, é fundamental proteger e conservar a Amazônia Azul para garantir a sobrevivência dessas espécies únicas.\n",
+    "Tokens": 350,
+    "TimeStamp": "2024_05_07_16_56_32",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 213,
+    "falaUser": "3",
+    "falaGPT": "||Parabéns! Você acertou! A opção correta é \"Coníferas\".\n Elas não são típicas do ambiente marinho da \"Amazônia Azul\", que é dominado por algas e manguezais.\n As coníferas são mais comuns em ambientes terrestres, especialmente em climas mais frios.\n",
+    "Tokens": 448,
+    "TimeStamp": "2024_05_10_21_38_24",
+    "Model": "gpt-4-turbo"
+}

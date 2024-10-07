@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 350,
+    "falaUser": "vive num abacaxi, e mora no mar!",
+    "falaGPT": "||Uau, você conseguiu 10 estrelas de um total de 10! Isso é incrível, você é um verdadeiro campeão! E adivinha só? O herói foi criado e já tem até uma imagem dele! Quer ver como ficou?",
+    "Tokens": 145,
+    "TimeStamp": "2024_05_15_04_59_44",
+    "Model": "gpt-4-turbo"
+}

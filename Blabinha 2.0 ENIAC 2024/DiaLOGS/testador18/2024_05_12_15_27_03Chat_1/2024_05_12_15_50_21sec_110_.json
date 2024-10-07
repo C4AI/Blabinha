@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 110,
+    "falaUser": "Prefiro não falar o meu nome",
+    "falaGPT": "||Tudo bem, não há problema! Se preferir, posso te chamar de \"amigo\" ou \"amiga\".\n Só me avise como se sente mais confortável.\n Vamos continuar explorando juntos os temas que te interessam!",
+    "Tokens": 189,
+    "TimeStamp": "2024_05_12_15_50_21",
+    "Model": "gpt-4-turbo"
+}

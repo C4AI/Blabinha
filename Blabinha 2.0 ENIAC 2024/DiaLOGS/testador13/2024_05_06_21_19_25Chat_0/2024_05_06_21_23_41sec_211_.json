@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 211,
+    "falaUser": "Qual é o seu animal preferido da amazônia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é cheia de criaturas incríveis! Mas um dos meus animais preferidos é o golfinho-rotador! Eles são superinteligentes e adoram fazer acrobacias na água, girando pelo ar.\n É como se estivessem dando um show só para a gente! E eles também são superamigáveis, o que os torna ainda mais especiais, né? Imagina só poder nadar e brincar com eles um dia, seria demais! 🐬✨",
+    "Tokens": 295,
+    "TimeStamp": "2024_05_06_21_23_41",
+    "Model": "gpt-4-turbo"
+}

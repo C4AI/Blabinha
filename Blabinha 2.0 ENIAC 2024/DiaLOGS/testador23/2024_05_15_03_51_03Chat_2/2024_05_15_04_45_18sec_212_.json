@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 212,
+    "falaUser": "que recursos naturais tem na amazônia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é um lugar super incrível e cheio de tesouros naturais, sabia? Ela tem muitos recursos como petróleo e gás natural, que ficam escondidinhos debaixo do mar.\n Além disso, tem muitos peixinhos e outros bichinhos marinhos que são super importantes para a gente, como os que a gente come.\n Também tem minerais preciosos no fundo do mar e sal marinho.\n E não podemos esquecer que tem muitas plantinhas aquáticas que ajudam a manter o mar saudável.\n É como um grande parque de diversões debaixo d'água! 🐟🌊||Agora vou criar uma pergunta sobre a Amazônia Azul para testar seu conhecimento sobre esse fascinante ecossistema marinho.\n Vamos ver o que você aprendeu sobre os recursos naturais que ela oferece! Está pronto? Vamos lá!||Qual dos seguintes recursos não é encontrado na Amazônia Azul?\n\n1) Petróleo\n2) Diamantes\n3) Gás natural\n4) Sal marinho",
+    "Tokens": 882,
+    "TimeStamp": "2024_05_15_04_45_18",
+    "Model": "gpt-4-turbo"
+}

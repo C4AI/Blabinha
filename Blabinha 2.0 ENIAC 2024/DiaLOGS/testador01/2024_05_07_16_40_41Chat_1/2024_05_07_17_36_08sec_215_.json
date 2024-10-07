@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 215,
+    "falaUser": "A 1 e a 2",
+    "falaGPT": "||Parabéns! Você acertou! A poluição na Amazônia Azul é causada pelo lixo e resíduos lançados no mar, assim como pela contaminação por produtos químicos.\n Esses fatores são prejudiciais ao ambiente marinho e à vida marinha.\n",
+    "Tokens": 447,
+    "TimeStamp": "2024_05_07_17_36_08",
+    "Model": "gpt-3.5-turbo"
+}

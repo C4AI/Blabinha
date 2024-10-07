@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 213,
+    "falaUser": "O que é petróleo e gás natural?",
+    "falaGPT": "||Você quer fazer mais perguntas ou prefere encerrar por hoje?",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_14_20_53_37",
+    "Model": "gpt-4-turbo"
+}

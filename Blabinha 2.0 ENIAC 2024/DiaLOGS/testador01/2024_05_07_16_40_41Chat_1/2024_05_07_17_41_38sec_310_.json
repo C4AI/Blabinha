@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 310,
+    "falaUser": "estou pronto.",
+    "falaGPT": "||Olá! Agora vou começar a dar a pontuação do jogo.\n Analisando o quanto você interagiu, você ganhou 4 estrelas de um total de quatro! Você foi ótimo(a) participando e se divertindo.\n Parabéns!||Legal! Agora vou fazer uma análise dos tópicos que conversamos.\n Você falou 10 vezes sobre o Meio Ambiente, 8 vezes sobre Governança e 10 vezes sobre Riquezas.\n Incrível como você abordou esses temas! Por isso, você recebe 4 estrelas de um total de 4.\n Parabéns pela conversa rica e variada! 🌟🌟🌟🌟||Parabéns, você acabou de encontrar um bônus surpresa, então ganhou duas estrelas! 🌟🌟 E agora, o super-herói vai usar a ferramenta Mergulhão Supersônico para investigar recifes e corais.\n Incrível, não é? 😉||Você respondeu 3 perguntas de um total de 3! Isso significa que você vai poder escolher 4 atributos do herói.\n Vamos começar! O primeiro atributo é a roupa do super herói.\n Como você gostaria que fosse a roupa do herói?",
+    "Tokens": 736,
+    "TimeStamp": "2024_05_07_17_41_38",
+    "Model": "gpt-3.5-turbo"
+}

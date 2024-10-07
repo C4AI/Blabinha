@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 210,
+    "falaUser": "Que tipos de peixes vivem lá?",
+    "falaGPT": "||Ah, na Amazônia Azul vive um montão de peixes coloridos e diferentes! Temos o peixe-papagaio, que parece que pintou o corpo todo de azul e verde para ir a uma festa no oceano.\n Também tem o tubarão-martelo, que com sua cabeça engraçada parece que está sempre tentando ouvir segredos do mar.\n E não podemos esquecer dos graciosos golfinhos, que adoram fazer acrobacias e parecem sempre estar sorrindo! Esses e muitos outros amiguinhos nadam por lá, tornando o mar brasileiro um lugar super especial e cheio de vida!",
+    "Tokens": 323,
+    "TimeStamp": "2024_05_14_11_19_43",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 210,
+    "falaUser": "Quais animais vivem na amazônia azul?",
+    "falaGPT": "||Uma variedade incrível de animais vive na Amazônia Azul! Podemos encontrar baleias, golfinhos, tartarugas marinhas, peixes coloridos, tubarões, arraias, polvos, corais e muitos outros seres marinhos.\n Eles formam um ecossistema marinho rico e diversificado, contribuindo para a beleza e equilíbrio desse ambiente marinho.\n É muito importante proteger esses animais e seu habitat, garantindo que eles possam viver de forma saudável e natural.\n Você sabia que também existem plantas e microorganismos incríveis na Amazônia Azul? Todos juntos formam um verdadeiro mundo subaquático cheio de vida e surpresas!",
+    "Tokens": 348,
+    "TimeStamp": "2024_05_11_12_08_36",
+    "Model": "gpt-3.5-turbo"
+}

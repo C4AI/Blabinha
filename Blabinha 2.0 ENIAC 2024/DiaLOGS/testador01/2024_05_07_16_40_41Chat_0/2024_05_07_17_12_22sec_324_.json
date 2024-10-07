@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 324,
+    "falaUser": "Quero que seja azul pra ele se esconder mais facilmente no mar. E lisa igual pele de golfinho.",
+    "falaGPT": "||Olá! Para criar nosso herói, o segundo atributo é a capa.\n Como você gostaria que fosse a capa do nosso herói? Quer algo brilhante, colorido, simples, com estampas? Me conte sua ideia!",
+    "Tokens": 116,
+    "TimeStamp": "2024_05_07_17_12_22",
+    "Model": "gpt-3.5-turbo"
+}

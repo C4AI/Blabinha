@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 215,
+    "falaUser": "O governo federal",
+    "falaGPT": "||Você pode me fazer mais perguntas, mas não se esqueça de falarmos sobre a Amazônia Azul.\n Vamos lá! 🌊🐟",
+    "Tokens": 105,
+    "TimeStamp": "2024_05_07_17_04_26",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 130,
+    "falaUser": "Porque eu preciso criar um herói?",
+    "falaGPT": "||No desafio da criação do herói da Amazônia Azul, teremos no máximo 7 turnos.\n Durante esses turnos, você pode fazer perguntas sobre a Amazônia Azul para deixar o herói mais forte.\n Além disso, você pode pedir dicas sobre possíveis assuntos da Amazônia Azul, pedir para terminar o jogo ou solicitar para criar o herói sem que essas ações contem como um turno.\n Vamos começar!||Você entendeu as regras do desafio da criação do herói da Amazônia Azul? Se precisar de mais alguma informação, pode perguntar!",
+    "Tokens": 541,
+    "TimeStamp": "2024_05_15_10_35_37",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 324,
+    "falaUser": "Cinza e de pano",
+    "falaGPT": "||Olá! O segundo atributo do nosso herói é a capa.\n Como você gostaria que fosse a capa do herói? Listrada, de cores sólidas, com estampas de estrelas ou com um emblema especial? Ou você tem alguma outra ideia para a capa?",
+    "Tokens": 128,
+    "TimeStamp": "2024_05_17_18_42_33",
+    "Model": "gpt-3.5-turbo"
+}

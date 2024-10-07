@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 130,
+    "falaUser": "Vamo",
+    "falaGPT": "||Neste desafio, podemos conversar até 7 vezes.\n Durante essas conversas, você pode pedir dicas sobre a Amazônia Azul e pedir para criar um herói mais forte para ajudar na aventura.\n Além disso, você pode pedir para terminar o jogo a qualquer momento, e essas ações não irão contar como um turno.\n Vamos começar! O que você gostaria de saber sobre a Amazônia Azul?||Você entendeu as regras até agora? Como posso te ajudar a explorar a Amazônia Azul?",
+    "Tokens": 490,
+    "TimeStamp": "2024_05_17_12_14_18",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 120,
+    "falaUser": "Eu tive uma aula sobre isso, mas gostaria de saber mais",
+    "falaGPT": "||Com certeza! A Amazônia Azul é uma região marítima brasileira rica em biodiversidade e recursos naturais.\n Gostaria de saber mais sobre isso?",
+    "Tokens": 139,
+    "TimeStamp": "2024_05_13_19_16_30",
+    "Model": "gpt-3.5-turbo"
+}

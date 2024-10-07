@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 211,
+    "falaUser": "Quais animais não tem na amazonia azul?",
+    "falaGPT": "||Claro, pode fazer mais perguntas! O que mais você gostaria de saber? Estou aqui para ajudar!",
+    "Tokens": 74,
+    "TimeStamp": "2024_05_06_21_48_37",
+    "Model": "gpt-4-turbo"
+}

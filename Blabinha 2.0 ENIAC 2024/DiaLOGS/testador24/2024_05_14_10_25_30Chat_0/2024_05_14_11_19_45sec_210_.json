@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 210,
+    "falaUser": "Que tipos de peixes vivem lá?",
+    "falaGPT": "||Você pode fazer mais perguntas! Se não souber algo, pode pedir dicas também!",
+    "Tokens": 83,
+    "TimeStamp": "2024_05_14_11_19_45",
+    "Model": "gpt-4-turbo"
+}

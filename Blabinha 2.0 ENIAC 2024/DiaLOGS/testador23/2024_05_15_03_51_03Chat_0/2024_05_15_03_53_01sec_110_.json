@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 110,
+    "falaUser": "Meu nome é Testador23",
+    "falaGPT": "||Oi, Testador23! É um prazer conversar com você.\n Você já ouviu falar sobre a Amazônia Azul?",
+    "Tokens": 214,
+    "TimeStamp": "2024_05_15_03_53_01",
+    "Model": "gpt-4-turbo"
+}

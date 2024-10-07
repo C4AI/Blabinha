@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 216,
+    "falaUser": "Quando que a batata ruffles foi criada?",
+    "falaGPT": "||A batata Ruffles foi criada em 1958 pela empresa Frito-Lay.\n É um salgadinho em formato ondulado muito popular em todo o mundo.\n||Para falar sobre a Amazônia Azul, você pode abordar diversos temas interessantes, como a biodiversidade marinha, os recursos minerais presentes na região, as atividades de pesquisa e exploração na área e a importância da preservação ambiental.\n Além disso, você também pode discutir sobre a economia marítima, as tecnologias utilizadas para estudar e explorar a região, as políticas de gestão costeira e o papel do Brasil na proteção e desenvolvimento sustentável da Amazônia Azul.\n Estes são apenas alguns exemplos de assuntos que envolvem essa vasta extensão marítima brasileira.\n",
+    "Tokens": 411,
+    "TimeStamp": "2024_05_15_11_01_03",
+    "Model": "gpt-3.5-turbo"
+}

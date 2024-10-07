@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 350,
+    "falaUser": "a casa do heroi sera em cima da tartaruga falante companheira dele. Ela eh uma tartaruga gigante.",
+    "falaGPT": "||Uau, você conseguiu todas as 10 estrelas! Parabéns, você é incrível! 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\nEstou tão orgulhoso de você! Para comemorar, aqui está uma imagem do seu herói, que foi criado baseado no que você fez.\n 😊🦸‍♂️",
+    "Tokens": 187,
+    "TimeStamp": "2024_05_08_23_06_06",
+    "Model": "gpt-3.5-turbo"
+}

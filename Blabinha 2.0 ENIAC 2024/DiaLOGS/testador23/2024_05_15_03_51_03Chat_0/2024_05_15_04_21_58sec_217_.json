@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 217,
+    "falaUser": "A amazônia azul tem só mar ou tem ilhas?",
+    "falaGPT": "||Ah, claro! Na Amazônia Azul temos várias ilhinhas superinteressantes! Além do mar grandão, existem ilhas como Fernando de Noronha, que é famosa pelas suas praias lindas e vida marinha, e também as Ilhas Trindade e Martim Vaz.\n Essas ilhas são como pequenos tesouros no meio do oceano, cheias de animais e plantas especiais.\n Então, sim, a Amazônia Azul tem ilhas também! 🏝️",
+    "Tokens": 300,
+    "TimeStamp": "2024_05_15_04_21_58",
+    "Model": "gpt-4-turbo"
+}

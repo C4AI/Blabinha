@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 216,
+    "falaUser": "O governo manda na amazonia azul?",
+    "falaGPT": "||Ah, entendi! A Amazônia Azul é como um grande espaço de água pertinho do Brasil! Sabe, como se fosse um quintal enorme no oceano.\n E sim, o governo do Brasil cuida dessa área, olha pelas plantinhas e bichinhos que moram lá e também se certifica de que tudo está seguro e protegido.\n É como se eles fossem os \"pais\" do quintal aquático, sempre de olho para tudo estar em ordem e bonito! Legal, né?||Agora, vou criar uma pergunta sobre a Amazônia Azul para você responder! Isso pode ajudar a entender melhor como o Brasil cuida desse importante espaço marinho.\n Preparado? Vamos lá!||Qual é a principal função do governo brasileiro em relação à Amazônia Azul?\n\n1) Explorar recursos minerais indiscriminadamente.\n\n2) Proteger a biodiversidade e o patrimônio natural.\n\n3) Promover exclusivamente atividades turísticas.\n\n4) Permitir a pesca sem qualquer tipo de controle ou regulamentação.\n",
+    "Tokens": 776,
+    "TimeStamp": "2024_05_07_17_54_05",
+    "Model": "gpt-4-turbo"
+}

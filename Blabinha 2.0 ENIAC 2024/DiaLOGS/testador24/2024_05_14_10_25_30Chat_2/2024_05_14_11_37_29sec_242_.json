@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 242,
+    "falaUser": "Que peixinhos?",
+    "falaGPT": "||Ah, eu acho que você pode estar falando de algum tipo de peixinho que vive no mar ou no rio, né? No Brasil, temos muitos peixinhos coloridos e fofinhos! Por exemplo, no rio temos o peixe-boi, que é super grandão mas bem gentil, e nos rios da Amazônia temos os pequenos e brilhantes tetras que nadam juntinhos.\n No mar, podemos encontrar os palhaços, que são super coloridos e adoram se esconder entre as anêmonas.\n São todos incríveis, não acha?||Uau, você caiu em um bônus! 🎉 Vamos embarcar em uma aventura para proteger os mares do Brasil! Qual ferramenta o super-herói vai usar? Escolha uma:\n\n1) Rede de Limpeza de Plástico: para coletar resíduos plásticos e manter o oceano limpo.\n\n2) Submarino Ecológico: para monitorar e proteger habitats marinhos sem poluir.\n\n3) Sistema de Filtragem de Água: para remover poluentes e toxinas das águas costeiras.\n\n4) Cruzador de Educação Ambiental: para ensinar as comunidades locais sobre a importância de preservar a vida marinha.\n\n\nQual será a escolha do herói? 🌊✨",
+    "Tokens": 738,
+    "TimeStamp": "2024_05_14_11_37_29",
+    "Model": "gpt-4-turbo"
+}

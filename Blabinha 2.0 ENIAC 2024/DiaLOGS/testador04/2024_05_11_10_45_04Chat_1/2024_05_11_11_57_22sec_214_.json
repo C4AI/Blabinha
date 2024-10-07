@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 214,
+    "falaUser": "quais produtos são feitos a partir da exploração de recursos marinhos?",
+    "falaGPT": "||Alguns produtos feitos a partir da exploração de recursos marinhos são alimentos como peixes e frutos do mar, produtos farmacêuticos como substâncias extraídas de algas marinhas, cosméticos que utilizam componentes marinhos como algas e minerais, produtos de higiene pessoal como esponjas naturais e até mesmo na produção de biocombustíveis a partir de algas.\n Existem muitos outros produtos que vêm do mar e são muito importantes para diversas indústrias.\n||Agora vou fazer uma pergunta relacionada aos produtos feitos a partir da exploração de recursos marinhos: Quais são os benefícios e desafios da utilização desses recursos na indústria alimentícia e farmacêutica?||Quais são alguns produtos feitos a partir da exploração de recursos marinhos?\n1) Alimentos como peixes e frutos do mar\n2) Componentes para produtos farmacêuticos extraídos de algas marinhas\n3) Cosméticos a base de minerais\n4) Produtos de origem vegetal",
+    "Tokens": 808,
+    "TimeStamp": "2024_05_11_11_57_22",
+    "Model": "gpt-3.5-turbo"
+}

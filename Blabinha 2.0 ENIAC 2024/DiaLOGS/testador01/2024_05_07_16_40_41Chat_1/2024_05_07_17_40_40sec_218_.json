@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 218,
+    "falaUser": "Posso trabalhar na conservação da Amazônia Azul?",
+    "falaGPT": "||Uau, você falou tanto que chegou no final da conversa! Agora vamos partir para a criação do nosso herói.\n Para criarmos juntos o herói, eu preciso ler toda a nossa conversa com a ajuda de um script e avaliar as ideias que surgiram ao longo da nossa interação.\n Assim que eu terminar de analisar, vou te avisar e aí sim você poderá começar a escrever a história do nosso herói.\n \n\nEntão, quando estiver pronto(a) para começar, escreva qualquer coisa, e assim daremos início à criação do nosso incrível herói! 😊",
+    "Tokens": 280,
+    "TimeStamp": "2024_05_07_17_40_40",
+    "Model": "gpt-3.5-turbo"
+}

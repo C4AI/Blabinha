@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 120,
+    "falaUser": "Nunca ouvi falar sobre a Amazônia Azul. Pode me falar mais sobre esse tema?",
+    "falaGPT": "||Claro! A Amazônia Azul se refere à extensão marinha do Brasil, uma área enorme de águas costeiras muito ricas em biodiversidade.\n Ela é tão importante quanto a Amazônia verde, por isso também merece nossa atenção e cuidado.\n A proposta é criar um super-herói que proteja a Amazônia Azul! Que tal participar desse desafio e nos ajudar a pensar em formas criativas de preservar essas águas tão preciosas? Será super divertido e educativo! O que acha?",
+    "Tokens": 340,
+    "TimeStamp": "2024_05_17_11_32_54",
+    "Model": "gpt-3.5-turbo"
+}

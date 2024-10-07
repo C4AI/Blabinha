@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 212,
+    "falaUser": "não sei que outras perguntas eu posso fazer",
+    "falaGPT": "||A Amazônia Azul é uma região rica e de extrema importância para o Brasil, tanto do ponto de vista ambiental quanto econômico e estratégico.\n Aqui estão quatro possíveis assuntos que poderiam ser explorados quando se discute a Amazônia Azul:\n\n1.\n **Preservação Ambiental e Biodiversidade Marinha**: A importância de proteger as espécies marinhas e os ecossistemas únicos encontrados na Amazônia Azul.\n\n   \n2.\n **Exploração de Recursos Naturais**: O potencial e os desafios relacionados à extração de recursos como petróleo, gás e minerais no leito marinho da Amazônia Azul.\n\n\n3.\n **Segurança Marítima e Defesa Nacional**: As estratégias e ações do Brasil para garantir a segurança e a soberania sobre esta vasta e rica área marítima.\n\n\n4.\n **Desenvolvimento Sustentável e Economia Azul**: Como a Amazônia Azul pode ser explorada de uma maneira que promova o desenvolvimento econômico ao mesmo tempo em que se mantém a sustentabilidade ambiental.\n",
+    "Tokens": 391,
+    "TimeStamp": "2024_05_14_21_46_20",
+    "Model": "gpt-4-turbo"
+}

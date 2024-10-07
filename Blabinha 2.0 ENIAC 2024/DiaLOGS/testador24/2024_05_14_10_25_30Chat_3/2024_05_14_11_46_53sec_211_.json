@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 211,
+    "falaUser": "Ah, tudo bem. Quais peixes seriam amigos do nosso heroi?",
+    "falaGPT": "||Claro, pode perguntar mais! E, ah, lembre-se de falarmos sobre a Amazônia Azul também!",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_14_11_46_53",
+    "Model": "gpt-4-turbo"
+}

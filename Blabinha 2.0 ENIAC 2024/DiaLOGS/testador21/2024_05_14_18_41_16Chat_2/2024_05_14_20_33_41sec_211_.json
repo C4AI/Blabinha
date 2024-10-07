@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 211,
+    "falaUser": "Quais são os animais encontrados na Amazonia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul! É um lugar mágico no mar grande onde a gente pode encontrar muitos animais diferentes e interessantes! Lá no fundo do mar e nas águas azuis, podemos ver os golfinhos brincando e saltando, tartarugas nadando calmamente, e também tem muitos peixes coloridos! Ah, e não podemos esquecer dos simpáticos manatis e das baleias que vêm dar um oi de vez em quando.\n E tem até tubarões! Mas eles estão mais para o fundo, viu? Além disso, tem muitos pássaros que voam por cima da água como os atobás e as fragatas.\n É como se fosse uma festa no mar com muitos animais diferentes!",
+    "Tokens": 353,
+    "TimeStamp": "2024_05_14_20_33_41",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 211,
+    "falaUser": "Qual é o seu animal preferido da amazônia azul?",
+    "falaGPT": "||Claro! Pode fazer mais perguntas.\n Estou aqui para responder e conversar com você!",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_06_21_23_42",
+    "Model": "gpt-4-turbo"
+}

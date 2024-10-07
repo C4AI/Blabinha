@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "existem indios la?",
+    "falaGPT": "||Desculpe, mas a presença de indígenas não está relacionada à Amazônia Azul.\n A Amazônia Azul trata da extensão da plataforma continental brasileira.\n||O user deve falar sobre a importância da Amazônia Azul, que abrange o mar territorial brasileiro, incluindo sua biodiversidade marinha, atividades econômicas como pesca e exploração de recursos naturais, conservação ambiental e segurança no Atlântico Sul.\n Exemplos de assuntos que ele pode abordar são: o ecossistema marinho da Amazônia Azul e suas peculiaridades, a exploração sustentável dos recursos marinhos, a importância da preservação dos recifes de corais e manguezais na região, e a atuação da Marinha do Brasil no monitoramento e proteção da região.\n Estes são temas fundamentais para a compreensão e valorização da Amazônia Azul.\n",
+    "Tokens": 432,
+    "TimeStamp": "2024_05_17_18_56_12",
+    "Model": "gpt-3.5-turbo"
+}

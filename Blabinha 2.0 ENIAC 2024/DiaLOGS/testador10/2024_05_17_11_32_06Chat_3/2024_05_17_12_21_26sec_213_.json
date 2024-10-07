@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "3",
+    "falaGPT": "||A resposta está correta! O Chile não faz parte dos países que compõem a Amazônia Azul.\n A região da Amazônia Azul engloba principalmente o Brasil, a Argentina, o Uruguai e o Suriname, devido à sua localização geográfica ao longo do Oceano Atlântico.\n Parabéns!",
+    "Tokens": 353,
+    "TimeStamp": "2024_05_17_12_21_26",
+    "Model": "gpt-3.5-turbo"
+}

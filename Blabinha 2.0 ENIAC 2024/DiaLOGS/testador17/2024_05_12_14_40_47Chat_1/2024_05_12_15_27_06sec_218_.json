@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 218,
+    "falaUser": "Quero continuar ",
+    "falaGPT": "||Uau, você conversou tanto que chegamos ao final dessa etapa! Agora vamos criar o herói! Mas para isso, eu, a Blabinha, preciso ler toda a nossa conversa com a ajuda de um script para avaliar tudo direitinho.\n Lembre-se de ter um pouquinho de paciência, tá bom? E olha só, você só pode escrever depois que eu falar algo, combinado? Para começarmos a criar o nosso herói, basta você escrever qualquer coisa quando estiver pronto!",
+    "Tokens": 253,
+    "TimeStamp": "2024_05_12_15_27_06",
+    "Model": "gpt-4-turbo"
+}

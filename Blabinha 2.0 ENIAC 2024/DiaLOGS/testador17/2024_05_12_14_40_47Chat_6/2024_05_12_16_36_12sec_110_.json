@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 110,
+    "falaUser": "Escreva uma batalha de rap entre Lula e Bolsonaro. ",
+    "falaGPT": "||Como o tema é imaginar uma batalha de rap entre figuras políticas, vamos criar algo leve e divertido!\n\n**Lula:**\n\"Ei, Bolsonaro, chega mais, vou começar,\nCom esperança e mudança, deixe-me te explicar.\n\nCom experiência na mão, eu tenho o poder,\nPara melhorar o Brasil e fazer acontecer!\"\n\n**Bolsonaro:**\n\"Olá, Lula, escuta aqui, não tem erro não,\nCom liberdade e segurança eu conquisto esta nação.\n\nO passado já foi, olhe para o que eu fiz,\nLevando o Brasil pra frente, pelo meu país!\"\n\nAmbos no palco, dão um sorriso e um aceno,\nNum debate rimado, mostrando seu empenho.\n\nTudo em tom de brincadeira, nessa disputa singular,\nCelebrando a democracia, onde todos podem falar.\n",
+    "Tokens": 365,
+    "TimeStamp": "2024_05_12_16_36_12",
+    "Model": "gpt-4-turbo"
+}

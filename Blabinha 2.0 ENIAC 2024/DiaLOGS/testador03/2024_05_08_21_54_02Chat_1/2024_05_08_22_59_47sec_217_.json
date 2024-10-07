@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 217,
+    "falaUser": "tem petroleo na amazonia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Se precisar de dicas, é só pedir.\n Estou aqui para ajudar!",
+    "Tokens": 92,
+    "TimeStamp": "2024_05_08_22_59_47",
+    "Model": "gpt-3.5-turbo"
+}

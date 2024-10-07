@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 213,
+    "falaUser": "4",
+    "falaGPT": "||A resposta está incorreta.\n Na região marinha da Amazônia Azul não são encontradas aves, mas sim animais marinhos.\n As aves estão presentes na região terrestre da Amazônia, não na Amazônia Azul.\n Não há contagem de espécies de aves nessa região marítima.\n",
+    "Tokens": 317,
+    "TimeStamp": "2024_05_15_11_49_33",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 211,
+    "falaUser": "o qué é o coral?",
+    "falaGPT": "||Você pode fazer mais perguntas! Não se esqueça de falarmos sobre a Amazônia Azul, tá bem? O que mais quer saber?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_15_01_09_09",
+    "Model": "gpt-3.5-turbo"
+}

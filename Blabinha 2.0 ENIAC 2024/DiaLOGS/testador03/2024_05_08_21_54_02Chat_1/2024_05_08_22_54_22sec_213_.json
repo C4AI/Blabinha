@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 213,
+    "falaUser": "qual é a biodiversidade marinha na Amazonia azul?",
+    "falaGPT": "||Legal! Você pode me fazer mais perguntas se quiser, mas não se esqueça de falarmos sobre a Amazônia Azul, ok?",
+    "Tokens": 102,
+    "TimeStamp": "2024_05_08_22_54_22",
+    "Model": "gpt-3.5-turbo"
+}

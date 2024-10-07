@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 130,
+    "falaUser": "Quero sim",
+    "falaGPT": "||As orientações do desafio consistem no seguinte: o jogo tem um limite de 7 turnos, e apenas as perguntas relacionadas à Amazônia Azul serão consideradas como turnos.\n Você, como participante, pode solicitar dicas sobre temas que se encaixam no contexto da Amazônia Azul.\n Além disso, você tem a opção de finalizar o jogo a qualquer momento ou optar por criar o herói durante a interação.\n Vale destacar que pedir dicas, encerrar o jogo ou criar o herói não são contados como turnos.\n\n||Entendeu as regras do desafio? Você tem alguma dúvida ou está pronto para começar o jogo sobre a Amazônia Azul?",
+    "Tokens": 575,
+    "TimeStamp": "2024_05_15_03_54_44",
+    "Model": "gpt-4-turbo"
+}

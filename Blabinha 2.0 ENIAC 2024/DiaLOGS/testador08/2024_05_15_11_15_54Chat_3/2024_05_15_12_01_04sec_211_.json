@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 211,
+    "falaUser": "ela é muito grande?",
+    "falaGPT": "||Sim, a Amazônia Azul é uma área grande que abrange uma parte muito extensa dos oceanos ao redor do Brasil.\n É uma região muito importante para a biodiversidade marinha e para a economia do país.\n É como se fosse uma floresta debaixo d'água, cheia de vida marinha incrível!",
+    "Tokens": 244,
+    "TimeStamp": "2024_05_15_12_01_04",
+    "Model": "gpt-3.5-turbo"
+}

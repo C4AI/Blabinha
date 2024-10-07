@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 215,
+    "falaUser": "o que é a amazônia azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é super interessante! Imagina só, é como se fosse uma versão gigante e azul da floresta Amazônica, mas no oceano! Ela inclui toda a área do mar do Brasil, da costa até onde o mar é bem fundo.\n Essa área é super importante porque tem montes de peixinhos, plantas aquáticas e até tesouros escondidos como petróleo e minerais! Além disso, ajuda a gente protegendo a costa e sendo um lar para muitos animaizinhos marinhos.\n É como se fosse um grande parque aquático natural que a gente precisa cuidar com muito carinho, sabia?",
+    "Tokens": 333,
+    "TimeStamp": "2024_05_14_19_45_22",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 212,
+    "falaUser": "os corais estão ameaçados?",
+    "falaGPT": "||Sim, os corais estão sim ameaçados! Eles são seres muito importantes para o equilíbrio do ecossistema marinho, pois fornecem abrigo e alimento para diversos animais marinhos.\n Mas, infelizmente, estão sofrendo com a poluição, o aquecimento global e a pesca predatória.\n Por isso, é importante cuidarmos e protegermos os corais, para que eles possam continuar desempenhando seu papel importante na natureza.\n Vamos nos esforçar para proteger e preservar os corais!||Agora vou fazer uma pergunta: Quais são as principais ameaças enfrentadas pelos corais e o que podemos fazer para protegê-los e preservá-los?||Os corais estão ameaçados de extinção devido a:\n\n1) Aquecimento global\n2) Poluição\n3) Pesca predatória\n4) Alterações climáticas",
+    "Tokens": 775,
+    "TimeStamp": "2024_05_15_01_09_30",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 110,
+    "falaUser": "Quis dizer \"sim\"",
+    "falaGPT": "||Entendi, você quis dizer \"sim\"! No entanto, ainda não sei como devo chamá-lo(a).\n Poderia me dizer qual é o seu nome ou como prefere ser chamado(a)? Ficarei feliz em ajudar com qualquer informação ou dúvida que você tenha!",
+    "Tokens": 186,
+    "TimeStamp": "2024_05_07_18_01_27",
+    "Model": "gpt-4-turbo"
+}

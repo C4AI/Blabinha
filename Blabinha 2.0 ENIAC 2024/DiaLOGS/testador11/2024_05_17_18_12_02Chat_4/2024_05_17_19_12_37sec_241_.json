@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 241,
+    "falaUser": "Quais animais da Amazônia Azul?",
+    "falaGPT": "||Peço desculpas pela confusão.\n Na Amazônia Azul, podemos encontrar uma grande diversidade de animais, como golfinhos, peixes coloridos, tartarugas marinhas, tubarões, arraias, lagostas, caranguejos, corais, entre outros.\n Todos esses animais são muito especiais e importantes para o equilíbrio do ecossistema marinho.\n É incrível imaginar a beleza e a diversidade da vida marinha na Amazônia Azul!||Uau! Parece que você caiu em um bônus especial! Agora, imagine que um super-herói está pronto para proteger o mar do Brasil.\n Que ferramenta ele deveria usar? Vamos escolher:\n\n1) Tridente mágico que purifica a água.\n\n2) Luvas que criam barreiras de proteção.\n\n3) Máscara que permite se comunicar com os animais marinhos.\n\n4) Botas que permitem nadar rapidamente para salvar uma espécie em perigo.\n\n\nQual ferramenta você escolheria para o super-herói usar e proteger o mar do Brasil?",
+    "Tokens": 678,
+    "TimeStamp": "2024_05_17_19_12_37",
+    "Model": "gpt-3.5-turbo"
+}

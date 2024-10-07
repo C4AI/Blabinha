@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 212,
+    "falaUser": "quem é usuario",
+    "falaGPT": "||Usuário é uma pessoa que utiliza um serviço, programa ou sistema.\n Este termo não está relacionado com o tema da Amazônia Azul.\n||Certamente! Para falar sobre a Amazônia Azul, você pode abordar diversos assuntos, tais como a biodiversidade marinha da região, os recursos naturais presentes nos oceanos, a importância da preservação ambiental marinha e a exploração sustentável dos recursos do mar, como a pesca e a exploração de petróleo.\n Além disso, é possível discutir projetos de conservação marinha, como a criação de áreas de proteção e o monitoramento da poluição dos oceanos.\n Esses temas refletem a importância da Amazônia Azul para o Brasil e a necessidade de proteger e utilizar de forma consciente os recursos marinhos dessa região.\n",
+    "Tokens": 408,
+    "TimeStamp": "2024_05_15_11_48_47",
+    "Model": "gpt-3.5-turbo"
+}

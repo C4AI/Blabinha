@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 216,
+    "falaUser": "Como posso ajudar a amazônia azul?",
+    "falaGPT": "||Você pode ajudar a Amazônia Azul cuidando do meio ambiente, evitando jogar lixo nas praias e nos rios, não desperdiçando água, apoiando ações de preservação marinha, como limpezas de praias e recifes, e aprendendo mais sobre a importância da biodiversidade marinha.\n Também é importante consumir produtos sustentáveis, como peixes pescados de forma responsável, e apoiar projetos de conservação marinha.\n Pequenas ações podem fazer a diferença para proteger a Amazônia Azul e garantir um futuro saudável para os ecossistemas marinhos.\n Vamos juntos cuidar desse ambiente marinho tão especial!||Vou te fazer uma pergunta sobre como ajudar a Amazônia Azul.\n Qual a importância da preservação marinha e quais são algumas ações que podemos adotar para proteger esse ecossistema?||Qual das atitudes abaixo ajuda a preservar a Amazônia Azul?\n\n1) Jogar lixo nas praias e nos rios\n2) Consumir produtos sustentáveis\n3) Desperdiçar água\n4) Ignorar a importância da biodiversidade marinha",
+    "Tokens": 927,
+    "TimeStamp": "2024_05_15_10_20_48",
+    "Model": "gpt-3.5-turbo"
+}

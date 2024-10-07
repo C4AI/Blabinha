@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 130,
+    "falaUser": "quero criar um super-herói",
+    "falaGPT": "||No desafio, você terá até 7 turnos para fazer perguntas sobre a Amazônia Azul, e somente essas contam como turnos.\n Você também pode pedir dicas sobre quais tópicos perguntar relacionados à Amazônia Azul.\n Se desejar, pode solicitar o término do jogo ou pedir para criar o herói a qualquer momento da interação.\n Lembrando que pedir dicas, terminar o jogo ou solicitar a criação do herói não serão contabilizados como turnos.\n||Entendeu as regras do desafio sobre a Amazônia Azul ou tem alguma dúvida sobre como o jogo funciona?",
+    "Tokens": 555,
+    "TimeStamp": "2024_05_10_21_34_16",
+    "Model": "gpt-4-turbo"
+}

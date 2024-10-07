@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 213,
+    "falaUser": "quem governa a amazônia azul?",
+    "falaGPT": "||Você pode me perguntar mais coisas, mas não se esqueça de explorar também o assunto da Amazônia Azul, certo?",
+    "Tokens": 101,
+    "TimeStamp": "2024_05_15_11_34_23",
+    "Model": "gpt-3.5-turbo"
+}

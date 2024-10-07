@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 213,
+    "falaUser": "qual o impacto da poluição na vida dos peixes ?",
+    "falaGPT": "||Você tem mais perguntas ou podemos encerrar a conversa? Posso ajudar com o que precisar!",
+    "Tokens": 79,
+    "TimeStamp": "2024_05_13_19_01_41",
+    "Model": "gpt-3.5-turbo"
+}

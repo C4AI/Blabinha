@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 212,
+    "falaUser": "Me dê algumas dicas",
+    "falaGPT": "||Vou te dar algumas dicas de tópicos relacionados à Amazônia Azul, que incluem temas como:\n\n1.\n Importância da preservação ambiental na Amazônia Azul\n2.\n Recursos naturais e biodiversidade marinha na Amazônia Azul\n3.\n Atividades econômicas sustentáveis na Amazônia Azul\n4.\n Desafios e perspectivas para a gestão da Amazônia Azul\n\nEsses assuntos podem te ajudar a explorar mais sobre a região da Amazônia Azul e suas particularidades.\n Se tiver outras dúvidas, estou aqui para ajudar!",
+    "Tokens": 278,
+    "TimeStamp": "2024_05_17_11_36_11",
+    "Model": "gpt-3.5-turbo"
+}

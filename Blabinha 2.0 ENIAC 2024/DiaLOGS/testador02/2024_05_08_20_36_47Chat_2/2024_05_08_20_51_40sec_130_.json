@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 130,
+    "falaUser": "vamos criar o herói",
+    "falaGPT": "||No jogo da criação de herói baseado na Amazônia Azul, o desafio se desenvolve em até 7 turnos, onde somente as perguntas relacionadas à Amazônia Azul contam como turnos.\n A criança pode pedir dicas sobre possíveis assuntos da Amazônia Azul, solicitar a finalização do jogo ou pedir para criar o herói em algum momento da interação, sem que isso conte como turno.\n||Entendeu as regras do jogo da criação de herói baseado na Amazônia Azul? Pronto para começar?",
+    "Tokens": 515,
+    "TimeStamp": "2024_05_08_20_51_40",
+    "Model": "gpt-3.5-turbo"
+}

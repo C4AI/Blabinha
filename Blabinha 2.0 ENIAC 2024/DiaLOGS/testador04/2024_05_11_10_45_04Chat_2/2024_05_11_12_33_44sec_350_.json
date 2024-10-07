@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 350,
+    "falaUser": "O heroi tem um castelo dentro do mar",
+    "falaGPT": "||Uau! Você conseguiu 10 estrelas de um total de 10 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐! Que incrível! \n\n🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n\nCom tantas estrelas, você é um verdadeiro herói! Parabéns! E como recompensa, foi criada uma imagem desse herói incrível.\n 🦸✨",
+    "Tokens": 205,
+    "TimeStamp": "2024_05_11_12_33_44",
+    "Model": "gpt-3.5-turbo"
+}

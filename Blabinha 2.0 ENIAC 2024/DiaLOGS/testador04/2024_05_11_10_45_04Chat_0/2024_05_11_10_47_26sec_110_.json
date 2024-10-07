@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 110,
+    "falaUser": "Meu nome é Testador04",
+    "falaGPT": "||Olá, Testador04! Que legal conhecer você! Já ouviu falar sobre a Amazônia Azul? É uma região marítima onde o Brasil tem grande riqueza natural.\n Você sabia disso?",
+    "Tokens": 169,
+    "TimeStamp": "2024_05_11_10_47_26",
+    "Model": "gpt-3.5-turbo"
+}

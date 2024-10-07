@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 213,
+    "falaUser": "tem agua  viva na amazonia azul?",
+    "falaGPT": "||Na Amazônia Azul não existe uma região específica com o nome de \"Amazônia Azul\" na Amazônia, mas o que posso te dizer é que sim, existem águas vivas na região amazônica! Na Amazônia, encontramos uma enorme diversidade de vida aquática, como peixes, plantas aquáticas, insetos aquáticos e muitos outros seres que dependem dos rios e lagos para viver.\n Esses ambientes aquáticos são essenciais para a sobrevivência de muitas espécies e contribuem para a biodiversidade da região.\n É importante proteger essas águas e seus habitantes para garantir um equilíbrio do ecossistema amazônico.\n Espero que tenha gostado da explicação! 😉",
+    "Tokens": 361,
+    "TimeStamp": "2024_05_09_00_02_34",
+    "Model": "gpt-3.5-turbo"
+}

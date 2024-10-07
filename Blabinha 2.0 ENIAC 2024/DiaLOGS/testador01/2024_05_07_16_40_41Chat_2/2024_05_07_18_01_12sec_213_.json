@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "Há empresas explorando recursos da Amazônia Azul?",
+    "falaGPT": "||Sim, algumas empresas estão explorando os recursos da Amazônia Azul, como os da biodiversidade marinha, minerais e energéticos, por exemplo.\n Essa região é rica em recursos naturais e oferece oportunidades de desenvolvimento econômico, porém é importante garantir que essa exploração seja feita de forma sustentável, respeitando o meio ambiente e as comunidades locais.\n É essencial que as empresas que atuam nessa região estejam comprometidas com a preservação do ecossistema marinho e a manutenção da biodiversidade.\n Assim, a Amazônia Azul pode ser explorada de maneira responsável e beneficiar a sociedade sem causar danos irreparáveis ao meio ambiente.\n",
+    "Tokens": 346,
+    "TimeStamp": "2024_05_07_18_01_12",
+    "Model": "gpt-3.5-turbo"
+}

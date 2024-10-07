@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 211,
+    "falaUser": "Posso ter um jet ski ?",
+    "falaGPT": "||Desculpe, mas um jet ski não está diretamente relacionado com a Amazônia azul, que trata da exploração sustentável dos recursos marinhos em áreas costeiras.\n||Para discutir sobre a Amazônia Azul, você pode abordar os seguintes temas:\n1.\n Ecossistemas marinhos e a biodiversidade da região;\n2.\n Atividades econômicas sustentáveis, como pesca e turismo;\n3.\n Tecnologias utilizadas para exploração e estudo da região;\n4.\n Importância da preservação ambiental e medidas de conservação marinha.\n \nLembre-se de destacar a relevância e a diversidade da Amazônia Azul, englobando aspectos ambientais, sociais e econômicos.\n",
+    "Tokens": 391,
+    "TimeStamp": "2024_05_18_15_19_52",
+    "Model": "gpt-3.5-turbo"
+}

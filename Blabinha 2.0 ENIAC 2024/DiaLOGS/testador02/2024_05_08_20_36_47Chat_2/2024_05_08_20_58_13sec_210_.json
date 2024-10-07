@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 210,
+    "falaUser": "eu acho que a poluição não seja um problema para amazônia azul, o que você me diz sobre isso?",
+    "falaGPT": "||A Amazônia azul refere-se aos recursos marinhos da região amazônica, não sendo afetada diretamente pela poluição terrestre.\n||Certamente! Ao se falar sobre a Amazônia Azul, o foco está na exploração e preservação do vasto território marinho brasileiro.\n Alguns exemplos de assuntos que podem ser abordados são: a biodiversidade marinha e seus ecossistemas únicos, a importância econômica da região para pesca e turismo, a exploração sustentável dos recursos naturais, como petróleo e minerais, e as ações de conservação e proteção ambiental, incluindo a fiscalização e combate à pesca ilegal.\n Ao explorar esses temas, é possível compreender a riqueza e os desafios da Amazônia Azul e a importância de sua preservação para o Brasil e o planeta.\n",
+    "Tokens": 449,
+    "TimeStamp": "2024_05_08_20_58_13",
+    "Model": "gpt-3.5-turbo"
+}

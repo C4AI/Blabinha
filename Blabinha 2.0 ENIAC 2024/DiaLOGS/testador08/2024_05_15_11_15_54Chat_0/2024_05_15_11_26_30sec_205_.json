@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 205,
+    "falaUser": "entendi sim. gostaria de saber o que tem na amazônia azul",
+    "falaGPT": "||Legal! A Amazônia Azul é uma área marítima de grande extensão que pertence ao Brasil.\n É rica em biodiversidade marinha, contendo recifes de corais, ilhas e muitas espécies de peixes.\n Se tiver mais perguntas, pode me fazer!",
+    "Tokens": 153,
+    "TimeStamp": "2024_05_15_11_26_30",
+    "Model": "gpt-3.5-turbo"
+}

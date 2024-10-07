@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "Qual é o principal recurso natural disponível lá?",
+    "falaGPT": "||Você pode me fazer mais perguntas se quiser! Estou aqui para ajudar no que precisar.\n",
+    "Tokens": 71,
+    "TimeStamp": "2024_05_07_17_01_46",
+    "Model": "gpt-3.5-turbo"
+}

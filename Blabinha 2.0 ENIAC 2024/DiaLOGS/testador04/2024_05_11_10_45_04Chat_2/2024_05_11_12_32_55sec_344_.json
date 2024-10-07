@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 344,
+    "falaUser": "O companheiro do herói é um tubarão branco",
+    "falaGPT": "||Ei! O quarto atributo para caracterizar um herói é a casa em que ele vive.\n Como você imagina que será a casa do herói? Será uma casa grande e luxuosa ou simples e aconchegante?",
+    "Tokens": 112,
+    "TimeStamp": "2024_05_11_12_32_55",
+    "Model": "gpt-3.5-turbo"
+}

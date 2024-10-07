@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "Como o super-herói vai navegar por toda a Amazônia Azul?",
+    "falaGPT": "||O super-herói poderia navegar pela Amazônia Azul utilizando um equipamento especial que o permite deslocar-se rapidamente nas águas, como um submarino ou um veículo aquático com propulsão potente.\n Além disso, ele poderia contar com a ajuda de animais marinhos, como golfinhos, tartarugas ou peixes, que conheçam bem a região e possam guiá-lo por caminhos seguros.\n Assim, o super-herói poderia explorar e proteger toda a Amazônia Azul de forma eficaz!",
+    "Tokens": 319,
+    "TimeStamp": "2024_05_07_17_23_33",
+    "Model": "gpt-3.5-turbo"
+}

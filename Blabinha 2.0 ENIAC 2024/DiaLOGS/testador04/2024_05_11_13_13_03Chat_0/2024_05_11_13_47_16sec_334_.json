@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 334,
+    "falaUser": "uma capa grande e rosa",
+    "falaGPT": "||Olá! O terceiro atributo do herói é o companheiro de exploração.\n Qual companheiro você acha que o herói vai ter para ajudá-lo em suas aventuras? Pode ser um animal, um amigo ou até mesmo um ser mágico! Qual seria sua escolha?",
+    "Tokens": 128,
+    "TimeStamp": "2024_05_11_13_47_16",
+    "Model": "gpt-3.5-turbo"
+}

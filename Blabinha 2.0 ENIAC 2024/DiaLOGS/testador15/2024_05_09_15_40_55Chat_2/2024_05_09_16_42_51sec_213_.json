@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 213,
+    "falaUser": "4",
+    "falaGPT": "||A resposta não está correta.\n A capital da França é Paris, não Roma.\n Roma é a capital da Itália.\n Por isso, a resposta correta seria a opção 3) Paris.\n",
+    "Tokens": 248,
+    "TimeStamp": "2024_05_09_16_42_51",
+    "Model": "gpt-4-turbo"
+}

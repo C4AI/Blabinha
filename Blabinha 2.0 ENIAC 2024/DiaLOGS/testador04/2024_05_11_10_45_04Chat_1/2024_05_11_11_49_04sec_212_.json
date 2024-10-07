@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 212,
+    "falaUser": "o que é essa biotecnologia marinha? ",
+    "falaGPT": "||A biotecnologia marinha é a área da ciência que estuda e utiliza organismos marinhos, como peixes, algas, microorganismos e outras formas de vida aquáticas, para desenvolver novas tecnologias, medicamentos, alimentos e produtos para diversas áreas, como a saúde, biologia, nutrição e indústria.\n Ela explora as propriedades e potenciais desses seres vivos para criar soluções inovadoras que beneficiam tanto o meio ambiente marinho quanto a nossa sociedade.\n||Vou te fazer uma pergunta sobre a biotecnologia marinha.\n Ela se refere ao estudo e uso de organismos marinhos para desenvolver novas tecnologias e produtos.\n Está pronto?||O que caracteriza a biotecnologia marinha?\n1) Estudo e utilização de organismos marinhos\n2) Pesquisa exclusiva em terra firme\n3) Desenvolvimento de tecnologias apenas para a indústria\n4) Aplicações limitadas à biologia marine",
+    "Tokens": 775,
+    "TimeStamp": "2024_05_11_11_49_04",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 215,
+    "falaUser": "numero 3",
+    "falaGPT": "||Ops! A resposta correta não é a número 3.\n Andar de bicicleta na verdade ajuda a reduzir a poluição, já que não emite gases como os carros.\n A resposta correta é a número 2, pois usar mais sacolas plásticas aumenta a poluição.\n Vamos tentar outra vez? 😄",
+    "Tokens": 505,
+    "TimeStamp": "2024_05_14_20_41_47",
+    "Model": "gpt-4-turbo"
+}

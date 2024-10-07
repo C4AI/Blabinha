@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 217,
+    "falaUser": "De onde veio o termo amazonia azul?",
+    "falaGPT": "||O termo \"Amazônia Azul\" se originou pois é uma forma de se referir à extensão territorial marítima brasileira, que tem uma importância enorme para o nosso país, assim como a Floresta Amazônica.\n É como se fosse uma espécie de \"Amazônia do Mar\", uma região rica em biodiversidade e recursos naturais que precisamos proteger e cuidar.\n Por isso, a expressão \"Amazônia Azul\" foi adotada para simbolizar essa área tão relevante para o Brasil.\n",
+    "Tokens": 300,
+    "TimeStamp": "2024_05_18_14_58_57",
+    "Model": "gpt-3.5-turbo"
+}

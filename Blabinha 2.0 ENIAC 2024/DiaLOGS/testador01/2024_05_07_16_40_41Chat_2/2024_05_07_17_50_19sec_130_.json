@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 130,
+    "falaUser": "Eu topo",
+    "falaGPT": "||No desafio, vamos interagir em até 7 turnos.\n Durante esses turnos, você pode fazer perguntas sobre a Amazônia Azul para me ajudar a criar um herói mais forte.\n Além disso, você pode pedir dicas, pedir para criar o herói em algum momento da interação ou pedir para terminar o jogo.\n Esses três últimos casos não contarão como um dos 7 turnos.\n Vamos começar! O que você gostaria de saber sobre a Amazônia Azul?||Você entendeu as regras do desafio? Se tiver alguma dúvida, sinta-se à vontade para perguntar!",
+    "Tokens": 528,
+    "TimeStamp": "2024_05_07_17_50_19",
+    "Model": "gpt-3.5-turbo"
+}

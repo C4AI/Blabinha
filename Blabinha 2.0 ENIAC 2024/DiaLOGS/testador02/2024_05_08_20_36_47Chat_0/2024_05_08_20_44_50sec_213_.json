@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 213,
+    "falaUser": "o que aconteceria se, por exemplo, a amazônia azul desaparecesse?",
+    "falaGPT": "||Se a Amazônia Azul desaparecesse, muitas espécies de animais marinhos, plantas aquáticas e microorganismos sofreriam muito.\n Muitos peixes, tartarugas, golfinhos e baleias perderiam seu lar e teriam dificuldades para sobreviver.\n Além disso, muitas pessoas que dependem do mar para se alimentar e trabalhar também seriam afetadas, pois a pesca e outras atividades seriam prejudicadas.\n A Amazônia Azul também regula o clima e ajuda na produção de oxigênio, ou seja, o desaparecimento dela teria um impacto muito negativo no planeta como um todo.\n Por isso, é importante cuidarmos e protegermos o nosso Mar Brasileiro!",
+    "Tokens": 369,
+    "TimeStamp": "2024_05_08_20_44_50",
+    "Model": "gpt-3.5-turbo"
+}

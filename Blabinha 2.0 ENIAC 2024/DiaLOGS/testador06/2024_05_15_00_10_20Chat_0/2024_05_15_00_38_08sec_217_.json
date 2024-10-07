@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 217,
+    "falaUser": "o que é um ecobatímetro?",
+    "falaGPT": "||Um ecobatímetro é um instrumento utilizado para medir a profundidade da água em tempo real, sendo comumente utilizado em embarcações para a navegação segura.\n||O usuário pode falar sobre a importância da preservação da biodiversidade marinha na Amazônia Azul, os impactos da pesca predatória, a exploração de recursos minerais no solo marinho, a importância estratégica da região para a defesa nacional e a exploração sustentável dos recursos naturais presentes na região.\n Estes são alguns exemplos de assuntos que podem ser abordados ao discutir a Amazônia Azul, uma região marinha de extrema importância para o Brasil e para o planeta como um todo.\n",
+    "Tokens": 390,
+    "TimeStamp": "2024_05_15_00_38_08",
+    "Model": "gpt-3.5-turbo"
+}

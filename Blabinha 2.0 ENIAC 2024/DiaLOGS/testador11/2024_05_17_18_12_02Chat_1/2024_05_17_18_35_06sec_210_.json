@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 210,
+    "falaUser": "O que é Amazônia",
+    "falaGPT": "||Se tiver mais perguntas, pode perguntar! Se precisar de ajuda em algum assunto, é só me pedir dicas.\n Vamos conversar!",
+    "Tokens": 99,
+    "TimeStamp": "2024_05_17_18_35_06",
+    "Model": "gpt-3.5-turbo"
+}

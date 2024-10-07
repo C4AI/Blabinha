@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 213,
+    "falaUser": "O que é petróleo e gás natural?",
+    "falaGPT": "||Opa, vamos lá! Imagina que o petróleo e o gás natural são como sucos que ficam escondidos bem no fundo da terra ou debaixo do mar.\n O petróleo é como um molho escuro e pegajoso que as pessoas usam para fazer gasolina para carros, óleo para máquinas e até mesmo para fazer plásticos.\n Já o gás natural é como o ar que não podemos ver, mas podemos queimar para cozinhar nossa comida e aquecer casas.\n Portanto, petróleo e gás natural são recursos muito importantes que vêm do interior da Terra!",
+    "Tokens": 310,
+    "TimeStamp": "2024_05_14_20_53_35",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 242,
+    "falaUser": "Que tipo de plantas são esses?",
+    "falaGPT": "||Peço desculpas, mas não consigo visualizar as plantas que você mencionou.\n Poderia descrevê-las para mim? Assim poderei tentar identificá-las e te dizer que tipo de plantas são.\n||Parabéns! Você acabou de cair em um bônus especial! Agora, para proteger o mar do Brasil, nosso super-herói vai precisar de uma ferramenta poderosa.\n Qual será a escolha certa? \n\n1) Raio laser subaquático\n2) Rede magnética para recolher lixo\n3) Sugador de poluentes\n4) Barreira de proteção marinha\n\nEscolha sabiamente e veja nosso super-herói em ação salvando o mar brasileiro!",
+    "Tokens": 525,
+    "TimeStamp": "2024_05_11_12_09_40",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 215,
+    "falaUser": "Quem são as pessoas que fazem pesquisas científicas na amazônia azul?",
+    "falaGPT": "||As pessoas que fazem pesquisas científicas na Amazônia Azul incluem biólogos marinhos, oceanógrafos, ambientalistas, geólogos, pesquisadores de áreas afins e também estudantes que estão interessados em aprender mais sobre os ecossistemas marinhos e sua preservação.\n Eles exploram e estudam a diversidade biológica dos oceanos, os impactos das atividades humanas, as mudanças climáticas, a sustentabilidade dos recursos marinhos e muito mais.\n É um trabalho importante para entender melhor a região e promover sua conservação.\n",
+    "Tokens": 322,
+    "TimeStamp": "2024_05_15_10_20_15",
+    "Model": "gpt-3.5-turbo"
+}

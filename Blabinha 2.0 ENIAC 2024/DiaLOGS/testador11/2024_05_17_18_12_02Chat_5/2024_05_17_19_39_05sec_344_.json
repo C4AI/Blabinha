@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 344,
+    "falaUser": "Um pinguim",
+    "falaGPT": "||Entendi! O quarto atributo é a casa do herói.\n Como será a casa do herói na sua história? Será uma casa pequena e aconchegante ou uma casa gigante e cheia de tecnologia?",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_17_19_39_05",
+    "Model": "gpt-3.5-turbo"
+}

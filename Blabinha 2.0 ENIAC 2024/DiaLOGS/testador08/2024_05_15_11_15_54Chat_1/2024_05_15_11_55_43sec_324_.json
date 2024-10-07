@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 324,
+    "falaUser": "quero que seja uma armadura igual do homem de ferro",
+    "falaGPT": "||Legal! O segundo atributo do herói será a capa.\n Como você gostaria que fosse a capa do seu herói? Ela pode ser longa, curta, com algum símbolo especial, de uma cor específica.\n.\n.\n Como você imagina?",
+    "Tokens": 116,
+    "TimeStamp": "2024_05_15_11_55_43",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 211,
+    "falaUser": "quero saber o que tem lá",
+    "falaGPT": "||Na Amazônia Azul, tem muitas coisas incríveis, como peixes coloridos, golfinhos brincalhões, corais maravilhosos e até mesmo alguns navios naufragados para os mais aventureiros explorarem! Também é um lugar importante para a preservação da natureza e para entender melhor como cuidar dos animais e plantas que vivem no mar.\n É cheio de vida e mistérios esperando para serem descobertos!",
+    "Tokens": 276,
+    "TimeStamp": "2024_05_15_11_47_50",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador15",
+    "secao": 110,
+    "falaUser": "QUero saber mais sobre a amazonia azul",
+    "falaGPT": "||Desculpe, não entendi o seu nome.\n Como posso chamá-lo(a)? Sobre a Amazônia Azul, trata-se de uma área marítima que envolve o Brasil, abrangendo cerca de 3,5 milhões de quilômetros quadrados.\n É rica em biodiversidade e recursos minerais, além de ser crucial para a segurança alimentar devido à pesca.\n A região também é vital para o comércio internacional, pois grande parte do comércio exterior brasileiro transita por suas águas.\n Por esses motivos, a proteção dessa zona é uma prioridade para o Brasil.\n",
+    "Tokens": 230,
+    "TimeStamp": "2024_05_09_16_08_11",
+    "Model": "gpt-4-turbo"
+}

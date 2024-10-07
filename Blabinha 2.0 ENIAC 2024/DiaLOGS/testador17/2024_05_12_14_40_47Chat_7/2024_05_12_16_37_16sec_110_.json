@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 110,
+    "falaUser": "Explique o que foi o Plano Real.",
+    "falaGPT": "||Claro! Mas antes, poderia me dizer seu nome? É mais agradável conversar sabendo como me dirigir a você.\n\n\nSobre o Plano Real, foi um plano econômico implementado no Brasil em 1994, com o objetivo principal de estabilizar a economia e controlar a hiperinflação.\n Ele introduziu uma nova moeda, o Real, substituindo o Cruzeiro Real.\n A estratégia incluiu o ancoramento cambial, reformas fiscais para reduzir os gastos públicos e políticas de contenção da inflação.\n O plano foi bem-sucedido inicialmente, reduzindo significativamente a inflação e estabilizando a economia.\n",
+    "Tokens": 296,
+    "TimeStamp": "2024_05_12_16_37_16",
+    "Model": "gpt-4-turbo"
+}

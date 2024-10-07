@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 211,
+    "falaUser": "que animal tem nesse lugar?",
+    "falaGPT": "||Ah, na Amazônia Azul tem muitos bichinhos incríveis! Tem baleias, golfinhos e tartarugas marinhas que nadam pelo mar.\n Os peixinhos coloridos, como o peixe-papagaio, também estão lá, brincando entre os corais.\n E temos o simpático peixe-boi marinho, que é super tranquilo e adora se alimentar de plantinhas aquáticas.\n E olha, também temos muitos tipos de aves que voam por cima da água, como gaivotas e até pinguins no sul! É como um grande parque aquático cheio de vida! 🐳🐠🐢",
+    "Tokens": 324,
+    "TimeStamp": "2024_05_14_21_44_54",
+    "Model": "gpt-4-turbo"
+}

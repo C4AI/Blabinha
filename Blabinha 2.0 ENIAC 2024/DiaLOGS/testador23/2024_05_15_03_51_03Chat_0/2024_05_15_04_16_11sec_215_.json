@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 215,
+    "falaUser": "eu escolho a afirmação 2",
+    "falaGPT": "||Parabéns, você acertou! A afirmação 2 está correta.\n Realmente usam plataformas de petróleo flutuantes que perfuram o fundo do mar para extrair o petróleo na Amazônia Azul.\n Excelente trabalho em entender o processo!",
+    "Tokens": 541,
+    "TimeStamp": "2024_05_15_04_16_11",
+    "Model": "gpt-4-turbo"
+}

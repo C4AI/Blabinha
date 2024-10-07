@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 217,
+    "falaUser": "Há alguma ilha na Amazônia Azul?",
+    "falaGPT": "||Na Amazônia Azul, não existe uma ilha específica, pois a região se refere principalmente às águas e solo marinhos, mas existem diversas ilhas ao longo da costa brasileira que fazem parte dessa extensão marítima.\n Por exemplo, a Ilha de Fernando de Noronha, a Ilha de Marajó, a Ilha de Boipeba, entre outras, estão todas próximas da Amazônia Azul e são parte do ecossistema marinho brasileiro.\n O Mar Azul é cheio de ilhas paradisíacas para serem descobertas e exploradas.\n Vamos aprender mais sobre elas juntos?",
+    "Tokens": 324,
+    "TimeStamp": "2024_05_17_12_03_55",
+    "Model": "gpt-3.5-turbo"
+}

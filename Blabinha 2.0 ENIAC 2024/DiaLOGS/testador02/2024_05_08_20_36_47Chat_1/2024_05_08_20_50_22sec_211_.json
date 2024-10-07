@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 211,
+    "falaUser": "qual é o recurso natural mais encontrado na amazônia azul?",
+    "falaGPT": "||Na Amazônia Azul, o recurso natural mais encontrado é a água do mar, que cobre uma extensa área ao redor do Brasil.\n É nessa água que vivem muitos animais marinhos, como peixes, golfinhos, baleias, tartarugas e uma grande diversidade de seres vivos.\n Também existem recursos minerais, como o petróleo, gás natural e minerais presentes no solo e subsolo marinhos.\n Esses recursos são muito importantes para a economia e o desenvolvimento do país, mas é essencial garantir que sejam explorados de forma sustentável para proteger a vida marinha e o meio ambiente.\n",
+    "Tokens": 331,
+    "TimeStamp": "2024_05_08_20_50_22",
+    "Model": "gpt-3.5-turbo"
+}

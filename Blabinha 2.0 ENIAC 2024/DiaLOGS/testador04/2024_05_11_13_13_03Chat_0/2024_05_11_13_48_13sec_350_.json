@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 350,
+    "falaUser": "um predio alto igual o dos vingadores, mas no meio do mar",
+    "falaGPT": "||Uau, você conseguiu 10 estrelas em 10! Incrível! Parabéns, você é realmente um herói! 🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n\nE para celebrar sua conquista, eu criei um herói especialmente para você! Aqui está a imagem dele: [imagem do herói].\n Espero que goste do seu personagem!",
+    "Tokens": 191,
+    "TimeStamp": "2024_05_11_13_48_13",
+    "Model": "gpt-3.5-turbo"
+}

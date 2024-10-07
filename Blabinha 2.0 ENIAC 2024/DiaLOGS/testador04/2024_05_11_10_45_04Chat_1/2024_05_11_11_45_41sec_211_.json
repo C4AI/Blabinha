@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 211,
+    "falaUser": "Qual o potencial econômico da amazônia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas ou pedir para terminar a conversa a qualquer momento.\n Estou aqui para conversar com você!",
+    "Tokens": 84,
+    "TimeStamp": "2024_05_11_11_45_41",
+    "Model": "gpt-3.5-turbo"
+}

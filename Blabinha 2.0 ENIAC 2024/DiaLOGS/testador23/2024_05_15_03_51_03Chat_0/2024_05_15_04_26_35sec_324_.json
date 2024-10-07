@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 324,
+    "falaUser": "quero que a roupa dele seja vermelha",
+    "falaGPT": "||Então, o segundo atributo do nosso herói é a capa.\n Como você imagina que seja a capa dele? Tem alguma cor ou detalhe especial que você gostaria que ela tivesse?",
+    "Tokens": 103,
+    "TimeStamp": "2024_05_15_04_26_35",
+    "Model": "gpt-4-turbo"
+}

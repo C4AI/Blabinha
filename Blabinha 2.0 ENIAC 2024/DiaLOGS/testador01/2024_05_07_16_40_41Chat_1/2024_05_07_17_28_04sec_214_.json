@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 214,
+    "falaUser": "Eu não tenho mais perguntas.",
+    "falaGPT": "||Você tem certeza que não tem mais perguntas? Estamos quase terminando a criação do herói juntos, falta pouco! Quer continuar?",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_07_17_28_04",
+    "Model": "gpt-3.5-turbo"
+}

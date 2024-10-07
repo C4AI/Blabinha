@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 324,
+    "falaUser": "Quero que a roupa do herói seja branca e brilhante, com detalhes em vermelho",
+    "falaGPT": "||Que legal que você já decidiu que o segundo atributo do nosso herói é a capa! Como você imagina que seja essa capa? Tem alguma cor ou detalhe especial que você gostaria que ela tivesse?",
+    "Tokens": 108,
+    "TimeStamp": "2024_05_06_21_40_53",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "Como o super-herói vai navegar por toda a Amazônia Azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Estou aqui para te ajudar no que precisar.\n",
+    "Tokens": 71,
+    "TimeStamp": "2024_05_07_17_23_34",
+    "Model": "gpt-3.5-turbo"
+}

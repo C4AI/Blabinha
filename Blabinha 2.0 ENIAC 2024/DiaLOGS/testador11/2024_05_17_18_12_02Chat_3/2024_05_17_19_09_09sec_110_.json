@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 110,
+    "falaUser": "Eu me chamo Testador11",
+    "falaGPT": "||Olá, Testador11! Que legal conhecer alguém com um nome tão criativo! Já ouviu falar sobre a Amazônia Azul? É um termo usado para descrever a extensão marítima do Brasil.\n Você gostaria de saber mais sobre isso?",
+    "Tokens": 215,
+    "TimeStamp": "2024_05_17_19_09_09",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 350,
+    "falaUser": "uma rocha",
+    "falaGPT": "||Uau, você conseguiu 10 estrelas em um total de 10, que incrível!🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟🌟\n\nParabéns! Você é realmente um grande herói!💪\n\nE olha só, um herói especial foi criado para você, olhe sua imagem aqui 👇\n\n[Imagem do herói] \n\nEspero que goste do seu novo herói! Qual será o próximo desafio? 😊🌟",
+    "Tokens": 234,
+    "TimeStamp": "2024_05_15_01_05_26",
+    "Model": "gpt-3.5-turbo"
+}

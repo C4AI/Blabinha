@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "2",
+    "falaGPT": "||A resposta está incorreta.\n O tubarão-branco não é uma espécie comumente encontrada na região da Amazônia Azul.\n As espécies que podem ser encontradas nessa região incluem o tubarão-lixa, tubarão-tigre, tubarão-martelo, tubarão-cabeça-chata e tubarão-cinza.\n Parabéns pela tentativa!",
+    "Tokens": 438,
+    "TimeStamp": "2024_05_17_19_17_31",
+    "Model": "gpt-3.5-turbo"
+}

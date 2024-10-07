@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 212,
+    "falaUser": "Quais países fazem parte da Amazônia Azul?",
+    "falaGPT": "||Os países que fazem parte da Amazônia Azul são principalmente aqueles que têm parte do litoral banhado pelo Oceano Atlântico, como o Brasil, a Argentina, o Uruguai e o Suriname.\n Eles todos têm uma parte nessa área azul maravilhosa que é tão importante para a vida marinha e para as pessoas que dependem dela.\n É como se fosse um grande tesouro na água, cheio de vida e riquezas naturais que precisam ser protegidas e cuidadas para sempre! Vamos todos juntos cuidar da nossa Amazônia Azul e ajudar a manter esse lugar tão especial e incrível.\n||Agora vou fazer uma pergunta sobre os países que fazem parte da Amazônia Azul.\n Você está pronto para responder?||Qual país não faz parte da Amazônia Azul?\n1) Brasil\n2) Argentina\n3) Chile\n4) Uruguai",
+    "Tokens": 822,
+    "TimeStamp": "2024_05_17_12_20_35",
+    "Model": "gpt-3.5-turbo"
+}

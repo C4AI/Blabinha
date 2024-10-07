@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 212,
+    "falaUser": "Quais animais e plantas eu posso encontrar na Amazônia Azul?",
+    "falaGPT": "||Ah, na Amazônia Azul você encontrará um montão de criaturas incríveis e plantas super interessantes! No mundo submarino, podemos ver baleias, golfinhos, várias espécies de tartarugas e até o peixinho colorido chamado paru.\n Eles nadam por águas super azuis! \n\nAlém disso, há corais que formam verdadeiros jardins no fundo do mar, e muitas algas que são como as árvores do oceano, sabia? Eles ajudam a manter tudo equilibrado e cheio de vida! E se tiver sorte, pode até ver um tubarão ou uma arraia dançando nas águas! É como um grande parque aquático natural cheio de surpresas! 🐬🐠🌊||Agora, vamos testar o que aprendemos! Vou te fazer uma pergunta sobre a Amazônia Azul.\n Prepare-se para mergulhar no conhecimento e descobrir se você se lembra dos detalhes que falamos sobre esse incrível ecossistema marinho! Está pronto? Aqui vai a questão!||Qual destas espécies você é mais provável de encontrar na Amazônia Azul?\n\n1) Urso polar\n2) Lobo-guará\n3) Tartaruga verde\n4) Camelo",
+    "Tokens": 1012,
+    "TimeStamp": "2024_05_14_19_43_19",
+    "Model": "gpt-4-turbo"
+}

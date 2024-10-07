@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 211,
+    "falaUser": "Quais animais vivem lá?",
+    "falaGPT": "||Ah, a Amazônia Azul tem muitos animais incríveis! Lá, moram várias espécies de peixes coloridos, tubarões, e até tartarugas marinhas que são super fofas.\n Os golfinhos também adoram brincar nas águas azulzinhas de lá.\n E não podemos esquecer das baleias que visitam o lugar para dar um alô! Além disso, têm os corais que são como casinhas para muitos outros pequenos animais do mar.\n É um lugar cheio de vida e magia, como se fosse uma grande festa no fundo do mar!",
+    "Tokens": 315,
+    "TimeStamp": "2024_05_15_06_12_05",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 212,
+    "falaUser": "Quero. A amazonia azul pertence ao Brasil? Nós podemos fazer o que quisermos lá?",
+    "falaGPT": "||Sim, a Amazônia Azul pertence ao Brasil, mas mesmo sendo do Brasil, é muito importante protegê-la e cuidar da natureza lá.\n Não podemos fazer o que quisermos, pois precisamos respeitar o meio ambiente e os animais que vivem nessa região.\n Devemos conservar a Amazônia Azul para garantir que continue sendo um lugar bonito e cheio de vida para as gerações futuras.\n Então, podemos aproveitar a Amazônia Azul de forma responsável e sustentável, cuidando para que continue sendo um lugar especial para todos os seres vivos.\n||Claro! Vou fazer uma pergunta para avaliar o conhecimento sobre a Amazônia Azul: Qual é a importância de proteger a Amazônia Azul e como podemos garantir sua preservação?||Qual é a cor da Amazônia Azul e de quem é o território? \n\n1) Verde e pertence ao Brasil\n2) Azul e pertence à Venezuela\n3) Vermelha e pertence à Colômbia \n4) Amarela e pertence ao Peru",
+    "Tokens": 867,
+    "TimeStamp": "2024_05_16_10_24_45",
+    "Model": "gpt-3.5-turbo"
+}

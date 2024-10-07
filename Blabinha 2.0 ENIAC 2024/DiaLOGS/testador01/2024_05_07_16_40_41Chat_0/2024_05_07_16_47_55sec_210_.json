@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 210,
+    "falaUser": "Tudo bem. A Amazônia Azul ocupa só o entorno da floresta Amazônica?",
+    "falaGPT": "||Você quer me perguntar mais alguma coisa ou podemos encerrar por aqui? Posso te ajudar com mais dúvidas se precisar!",
+    "Tokens": 88,
+    "TimeStamp": "2024_05_07_16_47_55",
+    "Model": "gpt-3.5-turbo"
+}

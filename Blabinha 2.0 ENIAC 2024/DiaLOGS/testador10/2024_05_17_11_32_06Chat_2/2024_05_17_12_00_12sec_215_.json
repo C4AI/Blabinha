@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 215,
+    "falaUser": "baleia\n1",
+    "falaGPT": "||A resposta está incorreta.\n O peixe-boi é o mamífero aquático que desempenha papel fundamental na Amazônia Azul.\n Não é a baleia.\n A resposta correta é \"1) Peixe-boi\".\n Parabéns pela tentativa! O peixe-boi é um ícone importante da região.\n",
+    "Tokens": 394,
+    "TimeStamp": "2024_05_17_12_00_12",
+    "Model": "gpt-3.5-turbo"
+}

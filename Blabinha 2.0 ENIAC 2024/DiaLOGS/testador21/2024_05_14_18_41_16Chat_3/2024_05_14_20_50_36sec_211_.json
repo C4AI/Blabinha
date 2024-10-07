@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 211,
+    "falaUser": "que tipo de animal eu posso encontrar lá?",
+    "falaGPT": "||Claro, pode fazer mais perguntas ou se quiser, podemos terminar por aqui.\n O que prefere?",
+    "Tokens": 80,
+    "TimeStamp": "2024_05_14_20_50_36",
+    "Model": "gpt-4-turbo"
+}

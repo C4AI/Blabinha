@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 130,
+    "falaUser": "Sim",
+    "falaGPT": "||Lembrando que o desafio acontece em no máximo 7 turnos.\n Durante esses turnos, apenas perguntas sobre a Amazônia Azul contam como parte do jogo.\n Você pode pedir dicas sobre possíveis assuntos da Amazônia Azul, solicitar para terminar o jogo ou até mesmo pedir para criar o herói, e essas ações não contam como turno.\n Vamos começar? Qual a sua primeira pergunta?||Você entendeu as regras do jogo? Está pronto para começarmos a explorar juntos a Amazônia Azul? Qual é a sua primeira pergunta sobre esse fascinante ecossistema submarino?",
+    "Tokens": 520,
+    "TimeStamp": "2024_05_16_10_47_31",
+    "Model": "gpt-3.5-turbo"
+}

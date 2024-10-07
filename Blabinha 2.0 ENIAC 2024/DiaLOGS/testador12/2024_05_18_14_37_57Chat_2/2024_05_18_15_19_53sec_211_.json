@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 211,
+    "falaUser": "Posso ter um jet ski ?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Estou aqui para te ajudar no que precisar.\n",
+    "Tokens": 71,
+    "TimeStamp": "2024_05_18_15_19_53",
+    "Model": "gpt-3.5-turbo"
+}

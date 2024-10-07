@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 211,
+    "falaUser": "Puxa, acho que ele usaria esse escudo mágico. Parece muito bom!",
+    "falaGPT": "||Você quer me perguntar mais alguma coisa? Se não souber de algo, posso te dar algumas dicas para ajudar!",
+    "Tokens": 92,
+    "TimeStamp": "2024_05_07_16_53_48",
+    "Model": "gpt-3.5-turbo"
+}

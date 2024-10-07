@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 213,
+    "falaUser": "Que tipo de política ajuda a preservar a Amazônia Azul?",
+    "falaGPT": "||Ah, para cuidar dessa parte grandona do mar que é a Amazônia Azul, as pessoas criam políticas que são como regrinhas para proteger os animais marinhos e as plantinhas que vivem lá.\n Uma dessas políticas pode ser controlar a pesca para que não pesquem demais os peixinhos, sabe? Outra política importante é cuidar para que os navios não joguem lixo no mar, porque isso pode fazer muito mal para os animaizinhos aquáticos.\n Também tem políticas para explorar o petróleo de maneira segura, sem sujar as águas.\n Tudo isso ajuda a Amazônia Azul a continuar linda e saudável!",
+    "Tokens": 344,
+    "TimeStamp": "2024_05_15_06_01_17",
+    "Model": "gpt-4-turbo"
+}

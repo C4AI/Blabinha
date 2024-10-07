@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 211,
+    "falaUser": "O que o governo tem a ver com a Amazônia Azul?",
+    "falaGPT": "||O governo tem a responsabilidade de proteger e preservar a Amazônia Azul, assim como faz com a floresta Amazônica, pois essa região marinha é muito importante para o Brasil.\n Ele pode criar leis, fiscalizar atividades que acontecem no mar, promover a pesquisa científica e também estabelecer parcerias com outros países para cuidar desse ambiente marinho.\n Dessa forma, o governo desempenha um papel fundamental na preservação e no uso sustentável da Amazônia Azul.\n",
+    "Tokens": 300,
+    "TimeStamp": "2024_05_15_10_04_10",
+    "Model": "gpt-3.5-turbo"
+}

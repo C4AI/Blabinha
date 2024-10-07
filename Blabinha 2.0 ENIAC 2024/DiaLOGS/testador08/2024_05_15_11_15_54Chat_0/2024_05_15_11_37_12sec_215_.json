@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "quais tipos de animais tem lá?",
+    "falaGPT": "||Na Amazônia Azul, podemos encontrar uma grande variedade de animais marinhos, como peixes, golfinhos, tubarões, tartarugas, corais, algas marinhas, crustáceos, moluscos, entre outros! Todos eles vivem no oceano e são muito importantes para o equilíbrio ecológico desse ecossistema incrível.\n Eles nadam, voam e se movimentam de um jeito super diferente e interessante! Você sabia que alguns peixes são bem coloridos e podem se camuflar para se proteger dos predadores? E os golfinhos são muito inteligentes e adoram brincar nas águas azuis! Já as tartarugas, são animais lentos e calmos, mas muito bonitos de se ver! É um verdadeiro espetáculo da natureza!",
+    "Tokens": 367,
+    "TimeStamp": "2024_05_15_11_37_12",
+    "Model": "gpt-3.5-turbo"
+}

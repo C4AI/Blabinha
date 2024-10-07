@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 120,
+    "falaUser": "Ouvi falar algumas vezes, o que você poderia me dizer de curiosidade",
+    "falaGPT": "||A Amazônia Azul é a área marítima brasileira, muito rica em biodiversidade.\n Um fato incrível é que essa região corresponde a cerca de 3,5 milhões de quilômetros quadrados, abrigando uma quantidade enorme de espécies marinhas e ecossistemas importantes para o equilíbrio do planeta.\n \nQue tal aproveitar essas curiosidades para criar um super-herói inspirado na Amazônia Azul? Seria muito legal! Você aceita esse desafio?",
+    "Tokens": 359,
+    "TimeStamp": "2024_05_08_20_51_21",
+    "Model": "gpt-3.5-turbo"
+}

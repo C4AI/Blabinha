@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 214,
+    "falaUser": "Qual o órgão do governo responsável por regular a exploração desses recursos?",
+    "falaGPT": "||O órgão do governo responsável por regular a exploração dos recursos marinhos na Amazônia Azul é a Marinha do Brasil.\n Eles cuidam para garantir que a exploração desses recursos seja feita de forma sustentável, protegendo o meio ambiente e a biodiversidade marinha.\n É muito importante cuidar bem da Amazônia Azul, porque ela é cheia de vida e recursos naturais que precisam ser preservados para as futuras gerações.\n Vamos cuidar juntos dela, ok? 😊🌊🐠 #SomosTodosGuardiõesDaAmazôniaAzul||Claro! Vou fazer uma pergunta sobre a regulamentação da exploração de recursos na Amazônia Azul.\n Aguarde um momento, por favor.\n||Qual é o órgão do governo responsável por regular a exploração dos recursos na Amazônia Azul?\n\n1) Marinha do Brasil\n2) IBAMA\n3) Ministério do Meio Ambiente\n4) ANP",
+    "Tokens": 844,
+    "TimeStamp": "2024_05_07_18_02_09",
+    "Model": "gpt-3.5-turbo"
+}

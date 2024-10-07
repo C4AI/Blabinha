@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 215,
+    "falaUser": "Que plantas a gente encontra na Amazônia Azul?",
+    "falaGPT": "||Você pode perguntar mais coisas!",
+    "Tokens": 58,
+    "TimeStamp": "2024_05_07_17_05_15",
+    "Model": "gpt-3.5-turbo"
+}

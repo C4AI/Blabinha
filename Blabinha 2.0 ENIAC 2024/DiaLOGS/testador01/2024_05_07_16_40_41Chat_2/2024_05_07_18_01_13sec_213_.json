@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "Há empresas explorando recursos da Amazônia Azul?",
+    "falaGPT": "||Você pode fazer mais perguntas! O que mais gostaria de saber?",
+    "Tokens": 64,
+    "TimeStamp": "2024_05_07_18_01_13",
+    "Model": "gpt-3.5-turbo"
+}

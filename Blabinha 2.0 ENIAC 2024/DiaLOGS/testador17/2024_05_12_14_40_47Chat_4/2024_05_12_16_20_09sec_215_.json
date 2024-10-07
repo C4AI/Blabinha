@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 215,
+    "falaUser": "Qual é a importância da enguia-de-nariz-frondoso? ",
+    "falaGPT": "||Você pode fazer mais perguntas ou, se quiser, podemos encerrar por aqui.\n O que você prefere?",
+    "Tokens": 80,
+    "TimeStamp": "2024_05_12_16_20_09",
+    "Model": "gpt-4-turbo"
+}

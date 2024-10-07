@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 324,
+    "falaUser": "não entendi",
+    "falaGPT": "||Legal! Agora vamos pensar na capa do herói.\n Como você imagina que seja a capa dele? Você prefere que seja longa ou curta? E de que cor você gostaria que fosse?",
+    "Tokens": 104,
+    "TimeStamp": "2024_05_15_04_58_09",
+    "Model": "gpt-4-turbo"
+}

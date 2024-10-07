@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 110,
+    "falaUser": "Testador11",
+    "falaGPT": "||Desculpe, acho que houve um equívoco.\n Não entendi como devo te chamar.\n Poderia me explicar melhor como prefere ser chamado?",
+    "Tokens": 136,
+    "TimeStamp": "2024_05_17_19_08_54",
+    "Model": "gpt-3.5-turbo"
+}

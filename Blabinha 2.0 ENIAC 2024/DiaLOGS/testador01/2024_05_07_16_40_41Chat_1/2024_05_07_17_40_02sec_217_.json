@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 217,
+    "falaUser": "Onde eu posso aprender mais sobre a Amazônia Azul?",
+    "falaGPT": "||Você tem mais alguma pergunta? Estou aqui para te ajudar!",
+    "Tokens": 65,
+    "TimeStamp": "2024_05_07_17_40_02",
+    "Model": "gpt-3.5-turbo"
+}

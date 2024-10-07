@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 141,
+    "falaUser": "Ele deve se chamar Azulão e ser capaz de se transformar em agua",
+    "falaGPT": "||Olha só, vamos brincar de um jogo sobre a Amazônia Azul! Primeiro, você me faz perguntas sobre esse tema, tá bom? Quanto mais a gente conversar sobre ele, mais pontos você vai ganhar! Se você não souber o que perguntar, pode pedir uma dica que eu te ajudo.\n E lembre-se, você pode decidir parar de brincar quando quiser, é só dizer que quer terminar.\n Vamos começar?||Você conseguiu entender todas as regras ou ficou com alguma dúvida? Posso ajudar a esclarecer algo mais.\n",
+    "Tokens": 306,
+    "TimeStamp": "2024_05_07_16_56_31",
+    "Model": "gpt-4-turbo"
+}

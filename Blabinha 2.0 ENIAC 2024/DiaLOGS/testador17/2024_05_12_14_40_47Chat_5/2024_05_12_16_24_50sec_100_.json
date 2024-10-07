@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 100,
+    "falaUser": "Escreva um poema sobre a Inconfidência Mineira. ",
+    "falaGPT": "||A Amazônia Azul é um tesouro que temos no Brasil, sabe? Ela é uma grande área no oceano Atlântico, cheia de vida marinha e recursos naturais.\n Assim como a floresta Amazônica, que é muito importante para o ar que respiramos, a Amazônia Azul é essencial para o nosso mar.\n Ela ajuda a proteger muitos peixes e animais que vivem na água, e é muito importante para a pesca e para a economia do país.\n É como um grande jardim azul que cuidamos para que todos possam aproveitar e a natureza possa continuar linda e saudável.\n",
+    "Tokens": 287,
+    "TimeStamp": "2024_05_12_16_24_50",
+    "Model": "gpt-4-turbo"
+}

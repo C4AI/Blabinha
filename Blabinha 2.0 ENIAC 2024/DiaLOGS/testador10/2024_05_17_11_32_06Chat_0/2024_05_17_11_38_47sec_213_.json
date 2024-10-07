@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "Que tipo de golfinhos há nessa região?",
+    "falaGPT": "||Você pode fazer mais perguntas ou pedir para terminar a conversa quando quiser! Estou aqui para ajudar.\n",
+    "Tokens": 82,
+    "TimeStamp": "2024_05_17_11_38_47",
+    "Model": "gpt-3.5-turbo"
+}

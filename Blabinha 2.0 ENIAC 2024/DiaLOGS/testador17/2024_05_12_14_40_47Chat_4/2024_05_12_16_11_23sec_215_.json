@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 215,
+    "falaUser": "Antes de responder, preciso entender melhor. Pode explicar novamente? ",
+    "falaGPT": "||Claro! Pode fazer mais perguntas ou pedir dicas sobre qualquer assunto que quiser!",
+    "Tokens": 85,
+    "TimeStamp": "2024_05_12_16_11_23",
+    "Model": "gpt-4-turbo"
+}

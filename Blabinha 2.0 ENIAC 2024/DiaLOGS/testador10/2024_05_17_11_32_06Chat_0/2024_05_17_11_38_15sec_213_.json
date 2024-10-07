@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 213,
+    "falaUser": "criar herói",
+    "falaGPT": "||Desculpe, mas a criação de heróis não está relacionada com o tema da Amazônia Azul.\n Se precisar de mais informações, estou à disposição.\n||Para falar sobre a Amazônia Azul, você pode abordar temas como a biodiversidade marinha, a importância da preservação dos ecossistemas marinhos, a exploração sustentável dos recursos marinhos, e a proteção da região contra a exploração ilegal e a poluição.\n Você também pode discutir sobre a presença de espécies marinhas únicas, como golfinhos, tubarões e tartarugas, os impactos das mudanças climáticas nos ecossistemas marinhos, a exploração de recursos minerais e energéticos no fundo do mar, e as medidas de conservação e vigilância adotadas para proteger essa região tão importante para o Brasil e para o planeta.\n",
+    "Tokens": 424,
+    "TimeStamp": "2024_05_17_11_38_15",
+    "Model": "gpt-3.5-turbo"
+}

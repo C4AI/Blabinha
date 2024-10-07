@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 344,
+    "falaUser": "Uma tartaruga marinha gigante",
+    "falaGPT": "||Legal! O quarto atributo é a casa do herói.\n Como será a casa do herói que você está imaginando para a sua história? Será grande e luxuosa, ou pequena e aconchegante?",
+    "Tokens": 109,
+    "TimeStamp": "2024_05_11_11_26_42",
+    "Model": "gpt-3.5-turbo"
+}

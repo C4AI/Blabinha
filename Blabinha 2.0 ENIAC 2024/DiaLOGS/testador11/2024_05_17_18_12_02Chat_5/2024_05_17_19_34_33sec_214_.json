@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 214,
+    "falaUser": "Quais as principais plantas?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Se precisar de dicas sobre algum assunto, pode me pedir também.\n",
+    "Tokens": 90,
+    "TimeStamp": "2024_05_17_19_34_33",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 344,
+    "falaUser": "Um pibull falante",
+    "falaGPT": "||Legal! O quarto atributo do herói é a sua casa.\n Como você acha que será a casa do herói? O que você incluiria nela para torná-la especial e única?",
+    "Tokens": 103,
+    "TimeStamp": "2024_05_17_12_08_38",
+    "Model": "gpt-3.5-turbo"
+}

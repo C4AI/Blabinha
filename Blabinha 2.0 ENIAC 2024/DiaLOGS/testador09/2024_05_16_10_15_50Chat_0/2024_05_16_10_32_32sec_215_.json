@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador09",
+    "secao": 215,
+    "falaUser": "1, 2 e 4",
+    "falaGPT": "||Parabéns! As principais ameaças à conservação da Amazônia Azul são a poluição marinha, a pesca predatória e o tráfico de animais marinhos.\n Todas essas atividades impactam negativamente o ecossistema marinho e a vida dos seres que lá habitam.\n",
+    "Tokens": 398,
+    "TimeStamp": "2024_05_16_10_32_32",
+    "Model": "gpt-3.5-turbo"
+}

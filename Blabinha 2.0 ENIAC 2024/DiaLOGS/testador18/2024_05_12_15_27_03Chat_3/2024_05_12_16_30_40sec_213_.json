@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 213,
+    "falaUser": "e qual a menor planta?",
+    "falaGPT": "||Você pode fazer mais perguntas ou pedir dicas se não souber sobre algo.\n Estou aqui para ajudar!",
+    "Tokens": 88,
+    "TimeStamp": "2024_05_12_16_30_40",
+    "Model": "gpt-4-turbo"
+}

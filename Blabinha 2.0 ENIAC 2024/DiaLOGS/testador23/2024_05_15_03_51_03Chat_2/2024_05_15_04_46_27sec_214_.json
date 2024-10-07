@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 214,
+    "falaUser": "o que é pesca ilegal?",
+    "falaGPT": "||A pesca ilegal é quando as pessoas pescam sem seguir as regras que ajudam a cuidar dos peixinhos e do mar.\n Ela pode acontecer em lugares onde não é permitido pescar, ou quando as pessoas pegam mais peixes do que deveriam, ou até mesmo pescam em épocas em que os peixes deveriam estar tranquilos para se reproduzir.\n É como se alguém jogasse um jogo e não seguisse as regras, isso pode machucar o mar e todos os seus habitantes.\n Por isso, é muito importante pescar do jeito certo para proteger nossos amigos do oceano!||Vou criar uma pergunta para testar nosso entendimento sobre pesca ilegal.\n Isso nos ajudará a fixar melhor o que aprendemos e a compreender a importância de seguir as regras de pesca para proteger os ecossistemas aquáticos.\n Vamos lá!||Qual das seguintes opções NÃO é uma característica típica da pesca ilegal?\n\n1) Pescar em áreas protegidas onde a pesca é proibida.\n\n2) Pescar durante períodos de defeso, quando a pesca é temporariamente proibida.\n\n3) Usar equipamentos permitidos e seguir os limites legais de captura.\n\n4) Capturar espécies que estão protegidas por leis ambientais.\n",
+    "Tokens": 898,
+    "TimeStamp": "2024_05_15_04_46_27",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "A região tem um animal símbolo?",
+    "falaGPT": "||Na Amazônia Azul, o boto-cor-de-rosa é frequentemente considerado um dos animais símbolos dessa região.\n É um golfinho de água doce encontrado nos rios da Amazônia e sua presença é muito importante para a biodiversidade e para a cultura local.\n Além do boto, outros animais também são considerados símbolos da Amazônia Azul, como o peixe-boi, a tartaruga-da-amazônia e diversas espécies de aves e plantas que habitam o ecossistema marinho e fluvial.\n Esses animais são muito valorizados por sua importância ecológica e cultural na região.\n",
+    "Tokens": 328,
+    "TimeStamp": "2024_05_17_19_33_22",
+    "Model": "gpt-3.5-turbo"
+}

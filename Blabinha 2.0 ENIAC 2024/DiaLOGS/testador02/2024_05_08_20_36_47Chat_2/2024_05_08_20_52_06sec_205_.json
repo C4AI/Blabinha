@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 205,
+    "falaUser": "criar herói",
+    "falaGPT": "||Olá! Sou o Blabinha, seu amigo robô.\n Vamos aprender juntos sobre a Amazônia Azul.\n Faça suas perguntas e eu responderei com informações incríveis! Vamos lá, pergunte-me o que quiser saber sobre esse lugar mágico.\n",
+    "Tokens": 134,
+    "TimeStamp": "2024_05_08_20_52_06",
+    "Model": "gpt-3.5-turbo"
+}

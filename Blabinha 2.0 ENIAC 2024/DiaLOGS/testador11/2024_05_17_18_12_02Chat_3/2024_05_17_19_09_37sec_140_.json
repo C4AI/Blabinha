@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 140,
+    "falaUser": "Tenho",
+    "falaGPT": "||Quero te contar uma coisa legal, amiguinho! A Brabinha aqui vai te explicar as regras do jogo.\n Primeiro, você precisa me fazer perguntas sobre a Amazônia azul.\n Quanto mais você falar desse assunto, mais pontinhos vai ganhar, legal né? Se ficar sem ideia, pode pedir uma dica.\n E o mais legal: pode parar de jogar quando quiser, combinado?||Você entendeu as regras do jogo? Pronto para começar? Se tiver dúvidas, é só perguntar!",
+    "Tokens": 297,
+    "TimeStamp": "2024_05_17_19_09_37",
+    "Model": "gpt-3.5-turbo"
+}

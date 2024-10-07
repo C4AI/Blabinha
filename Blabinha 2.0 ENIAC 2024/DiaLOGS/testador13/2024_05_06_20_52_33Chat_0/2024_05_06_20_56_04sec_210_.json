@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 210,
+    "falaUser": "Existe alguma espécie de animal que só existe na Amazônia Azul?",
+    "falaGPT": "||Claro! Se tiver mais perguntas, pode fazer.\n Estou aqui para ajudar!",
+    "Tokens": 69,
+    "TimeStamp": "2024_05_06_20_56_04",
+    "Model": "gpt-4-turbo"
+}

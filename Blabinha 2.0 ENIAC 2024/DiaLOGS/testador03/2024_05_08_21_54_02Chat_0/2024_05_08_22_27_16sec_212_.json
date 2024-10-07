@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 212,
+    "falaUser": "As baleias passam por lá porque? e depois vão pra onde?",
+    "falaGPT": "||As baleias passam pela Amazônia Azul porque é um ambiente marinho rico em nutrientes, peixes e outros animais marinhos que elas podem caçar para se alimentar.\n Depois de passarem pela Amazônia Azul, as baleias seguem seu ciclo migratório para outros locais, como áreas de reprodução, onde encontram companheiros para acasalar e dar à luz aos filhotes.\n Elas podem viajar por longas distâncias, indo para regiões mais frias no verão e mais quentes no inverno, dependendo da espécie.\n É importante que as baleias possam se movimentar livremente pelos oceanos para garantir sua sobrevivência e reprodução.\n||A próxima questão abordará a importância da Amazônia Azul como um ambiente marinho vital para o ciclo migratório e alimentar das baleias.\n Por que as baleias aproveitam essa área e para onde elas seguem depois de passarem por lá?||Por que as baleias passam pela Amazônia Azul?\n1) Para procurar abrigo e descansar\n2) Para se alimentar\n3) Para dar à luz aos filhotes\n4) Para evitar predadores",
+    "Tokens": 937,
+    "TimeStamp": "2024_05_08_22_27_16",
+    "Model": "gpt-3.5-turbo"
+}

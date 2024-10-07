@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 210,
+    "falaUser": "voce estudou sobre o tema?",
+    "falaGPT": "||Desculpe, o tema que você mencionou não está relacionado com a Amazônia azul.\n Posso te ajudar com informações sobre a Amazônia azul?||Você pode falar sobre a importância da preservação da Amazônia Azul, os recursos naturais encontrados nessa região, a biodiversidade marinha presente, as atividades econômicas realizadas no local, como a pesca e a exploração de petróleo, além dos desafios e ameaças enfrentados, como a pesca predatória e o derramamento de óleo.\n A Amazônia Azul é uma parte fundamental do ecossistema brasileiro, com uma diversidade de vida marinha e recursos que precisam ser protegidos e explorados de forma sustentável.\n",
+    "Tokens": 393,
+    "TimeStamp": "2024_05_08_23_19_01",
+    "Model": "gpt-3.5-turbo"
+}

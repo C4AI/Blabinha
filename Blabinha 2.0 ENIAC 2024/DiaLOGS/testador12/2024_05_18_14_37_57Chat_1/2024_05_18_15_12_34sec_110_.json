@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 110,
+    "falaUser": "você",
+    "falaGPT": "||Desculpe, fiquei um pouco confuso.\n Você está me pedindo para me chamar de \"você\"? Se sim, posso te chamar da mesma forma! Se deseja usar outro nome ou apelido, por favor me avise para que eu possa te chamar da maneira que preferir.\n Como gostaria de ser chamado?",
+    "Tokens": 180,
+    "TimeStamp": "2024_05_18_15_12_34",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 213,
+    "falaUser": "3",
+    "falaGPT": "||Parabéns! A resposta está correta.\n O tucunaré é de fato conhecido por sua força e resistência nas lutas contra pescadores na região amazônica.\n É um peixe desafiador e muito apreciado pelos pescadores esportivos.\n",
+    "Tokens": 420,
+    "TimeStamp": "2024_05_13_19_00_26",
+    "Model": "gpt-3.5-turbo"
+}

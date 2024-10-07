@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 211,
+    "falaUser": "os rios sao parte da amazonia azul?",
+    "falaGPT": "||Você pode me mandar mais perguntas se quiser!",
+    "Tokens": 61,
+    "TimeStamp": "2024_05_09_00_00_54",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 210,
+    "falaUser": "Quais animais vivem lá?",
+    "falaGPT": "||Claro! Se quiser saber mais ou precisar de dicas, é só pedir.\n Estou aqui para ajudar!",
+    "Tokens": 90,
+    "TimeStamp": "2024_05_14_19_37_26",
+    "Model": "gpt-4-turbo"
+}

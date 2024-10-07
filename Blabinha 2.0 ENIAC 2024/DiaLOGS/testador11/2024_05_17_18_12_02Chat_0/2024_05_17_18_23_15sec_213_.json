@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "Quantas tartarugas estão na Amazônia Azul?",
+    "falaGPT": "||Oi! Você pode me fazer mais perguntas, mas não se esqueça de perguntar sobre a Amazônia Azul.\n Vamos aprender juntos!",
+    "Tokens": 103,
+    "TimeStamp": "2024_05_17_18_23_15",
+    "Model": "gpt-3.5-turbo"
+}

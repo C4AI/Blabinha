@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 205,
+    "falaUser": "Qual é a extensão da amazônia azul?",
+    "falaGPT": "||A Amazônia Azul refere-se à extensão marítima do Brasil, que compreende a área oceânica sob jurisdição do país.\n Ela abrange cerca de 3,5 milhões de quilômetros quadrados.\n Você tem alguma pergunta sobre a Amazônia Azul?",
+    "Tokens": 151,
+    "TimeStamp": "2024_05_18_14_43_08",
+    "Model": "gpt-3.5-turbo"
+}

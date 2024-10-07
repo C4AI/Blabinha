@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 120,
+    "falaUser": "ainda nao ouvi falar sobre ",
+    "falaGPT": "||Olá! Que bom te conhecer! Você já ouviu falar sobre a Amazônia Azul? \n\nAh! Desculpe a repetição, Mas isso é bem interessante, não é mesmo?",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_15_11_21_02",
+    "Model": "gpt-3.5-turbo"
+}

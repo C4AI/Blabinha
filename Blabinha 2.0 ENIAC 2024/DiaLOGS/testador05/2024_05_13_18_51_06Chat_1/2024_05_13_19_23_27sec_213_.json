@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 213,
+    "falaUser": "o que os peixes da amazônia azul comem?",
+    "falaGPT": "||Na região da Amazônia Azul, os peixes geralmente se alimentam de outros peixes menores, crustáceos, moluscos e pequenos organismos vivos que encontram no ambiente marinho.\n Alguns exemplos de alimentos comuns para os peixes da Amazônia Azul são camarão, sardinhas, pequenos peixes, algas marinhas e plâncton.\n Eles precisam se alimentar para crescer, se manter saudáveis e sobreviver no ambiente aquático.\n É muito interessante observar como cada espécie de peixe tem suas preferências alimentares e como se adaptam aos recursos disponíveis no mar.\n Legal, né? Se tiver mais perguntas, é só falar!",
+    "Tokens": 347,
+    "TimeStamp": "2024_05_13_19_23_27",
+    "Model": "gpt-3.5-turbo"
+}

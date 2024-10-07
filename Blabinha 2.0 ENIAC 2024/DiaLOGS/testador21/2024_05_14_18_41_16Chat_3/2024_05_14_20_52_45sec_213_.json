@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 213,
+    "falaUser": "Acho que é a número 1",
+    "falaGPT": "||Ah, quase lá! A resposta correta é a número 2.\n A Amazônia Azul é realmente valiosa por suas reservas de petróleo e gás natural, além da biodiversidade e recursos marinhos.\n É muito mais que um local de turismo!",
+    "Tokens": 383,
+    "TimeStamp": "2024_05_14_20_52_45",
+    "Model": "gpt-4-turbo"
+}

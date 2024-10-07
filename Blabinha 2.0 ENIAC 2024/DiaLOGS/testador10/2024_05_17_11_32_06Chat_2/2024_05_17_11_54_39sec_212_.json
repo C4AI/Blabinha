@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 212,
+    "falaUser": "Qual a autoridade responsável por essa região?",
+    "falaGPT": "||Não ficou muito claro na sua pergunta, mas a região da Amazônia Azul, que compreende as águas do Mar Brasileiro, é de responsabilidade da Marinha do Brasil.\n A Marinha é a autoridade responsável por proteger e garantir a segurança dessa região, além de desenvolver atividades de pesquisas e monitoramento ambiental.\n A Amazônia Azul é um importante patrimônio natural do Brasil e a Marinha tem um papel fundamental na sua preservação e proteção.\n||Vou agora propor uma pergunta sobre a responsabilidade da Marinha do Brasil na região da Amazônia Azul: Qual o papel da Marinha do Brasil na proteção e preservação da Amazônia Azul, localizada no Mar Brasileiro?||Qual é a autoridade responsável pela proteção e segurança da região da Amazônia Azul?\n\n1) Exército Brasileiro\n2) Marinha do Brasil\n3) Força Aérea Brasileira\n4) Polícia Federal",
+    "Tokens": 769,
+    "TimeStamp": "2024_05_17_11_54_39",
+    "Model": "gpt-3.5-turbo"
+}

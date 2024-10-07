@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 210,
+    "falaUser": "Qual a extensão da Amazônia Azul",
+    "falaGPT": "||A extensão da Amazônia Azul vai longe, quer dizer, ela se estende por mais de 3,5 milhões de quilômetros quadrados! É muita água, peixinhos e plantinhas marítimas para explorar e cuidar.\n E sabe, é importante proteger a Amazônia Azul, assim como a Amazônia Verde, para garantir a saúde dos oceanos e a vida de tantas espécies que vivem por lá.\n Legal, né? Gostou de saber mais sobre a Amazônia Azul?",
+    "Tokens": 302,
+    "TimeStamp": "2024_05_17_11_34_21",
+    "Model": "gpt-3.5-turbo"
+}

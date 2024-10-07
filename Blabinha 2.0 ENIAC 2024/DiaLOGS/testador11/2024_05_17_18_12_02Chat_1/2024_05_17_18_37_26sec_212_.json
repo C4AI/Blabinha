@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 212,
+    "falaUser": "Lista de animais",
+    "falaGPT": "||Peço desculpas pela confusão, mas a sua pergunta foi sobre uma lista de animais.\n Aqui está uma pequena lista de animais da Amazônia Azul: tartarugas marinhas, golfinhos, peixes tropicais, baleias, tubarões, arraias, polvos e muitas outras espécies aquáticas incríveis! Esses animais são essenciais para a saúde e equilíbrio do ecossistema marinho e é importante protegê-los.\n Você gosta de algum desses animais da Amazônia Azul?||Agora, vou fazer uma pergunta relacionada aos animais da Amazônia Azul: qual espécie de tartaruga marinha é comumente encontrada nessa região? Esta questão visa testar os seus conhecimentos sobre a diversidade de vida marinha presente nesse ecossistema único.\n Aguardo a sua resposta!||Qual dos seguintes animais da lista é considerado um mamífero marinho?\n\n1) Tartarugas marinhas\n2) Peixes tropicais\n3) Tubarões\n4) Polvos",
+    "Tokens": 801,
+    "TimeStamp": "2024_05_17_18_37_26",
+    "Model": "gpt-3.5-turbo"
+}

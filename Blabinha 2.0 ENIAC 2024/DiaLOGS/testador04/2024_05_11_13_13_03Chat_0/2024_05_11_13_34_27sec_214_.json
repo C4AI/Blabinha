@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 214,
+    "falaUser": "quais são as oportunidades economicas na amazonia azul?",
+    "falaGPT": "||Alguns dos principais oportunidades econômicas na Amazônia Azul são a exploração sustentável de recursos marinhos, como pesca, aquicultura, mineração de minerais marinhos, turismo costeiro, transporte marítimo e energia renovável, como a energia das ondas e das marés.\n Além disso, a bioprospecção de espécies marinhas para desenvolvimento de novos medicamentos e cosméticos também representa uma oportunidade econômica na região.\n A Amazônia Azul é uma grande fonte de riqueza natural e econômica, com potencial para gerar empregos e promover o desenvolvimento sustentável da região.\n||Qual o potencial econômico da bioprospecção de espécies marinhas na Amazônia Azul para o desenvolvimento de novos medicamentos e cosméticos?||Quais são algumas das oportunidades econômicas presentes na Amazônia Azul?\n1) Exploração sustentável de recursos marinhos\n2) Turismo costeiro\n3) Mineração de minerais marinhos\n4) Agricultura tradicional na região",
+    "Tokens": 889,
+    "TimeStamp": "2024_05_11_13_34_27",
+    "Model": "gpt-3.5-turbo"
+}

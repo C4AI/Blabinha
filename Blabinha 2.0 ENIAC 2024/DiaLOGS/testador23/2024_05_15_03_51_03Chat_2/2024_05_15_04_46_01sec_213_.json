@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 213,
+    "falaUser": "por que não tem diamantes na amazônia azul?",
+    "falaGPT": "||Ah, entendi! Na Amazônia Azul não encontramos diamantes porque ela é uma grande área de mar, ou seja, uma parte do oceano ao redor do Brasil.\n Os diamantes geralmente são encontrados em terra firme, dentro de rochas, e não debaixo da água do mar.\n Os processos geológicos que formam diamantes acontecem em lugares bem profundos da Terra e levam muitos e muitos anos!  \n\nEntão, é por isso que a Amazônia Azul, mesmo sendo super importante e cheia de tesouros naturais como peixes e corais, não tem diamantes como a gente encontra nas minas em terra.\n",
+    "Tokens": 328,
+    "TimeStamp": "2024_05_15_04_46_01",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 130,
+    "falaUser": "Ok, vamos",
+    "falaGPT": "||O desafio funciona da seguinte maneira: Haverá, no máximo, 7 rodadas.\n Apenas as perguntas relacionadas à Amazônia Azul serão contabilizadas como rodadas.\n Você pode solicitar dicas sobre temas relacionados à Amazônia Azul.\n Além disso, tem a opção de finalizar o jogo a qualquer momento ou de pedir para criar o herói durante a interação.\n Importante lembrar que esses três últimos casos não são considerados como turnos.\n||Essas são as regras do desafio.\n Você entendeu tudo ou tem alguma dúvida sobre como vamos proceder?",
+    "Tokens": 532,
+    "TimeStamp": "2024_05_12_15_35_46",
+    "Model": "gpt-4-turbo"
+}

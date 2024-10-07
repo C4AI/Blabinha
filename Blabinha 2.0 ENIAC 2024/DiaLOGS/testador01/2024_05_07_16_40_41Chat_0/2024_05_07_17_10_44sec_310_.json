@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 310,
+    "falaUser": "tá bom.",
+    "falaGPT": "||Olá! Agora eu vou começar a dar a pontuação do jogo.\n Analisando o quanto você interagiu, você ganhou 4 estrelas de um total de quatro! Parabéns pela sua participação e pelo ótimo desempenho! Muito bem! 🌟🌟🌟🌟||Legal! Agora vou fazer uma análise dos tópicos que discutimos.\n Você falou 14 vezes sobre o Meio Ambiente, 10 vezes sobre Governança e 13 vezes sobre Riquezas! Isso foi muito legal de sua parte abordar esses assuntos.\n Com essa participação, você conseguiu 4 estrelas de um total de 4! Parabéns! 🌟🌟🌟🌟\n\nPosso te ajudar com mais alguma coisa?||Que legal! Você encontrou um bônus e por isso ganhou duas estrelas! Parabéns! 🌟🌟 Agora seu super-herói vai poder usar um traje de mergulho especial que o torna capaz de respirar debaixo d'água.\n Divirta-se com essa nova aventura! 🦸‍♂️🌊||Que legal! Você respondeu às 3 perguntas, então você vai poder escolher 4 atributos do herói.\n Vamos começar! O primeiro atributo que você pode escolher é a roupa do super herói.\n Como você quer que seja a roupa do herói?",
+    "Tokens": 786,
+    "TimeStamp": "2024_05_07_17_10_44",
+    "Model": "gpt-3.5-turbo"
+}

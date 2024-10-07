@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "tem tesouro na amazonia azul? tipo pirata",
+    "falaGPT": "||Na Amazônia Azul não existem tesouros de piratas, como nos filmes, mas sim riquezas naturais incríveis, como a biodiversidade marinha, os recifes de coral, as espécies aquáticas únicas, e muitas outras belezas que devemos proteger e preservar.\n Então, podemos dizer que o verdadeiro tesouro da Amazônia Azul é a natureza e toda a vida marinha que lá habita.\n Vamos cuidar e preservar esse tesouro para as futuras gerações também poderem desfrutar de toda a sua beleza!",
+    "Tokens": 310,
+    "TimeStamp": "2024_05_15_11_50_46",
+    "Model": "gpt-3.5-turbo"
+}

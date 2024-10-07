@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 215,
+    "falaUser": "Quais os climas na região da Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul! Esse pedacinho de mar que a gente chama de nosso, né? O clima lá é tropical, sabe o que é isso? É como se o sol desse um super abraço no mar quase o ano todo! Fica quentinho, com muitas chuvas de vez em quando.\n E como é mar, tem uma brisa marinha que deixa o ar bem fresquinho! Super gostoso para os peixinhos e todas as criaturinhas que vivem lá.\n Imagina só que lugar bacana para se estar!",
+    "Tokens": 306,
+    "TimeStamp": "2024_05_17_21_50_20",
+    "Model": "gpt-4-turbo"
+}

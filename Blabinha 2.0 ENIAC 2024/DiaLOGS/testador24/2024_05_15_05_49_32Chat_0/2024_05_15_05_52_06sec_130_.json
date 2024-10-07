@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 130,
+    "falaUser": "Eu topa participar do desafio",
+    "falaGPT": "||As regras do desafio são definidas da seguinte maneira: A interação é limitada a um máximo de 7 turnos.\n Somente as perguntas que forem claramente relacionadas à Amazônia Azul serão consideradas nos turnos.\n Você, como jogador, tem a opção de solicitar dicas sobre temas possíveis dentro do contexto da Amazônia Azul.\n Você também pode decidir finalizar o jogo a qualquer momento ou optar por criar o herói durante a interação.\n Vale ressaltar que essas três últimas ações mencionadas não serão contadas como turnos.\n||Estas são as regras do desafio.\n Você compreendeu tudo corretamente ou há algo mais que você gostaria de esclarecer sobre como o jogo funciona?",
+    "Tokens": 590,
+    "TimeStamp": "2024_05_15_05_52_06",
+    "Model": "gpt-4-turbo"
+}

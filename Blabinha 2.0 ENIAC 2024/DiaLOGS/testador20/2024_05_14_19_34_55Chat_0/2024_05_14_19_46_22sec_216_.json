@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 216,
+    "falaUser": "quais peixes são encontrados lá?",
+    "falaGPT": "||Ah, entendi! Bem, na Amazônia Azul, você pode encontrar muitos peixinhos diferentes e super coloridos! Tem o peixe-papagaio que parece estar sempre sorrindo e tem cores bem brilhantes, o peixe-leão que é todo espinhoso, e não podemos esquecer dos lindos cardumes de sardinhas que brilham como prata ao sol! E tem também o tubarão-martelo, que parece que pegou um martelo de brinquedo e colocou na cabeça, não é engraçado? É um verdadeiro show de cores e formas no fundo do mar!||Agora, vamos testar seu conhecimento sobre a vida marinha da Amazônia Azul.\n Preparado? Vou te fazer uma pergunta para ver o quanto você aprendeu sobre os peixes que habitam essa área mágica e colorida do nosso oceano.\n||Qual destes peixes é conhecido por seu formato único de cabeça, que se assemelha a um martelo?\n\n1) Peixe-papagaio\n2) Peixe-leão\n3) Tubarão-martelo\n4) Sardinha",
+    "Tokens": 854,
+    "TimeStamp": "2024_05_14_19_46_22",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 212,
+    "falaUser": "Tubarões?! Quais tipos?",
+    "falaGPT": "||Na Amazônia Azul, podemos encontrar diversos tipos de tubarões, como o tubarão-tigre, tubarão-martelo, tubarão-lixa, tubarão-branco e muitos outros! Os tubarões são animais incríveis que fazem parte da diversidade marinha da nossa região.\n Eles são super importantes para o equilíbrio dos ecossistemas marinhos.\n Mergulhar e observar os tubarões no seu habitat natural pode ser uma experiência empolgante e educativa! Eles têm formas, tamanhos e comportamentos diferentes, mas todos são animais fascinantes que merecem ser estudados e protegidos.\n E você, sabia que os tubarões da Amazônia Azul são tão interessantes?||Vou fazer uma pergunta sobre os tipos de tubarões encontrados na Amazônia Azul.\n Quais são os principais tipos de tubarões que podem ser encontrados nessa região marinha?||Quais tipos de tubarões podem ser encontrados na Amazônia Azul?\n1) Tubarão-tigre\n2) Tubarão-martelo\n3) Tubarão-lixa\n4) Tubarão-branco",
+    "Tokens": 912,
+    "TimeStamp": "2024_05_17_18_21_15",
+    "Model": "gpt-3.5-turbo"
+}

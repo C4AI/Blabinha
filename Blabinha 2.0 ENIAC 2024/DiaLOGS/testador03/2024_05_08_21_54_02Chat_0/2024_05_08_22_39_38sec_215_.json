@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 215,
+    "falaUser": "qual é a origem do nosso heroi?",
+    "falaGPT": "||Você pode me fazer mais perguntas se quiser! Estou aqui para ajudar.\n 😊",
+    "Tokens": 69,
+    "TimeStamp": "2024_05_08_22_39_38",
+    "Model": "gpt-3.5-turbo"
+}

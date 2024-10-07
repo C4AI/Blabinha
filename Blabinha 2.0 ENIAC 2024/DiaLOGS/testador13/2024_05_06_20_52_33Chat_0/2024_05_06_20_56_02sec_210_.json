@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 210,
+    "falaUser": "Existe alguma espécie de animal que só existe na Amazônia Azul?",
+    "falaGPT": "||Ah, na Amazônia Azul, que é todo aquele mar lindo que rodeia nosso Brasil, tem vários animaizinhos que só encontramos lá, sim! Um exemplo é uma espécie de coral chamada *Mussismilia braziliensis*, que só vive nas águas quentinhas da costa brasileira.\n E não podemos esquecer do simpático boto-cinza, ou golfinho-cinza, que gosta de nadar por lá também.\n Eles são muito especiais e ajudam a lembrar como a natureza é cheia de surpresas, né? 🐬🌊",
+    "Tokens": 322,
+    "TimeStamp": "2024_05_06_20_56_02",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 213,
+    "falaUser": "Quem cuida da amazonia azul?",
+    "falaGPT": "||Pode fazer mais perguntas ou pedir dicas se não souber algo! Estou aqui para ajudar!",
+    "Tokens": 87,
+    "TimeStamp": "2024_05_07_17_04_23",
+    "Model": "gpt-4-turbo"
+}

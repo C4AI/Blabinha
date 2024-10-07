@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 214,
+    "falaUser": "Qual são os animais da amazônia azul com maior risco de extinção?",
+    "falaGPT": "||Na Amazônia Azul, os animais com maior risco de extinção incluem diversos mamíferos, aves, répteis, peixes e invertebrados marinhos.\n Alguns exemplos são o peixe-boi, o boto-cor-de-rosa, a tartaruga marinha, o mero, o tubarão-martelo e o coral.\n Essas espécies enfrentam ameaças como a pesca predatória, a destruição de seus habitats naturais, a poluição e as mudanças climáticas.\n É importante proteger e conservar a diversidade de vida marinha da Amazônia Azul para garantir a sobrevivência desses animais e preservar o equilíbrio dos ecossistemas marinhos.\n Vamos proteger os animais marinhos juntos!||Vou fazer uma pergunta sobre os animais da Amazônia Azul com maior risco de extinção para testar seu conhecimento sobre a conservação da vida marinha.\n Vamos lá!||Qual dos animais a seguir da Amazônia Azul está em maior risco de extinção?\n\n1) Peixe-boi\n2) Tucuxi\n3) Arraia-manta\n4) Tubarão-touro",
+    "Tokens": 1000,
+    "TimeStamp": "2024_05_18_14_53_31",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 212,
+    "falaUser": "Porque estão poluindo a Amazônia Azul?",
+    "falaGPT": "||Ah, essa é uma pergunta bem importante! A Amazônia Azul está sendo poluída por algumas razões, sabe? Uma delas é o lixo que as pessoas jogam no mar, como plásticos e outros materiais que não se decompõem rápido.\n Além disso, têm os vazamentos de óleo e produtos químicos que vêm dos navios ou das plataformas de petróleo.\n E tem também os esgotos que são jogados no mar sem tratamento.\n Isso tudo pode fazer bastante mal para os animaizinhos e plantinhas que vivem no mar, além de atrapalhar os pescadores e até a nossa saúde.\n É por isso que é tão importante cuidarmos bem da Amazônia Azul e de todo o nosso planeta!||Agora, vou formular uma pergunta para você testar seu entendimento sobre a poluição da Amazônia Azul.\n Espero que te ajude a fixar melhor o que conversamos! Vamos lá?||Qual das seguintes opções NÃO é uma causa comum de poluição na Amazônia Azul?\n\n1) Descarte de resíduos plásticos no oceano.\n\n2) Extração excessiva de recursos minerais submarinos.\n\n3) Vazamentos de óleo de navios e plataformas.\n\n4) Descarte de esgoto sem tratamento no mar.\n",
+    "Tokens": 975,
+    "TimeStamp": "2024_05_14_19_00_56",
+    "Model": "gpt-4-turbo"
+}

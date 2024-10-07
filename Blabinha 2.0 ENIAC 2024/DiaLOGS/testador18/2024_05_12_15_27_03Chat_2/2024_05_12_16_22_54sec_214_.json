@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 214,
+    "falaUser": "quais são as espécies ameaçadas da Amazônia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é superimportante e cheia de bichinhos especiais, sabia? Tem várias espécies que precisam de nossa ajuda porque estão ameaçadas.\n Vou te contar sobre algumas delas!\n\n1.\n **Tartaruga-verde** (Chelonia mydas): Essa tartaruga é super bonita com uma carapaça verde e vive nos oceanos, mas está em perigo por causa da pesca e da perda de lugares para fazer seus ninhos.\n\n\n2.\n **Peixe-boi-marinho** (Trichechus manatus): Eles são como grandes bichinhos fofos do mar, mas estão ameaçados por causa da poluição da água e da perda do seu ambiente natural.\n\n\n3.\n **Tubarão-martelo** (Sphyrna lewini): Esses tubarões têm uma cabeça que parece um martelo, super legal, né? Mas eles estão em risco porque muitas pessoas pescam esses tubarões.\n\n\nÉ superimportante cuidar bem da Amazônia Azul para esses e outros bichinhos poderem viver felizes e seguros! 🌊🐢🐋||Agora, vou preparar uma questão sobre as espécies ameaçadas na Amazônia Azul para testar seu conhecimento.\n Você está pronto? Vamos ver o quanto você aprendeu sobre esse tópico importante e como podemos ajudar a proteger esses animais incríveis!||Qual das seguintes espécies encontradas na Amazônia Azul é conhecida por sua carapaça verde e está ameaçada devido à perda de habitats de nidificação e captura incidental em atividades pesqueiras?\n\n1) Peixe-boi-marinho\n2) Tartaruga-verde\n3) Tubarão-martelo\n4) Baleia-jubarte",
+    "Tokens": 1293,
+    "TimeStamp": "2024_05_12_16_22_54",
+    "Model": "gpt-4-turbo"
+}

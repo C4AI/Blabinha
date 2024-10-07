@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 205,
+    "falaUser": "o que é a amazonia azul?",
+    "falaGPT": "||A Amazônia Azul é uma área marítima que corresponde à extensão da Zona Econômica Exclusiva do Brasil.\n Ela é rica em biodiversidade marinha e recursos naturais.\n Você tem alguma pergunta específica sobre a Amazônia Azul? Estou aqui para responder!",
+    "Tokens": 147,
+    "TimeStamp": "2024_05_17_18_50_53",
+    "Model": "gpt-3.5-turbo"
+}

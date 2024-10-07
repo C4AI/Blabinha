@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 213,
+    "falaUser": "Mora gente na Amazônia Azul?",
+    "falaGPT": "||Você tem mais perguntas? Se precisar, pode pedir dicas sobre algum assunto.\n Estou aqui para ajudar!",
+    "Tokens": 90,
+    "TimeStamp": "2024_05_07_17_27_03",
+    "Model": "gpt-3.5-turbo"
+}

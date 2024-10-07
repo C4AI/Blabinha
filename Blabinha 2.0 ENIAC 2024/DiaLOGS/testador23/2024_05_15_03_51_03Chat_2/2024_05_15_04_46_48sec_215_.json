@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 215,
+    "falaUser": "2",
+    "falaGPT": "||A resposta está errada.\n A opção correta é a número 3, pois descreve uma prática legal: usar equipamentos permitidos e seguir os limites legais de captura.\n As outras opções listam práticas associadas à pesca ilegal.\n",
+    "Tokens": 433,
+    "TimeStamp": "2024_05_15_04_46_48",
+    "Model": "gpt-4-turbo"
+}

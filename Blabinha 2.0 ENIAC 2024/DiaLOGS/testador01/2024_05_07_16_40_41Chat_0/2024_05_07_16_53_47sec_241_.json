@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 241,
+    "falaUser": "Puxa, acho que ele usaria esse escudo mágico. Parece muito bom!",
+    "falaGPT": "||Ótima escolha! Um escudo mágico seria uma ferramenta poderosa para proteger o fundo do mar da Amazônia Azul, garantindo a segurança e preservação desse ambiente precioso.\n É interessante pensar em soluções criativas e eficazes para cuidar da biodiversidade marinha.\n Juntos, podemos fazer a diferença!",
+    "Tokens": 431,
+    "TimeStamp": "2024_05_07_16_53_47",
+    "Model": "gpt-3.5-turbo"
+}

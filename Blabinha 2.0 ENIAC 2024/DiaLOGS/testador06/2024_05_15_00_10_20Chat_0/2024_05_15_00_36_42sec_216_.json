@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador06",
+    "secao": 216,
+    "falaUser": "o qué úm satelide de observação?",
+    "falaGPT": "||Um satélite de observação é um tipo especial de satélite que é lançado no espaço para observar e monitorar a Terra e o espaço.\n Eles podem ser usados para estudar o clima, a vegetação, as mudanças na superfície terrestre e até mesmo para ajudar a prever desastres naturais.\n Assim, os satélites de observação são muito importantes para ajudar os cientistas e pesquisadores a entender melhor o nosso planeta e o universo!||Vou fazer uma pergunta relacionada aos satélites de observação: Qual a principal função de um satélite de observação e como ele ajuda os cientistas a entender melhor a Terra e o espaço?||Qual é a principal função de um satélite de observação?\n\n1) Observar o clima da Terra.\n\n2) Monitorar a vida extraterrestre.\n\n3) Estudar as marés oceânicas.\n\n4) Mapear a distribuição de recursos naturais.\n",
+    "Tokens": 740,
+    "TimeStamp": "2024_05_15_00_36_42",
+    "Model": "gpt-3.5-turbo"
+}

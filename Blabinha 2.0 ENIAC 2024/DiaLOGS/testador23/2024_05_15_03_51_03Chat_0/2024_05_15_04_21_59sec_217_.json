@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 217,
+    "falaUser": "A amazônia azul tem só mar ou tem ilhas?",
+    "falaGPT": "||Você gostaria de fazer mais perguntas ou prefere terminar por aqui?",
+    "Tokens": 72,
+    "TimeStamp": "2024_05_15_04_21_59",
+    "Model": "gpt-4-turbo"
+}

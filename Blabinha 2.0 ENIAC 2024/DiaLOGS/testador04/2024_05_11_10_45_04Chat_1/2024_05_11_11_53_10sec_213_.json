@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 213,
+    "falaUser": "pode me falar mais sobre os produtos desenvolvidos a partir da exploração da amazonia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas se quiser! Se precisar de dicas ou ajuda, só me pedir.\n Estou aqui para te ajudar!",
+    "Tokens": 96,
+    "TimeStamp": "2024_05_11_11_53_10",
+    "Model": "gpt-3.5-turbo"
+}

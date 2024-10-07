@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 110,
+    "falaUser": "para que serve a blabinha?",
+    "falaGPT": "||Já que ela não quer falar o nome, vamos seguir em frente.\n Você já ouviu falar na Amazônia Azul?",
+    "Tokens": 266,
+    "TimeStamp": "2024_05_15_04_33_38",
+    "Model": "gpt-4-turbo"
+}

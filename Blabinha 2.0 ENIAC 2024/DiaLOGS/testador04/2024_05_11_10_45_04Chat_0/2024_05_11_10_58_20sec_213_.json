@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 213,
+    "falaUser": "As respostas são 1 e 4",
+    "falaGPT": "||Parabéns! As principais ameaças que colocam em perigo de extinção os animais na Amazônia Azul são a pesca predatória e as mudanças climáticas.\n Esses fatores impactam diretamente na sobrevivência das espécies marinhas.\n É importante conscientizar e agir para mitigar essas ameaças.\n",
+    "Tokens": 413,
+    "TimeStamp": "2024_05_11_10_58_20",
+    "Model": "gpt-3.5-turbo"
+}

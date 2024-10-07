@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 211,
+    "falaUser": "Quando foi definida a área da amazônia azul?",
+    "falaGPT": "||A área conhecida como \"Amazônia Azul\" começou a ser demarcada após o Brasil apresentar, em 2004, sua proposta de limite exterior da plataforma continental brasileira à Comissão de Limites da Plataforma Continental das Nações Unidas.\n Essa proposta visava estender os direitos marítimos do país além das 200 milhas náuticas, alcançando até 350 milhas.\n A área ficou oficialmente reconhecida como Amazônia Azul, destacando a importância e a riqueza dos recursos naturais nessa região do oceano atlântico adjacente ao Brasil.\n",
+    "Tokens": 321,
+    "TimeStamp": "2024_05_17_08_38_22",
+    "Model": "gpt-4-turbo"
+}

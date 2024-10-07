@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 344,
+    "falaUser": "Um bichinho do mar seria mais legal",
+    "falaGPT": "||O quarto atributo do herói é a casa do herói.\n Como será a casa do herói que você criou para sua história? Ela será grande e majestosa, ou pequena e aconchegante? Talvez tenha um jardim mágico ou seja feita de cristal brilhante? Use sua imaginação para tornar a casa do herói um lugar especial e único!",
+    "Tokens": 153,
+    "TimeStamp": "2024_05_07_17_13_27",
+    "Model": "gpt-3.5-turbo"
+}

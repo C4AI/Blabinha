@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 210,
+    "falaUser": "Quais animais encontramos na Amazônia Azul?",
+    "falaGPT": "||Claro! Pode fazer mais perguntas.\n Estou aqui para ajudar!",
+    "Tokens": 66,
+    "TimeStamp": "2024_05_14_18_59_06",
+    "Model": "gpt-4-turbo"
+}

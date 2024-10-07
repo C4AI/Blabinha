@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 217,
+    "falaUser": "qual o maior peixe encontrado na amazonia azul?",
+    "falaGPT": "||Você quer fazer mais perguntas ou quer encerrar nossa conversa? Eu estou aqui para ajudar!",
+    "Tokens": 78,
+    "TimeStamp": "2024_05_17_19_01_58",
+    "Model": "gpt-3.5-turbo"
+}

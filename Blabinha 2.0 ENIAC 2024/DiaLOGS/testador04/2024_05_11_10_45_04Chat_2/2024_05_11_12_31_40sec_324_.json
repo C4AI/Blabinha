@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 324,
+    "falaUser": "Quero uma roupa colorida, com desenhos de escamas de peixes",
+    "falaGPT": "||Olá! Para o nosso super-herói, o segundo atributo é a capa.\n Como você gostaria que fosse a capa do nosso herói? Ela pode ser curta, longa, colorida, com estampas, brilhante, ou do jeito que você imaginar.\n Me conta, qual é a sua ideia para a capa do nosso herói?",
+    "Tokens": 145,
+    "TimeStamp": "2024_05_11_12_31_40",
+    "Model": "gpt-3.5-turbo"
+}

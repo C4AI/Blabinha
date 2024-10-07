@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 217,
+    "falaUser": "Que tipo de políticas públicas fizeram para proteger a Amazonia Azul?",
+    "falaGPT": "||Ah, a Amazônia Azul é super importante, né? Para proteger essa grande área cheia de água e vida marinha, o Brasil criou várias políticas.\n Eles estabeleceram leis para controlar a pesca, para que os peixinhos e outras criaturinhas não sejam pesacados demais!\n\nTambém fizeram áreas protegidas, que são como parques no mar, onde os animais podem viver felizes e seguros.\n E sabia que tem até regras para a exploração de petróleo e gás para evitar poluir essa parte tão bonita do oceano?\n\nAssim, essas políticas ajudam a cuidar do nosso tesouro azul e garantem que ele fique lindo e cheio de vida por muito tempo!",
+    "Tokens": 361,
+    "TimeStamp": "2024_05_14_19_56_48",
+    "Model": "gpt-4-turbo"
+}

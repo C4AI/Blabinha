@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 130,
+    "falaUser": "Muito legal",
+    "falaGPT": "||Neste desafio, teremos no máximo 7 turnos, onde apenas as perguntas relacionadas à Amazônia Azul contam como turnos.\n Se desejar, você pode pedir dicas sobre possíveis assuntos da Amazônia Azul, pedir para terminar o jogo ou propor a criação do herói em algum momento da interação.\n É importante destacar que esses três últimos casos não contam como turno.\n Vamos começar! Qual é a sua primeira pergunta sobre a Amazônia Azul?\n||Qual a importância da Amazônia Azul para o Brasil? Como ela está relacionada à biodiversidade marinha e à economia nacional? Você entendeu as regras?",
+    "Tokens": 543,
+    "TimeStamp": "2024_05_13_19_17_12",
+    "Model": "gpt-3.5-turbo"
+}

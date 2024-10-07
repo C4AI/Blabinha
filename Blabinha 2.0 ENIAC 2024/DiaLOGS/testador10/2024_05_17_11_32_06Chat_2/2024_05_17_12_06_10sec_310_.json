@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 310,
+    "falaUser": "Criar herói",
+    "falaGPT": "||Olá! Agora vou começar a dar a pontuação do jogo.\n Analisando o quanto você interagiu e participou, fico feliz em te informar que você ganhou 4 estrelas de um total de quatro! Parabéns pela excelente participação e pela interação.\n Continue assim!||Legal! Agora vou fazer uma análise dos tópicos de nossa conversa.\n Você falou 10 vezes sobre o Meio Ambiente, 9 vezes sobre Governança e 9 vezes sobre Riquezas.\n Com base nisso, você recebe **4 estrelas**! Parabéns pela diversidade de assuntos abordados.\n🌟🌟🌟🌟||Uau, que legal! Você encontrou um bônus e por isso ganhou duas estrelas! Parabéns! 🌟🌟\n\nAgora, o super-herói vai usar a ferramenta mágica: o Tridente Mágico! Prepare-se para uma aventura emocionante! 🌟✨🦸‍♂️||Que legal! Você respondeu às 3 perguntas e agora vai poder escolher 4 atributos do herói.\n Vamos começar! O primeiro atributo que você pode escolher é a roupa do super herói.\n Como você quer que seja a roupa do herói?",
+    "Tokens": 730,
+    "TimeStamp": "2024_05_17_12_06_10",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 263,
+    "falaUser": "Então vamos continuar! Qual a história da Amazônia Azul?",
+    "falaGPT": "||Você pode fazer mais perguntas, mas não se esqueça de falarmos sobre a importância da Amazônia Azul.\n O que mais você quer saber?",
+    "Tokens": 104,
+    "TimeStamp": "2024_05_17_18_22_33",
+    "Model": "gpt-3.5-turbo"
+}

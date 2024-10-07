@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 130,
+    "falaUser": "Oba! Eu quero sim participar do desafio. Como funciona?",
+    "falaGPT": "||Durante o desafio, haverá um limite de sete turnos, sendo que apenas as perguntas que eu identificar como relacionadas à Amazônia Azul serão contabilizadas.\n Você pode solicitar dicas sobre possíveis temas vinculados à Amazônia Azul.\n Além disso, tem a opção de pedir o encerramento do jogo a qualquer momento ou solicitar a criação do herói durante nossa interação.\n Esses três últimos casos mencionados não serão contados como um dos turnos do jogo.\n||Essas são as regras do desafio.\n Está tudo claro para você ou tem alguma dúvida sobre como vamos proceder?",
+    "Tokens": 558,
+    "TimeStamp": "2024_05_14_10_38_10",
+    "Model": "gpt-4-turbo"
+}

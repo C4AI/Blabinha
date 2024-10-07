@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 215,
+    "falaUser": "Quais são as plantas da amazônia azul?",
+    "falaGPT": "||Desculpe pela confusão, parece que houve um mal-entendido.\n Na verdade, a expressão \"Amazônia Azul\" refere-se à extensão do mar territorial brasileiro.\n Não existem plantas específicas associadas à região da Amazônia Azul, pois se trata principalmente de vida marinha, algas marinhas e corais.\n Espero ter esclarecido sua dúvida! Se precisar de mais informações, estou à disposição.\n",
+    "Tokens": 282,
+    "TimeStamp": "2024_05_18_14_55_11",
+    "Model": "gpt-3.5-turbo"
+}

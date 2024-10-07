@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 213,
+    "falaUser": "Os 4 são encontrados!",
+    "falaGPT": "||Parabéns! Os quatro tipos de tubarões mencionados - tubarão-tigre, tubarão-martelo, tubarão-lixa e tubarão-branco - podem ser encontrados na Amazônia Azul.\n Esses magníficos animais contribuem para a biodiversidade marinha da região.\n",
+    "Tokens": 416,
+    "TimeStamp": "2024_05_17_18_21_55",
+    "Model": "gpt-3.5-turbo"
+}

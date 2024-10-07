@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 216,
+    "falaUser": "Qual o principal tipo de pesca?",
+    "falaGPT": "||O principal tipo de pesca na Amazônia Azul envolve a pesca de subsistência e a pesca artesanal, onde as comunidades locais pescam para se alimentar e/ou vender o excedente de forma sustentável.\n Eles utilizam técnicas tradicionais de pesca que respeitam a natureza e os recursos marinhos.\n É importante proteger esse tipo de pesca para garantir a sustentabilidade dos ecossistemas marinhos e a sobrevivência das comunidades que dependem deles.\n||Agora, gostaria de saber se você conhece alguma técnica de pesca tradicional utilizada por comunidades locais para garantir a sustentabilidade dos recursos marinhos na Amazônia Azul.\n Você poderia compartilhar algum exemplo?||Qual é o principal tipo de pesca praticado na Amazônia Azul?\n\n1) Pesca industrial\n2) Pesca esportiva\n3) Pesca de subsistência e artesanal\n4) Pesca comercial.\n",
+    "Tokens": 772,
+    "TimeStamp": "2024_05_17_11_41_04",
+    "Model": "gpt-3.5-turbo"
+}

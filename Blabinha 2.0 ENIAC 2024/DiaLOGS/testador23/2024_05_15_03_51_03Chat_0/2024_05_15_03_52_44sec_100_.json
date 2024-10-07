@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 100,
+    "falaUser": "oi, boa noite",
+    "falaGPT": "||Olá! Boa noite! Eu sou a Blabinha, um robô aqui para conversar com você.\n Hoje eu vou contar sobre um lugar muito especial chamado Amazônia Azul.\n É uma grande área no oceano que pertence ao Brasil, cheia de animais marinhos e corais.\n É super importante porque ajuda a manter o nosso planeta saudável.\n Qual é o seu nome?",
+    "Tokens": 215,
+    "TimeStamp": "2024_05_15_03_52_44",
+    "Model": "gpt-4-turbo"
+}

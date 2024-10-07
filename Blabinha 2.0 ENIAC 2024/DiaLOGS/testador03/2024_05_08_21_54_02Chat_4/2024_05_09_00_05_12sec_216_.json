@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador03",
+    "secao": 216,
+    "falaUser": "me fale sobre vc",
+    "falaGPT": "||Desculpa, não consegui entender sua pergunta.\n Pode repetir ou fazer outra pergunta?||Claro! Vou te fazer uma pergunta sobre o assunto que estávamos falando.\n Aguarde um momento enquanto eu formulo a questão.\n||Qual é o tema principal discutido neste diálogo?\n\n1) Tecnologia\n2) Educação\n3) Saúde\n4) Meio Ambiente",
+    "Tokens": 417,
+    "TimeStamp": "2024_05_09_00_05_12",
+    "Model": "gpt-3.5-turbo"
+}

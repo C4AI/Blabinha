@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador17",
+    "secao": 110,
+    "falaUser": "Escreva um poema sobre a Inconfidência Mineira.",
+    "falaGPT": "||Claro, mas antes, poderia me dizer como gostaria de ser chamado? Isso ajudaria a tornar nossa conversa mais pessoal e agradável.\n Por favor, me informe como devo me referir a você.\n",
+    "Tokens": 276,
+    "TimeStamp": "2024_05_12_16_25_08",
+    "Model": "gpt-4-turbo"
+}

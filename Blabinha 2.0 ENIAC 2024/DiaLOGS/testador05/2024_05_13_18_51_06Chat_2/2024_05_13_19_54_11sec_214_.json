@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 214,
+    "falaUser": "Quanta sujeira tem na Amazônia Azul ?",
+    "falaGPT": "||Na Amazônia Azul, há diferentes tipos de sujeira, como plásticos, lixo orgânico e até mesmo resíduos químicos que acabam poluindo o ambiente marinho.\n Infelizmente, essa poluição pode prejudicar os animais marinhos e o ecossistema como um todo.\n Por isso, é importante cuidar e preservar a natureza, evitando jogar lixo no mar e adotando práticas sustentáveis no dia a dia.\n Juntos, podemos ajudar a manter a Amazônia Azul limpa e saudável para as futuras gerações.\n Vamos juntos cuidar do nosso mar!||Agora vou te perguntar: O que podemos fazer para ajudar a reduzir a sujeira na Amazônia Azul e preservar o meio ambiente marinho?||Qual tipo de sujeira pode ser encontrado na Amazônia Azul?\n\n1) Plásticos\n2) Lixo orgânico\n3) Resíduos químicos\n4) Vidro",
+    "Tokens": 852,
+    "TimeStamp": "2024_05_13_19_54_11",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador23",
+    "secao": 130,
+    "falaUser": "que tipo de super herói?",
+    "falaGPT": "||O desafio funciona assim: haverá no máximo sete turnos.\n Apenas as perguntas que eu reconhecer como relacionadas à Amazônia Azul contarão como turnos.\n Você pode pedir dicas sobre temas ligados à Amazônia Azul.\n Também pode solicitar o encerramento do jogo ou solicitar a criação do herói a qualquer momento.\n Essas três últimas opções não serão contadas como turnos.\n||Entendeu as regras e está pronto para começar o desafio sobre a Amazônia Azul?",
+    "Tokens": 512,
+    "TimeStamp": "2024_05_15_04_37_45",
+    "Model": "gpt-4-turbo"
+}

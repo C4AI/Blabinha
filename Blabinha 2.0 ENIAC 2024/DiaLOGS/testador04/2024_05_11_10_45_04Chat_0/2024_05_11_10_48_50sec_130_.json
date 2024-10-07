@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 130,
+    "falaUser": "Eu topo",
+    "falaGPT": "||Neste desafio, podemos conversar no máximo 7 turnos.\n Durante esse tempo, podemos explorar a Amazônia Azul, e você pode pedir dicas sobre possíveis assuntos relacionados a ela.\n A qualquer momento, você pode pedir para terminar o jogo, pedir para criar um herói ou pedir para acabar a interação - e esses últimos casos não contarão como turno.\n Vamos começar?||Você compreendeu as regras do desafio? Está pronto para explorar a Amazônia Azul e pedir dicas sobre assuntos relacionados a ela?\n",
+    "Tokens": 504,
+    "TimeStamp": "2024_05_11_10_48_50",
+    "Model": "gpt-3.5-turbo"
+}

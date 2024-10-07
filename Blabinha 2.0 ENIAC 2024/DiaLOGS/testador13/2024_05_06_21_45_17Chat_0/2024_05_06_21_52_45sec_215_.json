@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 215,
+    "falaUser": "3",
+    "falaGPT": "||Ops, essa não é a resposta correta.\n A resposta certa é a número 2: Usar apenas veículos poluentes não faz parte do turismo sustentável.\n Devemos buscar alternativas mais limpas para proteger o meio ambiente.\n",
+    "Tokens": 372,
+    "TimeStamp": "2024_05_06_21_52_45",
+    "Model": "gpt-4-turbo"
+}

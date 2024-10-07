@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 344,
+    "falaUser": "uma gaivota-robô pra vigiar o mar por cima!",
+    "falaGPT": "||O quarto atributo é a casa do herói! Como será a casa do nosso herói? Será grande e luxuosa, ou pequena e aconchegante? O que você imagina que terá dentro dela?",
+    "Tokens": 110,
+    "TimeStamp": "2024_05_07_17_44_29",
+    "Model": "gpt-3.5-turbo"
+}

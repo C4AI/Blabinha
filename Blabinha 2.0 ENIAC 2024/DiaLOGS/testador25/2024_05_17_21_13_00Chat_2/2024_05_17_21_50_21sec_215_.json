@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 215,
+    "falaUser": "Quais os climas na região da Amazônia Azul?",
+    "falaGPT": "||Pode fazer mais perguntas! Se precisar de dicas sobre um assunto, é só pedir, tá?",
+    "Tokens": 88,
+    "TimeStamp": "2024_05_17_21_50_21",
+    "Model": "gpt-4-turbo"
+}

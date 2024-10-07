@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 270,
+    "falaUser": "Sim, parar",
+    "falaGPT": "||Está bem, não tem problema! Se um dia quiser continuar ou conversar sobre qualquer outra coisa, é só abrir um novo chat.\n Tenha um ótimo dia! Adeus!",
+    "Tokens": 162,
+    "TimeStamp": "2024_05_17_19_10_16",
+    "Model": "gpt-3.5-turbo"
+}

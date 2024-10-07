@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 212,
+    "falaUser": "quero saber se tem aves na amazonia azul",
+    "falaGPT": "||Peço desculpa pela confusão.\n A Amazônia Azul se refere à região marítima brasileira e não à floresta amazônica.\n Por isso, não existem aves na Amazônia Azul, mas sim animais marinhos, como peixes, golfinhos, tartarugas, entre outros.\n Se tiver mais alguma dúvida, é só perguntar!||Ótimo! Vou fazer uma pergunta relacionada ao tema da Amazônia Azul.\n Acompanhe e fique atento para responder.\n||Quantas espécies de aves são encontradas na região marinha conhecida como Amazônia Azul?\n\n1) Nenhuma\n2) Poucas\n3) Muitas\n4) Incontáveis",
+    "Tokens": 667,
+    "TimeStamp": "2024_05_15_11_49_15",
+    "Model": "gpt-3.5-turbo"
+}

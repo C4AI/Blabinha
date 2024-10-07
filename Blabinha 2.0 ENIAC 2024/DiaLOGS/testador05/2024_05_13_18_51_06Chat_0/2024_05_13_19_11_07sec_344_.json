@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 344,
+    "falaUser": "Acho que uma tartaruga deve ser o companheiro",
+    "falaGPT": "||Ei! Você sabia que o quarto atributo é a casa do herói? Como você acha que será a casa do herói? Será colorida e alegre ou mais misteriosa e cheia de tesouros? Eu adoraria saber o que você imagina!",
+    "Tokens": 123,
+    "TimeStamp": "2024_05_13_19_11_07",
+    "Model": "gpt-3.5-turbo"
+}

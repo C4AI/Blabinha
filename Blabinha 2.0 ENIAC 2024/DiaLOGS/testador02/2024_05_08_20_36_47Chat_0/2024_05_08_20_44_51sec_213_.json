@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 213,
+    "falaUser": "o que aconteceria se, por exemplo, a amazônia azul desaparecesse?",
+    "falaGPT": "||Claro! Pode perguntar mais, mas não esqueça de falar sobre a Amazônia Azul.\n O que mais quer saber?",
+    "Tokens": 101,
+    "TimeStamp": "2024_05_08_20_44_51",
+    "Model": "gpt-3.5-turbo"
+}

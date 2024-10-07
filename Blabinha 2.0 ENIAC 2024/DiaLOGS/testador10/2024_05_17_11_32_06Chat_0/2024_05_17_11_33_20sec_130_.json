@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador10",
+    "secao": 130,
+    "falaUser": "Claro, gostaria de participar do desafio",
+    "falaGPT": "||Lembre-se que no máximo serão permitidos 7 turnos.\n Durante esses turnos, você pode fazer perguntas sobre a Amazônia Azul para fortalecer o super-herói.\n Além disso, você pode pedir dicas sobre possíveis assuntos da Amazônia Azul, pedir para terminar o jogo ou pedir para criar o super-herói em algum momento da interação, lembrando que essas ações não contarão como turnos.\n Vamos lá, comece fazendo suas perguntas sobre a Amazônia Azul para fortalecer o herói!||Você entendeu as regras do jogo? Lembre-se de que você pode fazer perguntas sobre a Amazônia Azul para fortalecer o super-herói.\n Está pronto para começar?",
+    "Tokens": 591,
+    "TimeStamp": "2024_05_17_11_33_20",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador20",
+    "secao": 217,
+    "falaUser": "Como o petróleo é explorado no mar?",
+    "falaGPT": "||Ah, claro! Explorar petróleo no mar é como buscar tesouros escondidos no fundo do oceano! Primeiro, os cientistas usam equipamentos muito especiais para descobrir onde o petróleo está escondido sob o mar.\n É como se eles usassem um mapa do tesouro, mas com tecnologia!\n\nDepois, quando encontram o lugar certo, montam grandes plataformas no mar.\n Essas plataformas são como ilhas gigantes feitas pelo homem, onde máquinas e trabalhadores vão para cavar bem fundo no fundo do mar.\n\n\nEles usam um grande tubo chamado \"sonda\" para perfurar o solo marinho até chegar aonde o petróleo está.\n Quando encontram o petróleo, ele é bombeado para cima, através dos tubos, e depois transportado para a terra em navios ou tubulações.\n Tudo isso com muito cuidado para proteger o nosso lindo oceano!",
+    "Tokens": 394,
+    "TimeStamp": "2024_05_14_19_20_27",
+    "Model": "gpt-4-turbo"
+}

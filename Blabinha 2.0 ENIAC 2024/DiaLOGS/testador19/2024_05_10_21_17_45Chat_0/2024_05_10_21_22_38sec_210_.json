@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador19",
+    "secao": 210,
+    "falaUser": "Qual o tipo de fauna?",
+    "falaGPT": "||Ah, a fauna da Amazônia Azul é incrível! É cheia de animaizinhos diferentes e super interessantes.\n Temos muitos peixinhos coloridos, tartarugas marinhas que são super fofinhas, e até golfinhos que adoram brincar nas ondas! Não podemos esquecer dos tubarões, que podem parecer um pouquinho assustadores, mas são muito importantes para o mar.\n E tem também as baleias que são gigantes e muito bonitas! É como se fosse um parque de diversões de animais marinhos! 🐠🐢🐬🦈🐋",
+    "Tokens": 315,
+    "TimeStamp": "2024_05_10_21_22_38",
+    "Model": "gpt-4-turbo"
+}

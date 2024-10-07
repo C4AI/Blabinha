@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador18",
+    "secao": 214,
+    "falaUser": "qual o maior animal da Amazonia Azul?",
+    "falaGPT": "||Olá! Na Amazônia Azul, o maior animal é a baleia-azul! Ela é realmente gigantesca, pode chegar a ter até 30 metros de comprimento, quase como três ônibus enfileirados, e pesar mais do que 20 elefantes juntos.\n Imagina só encontrar uma dessas nadando pelo mar! Ela é bem impressionante! 🐋✨||Agora, vou preparar uma questão para testar seu conhecimento sobre o maior animal da Amazônia Azul.\n Essa será uma ótima maneira de ver o que você aprendeu! Vamos lá?||Qual é o maior animal da Amazônia Azul?\n\n1) Tubarão-baleia\n2) Baleia-azul\n3) Orca\n4) Peixe-boi-marinho",
+    "Tokens": 675,
+    "TimeStamp": "2024_05_12_15_39_38",
+    "Model": "gpt-4-turbo"
+}

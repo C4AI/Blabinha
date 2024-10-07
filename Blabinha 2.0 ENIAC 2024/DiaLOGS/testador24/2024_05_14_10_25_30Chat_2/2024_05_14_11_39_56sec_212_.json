@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 212,
+    "falaUser": "Quais recursos naturais ela vai proteger?",
+    "falaGPT": "||Ah, entendi! Na Amazônia Azul, vamos proteger muitos tesouros naturais! Vamos cuidar dos peixinhos coloridos, das baleias que nadam pelo oceano, e também dos corais que parecem jardins submarinos.\n Não podemos esquecer dos golfinhos saltitantes e das tartarugas que passeiam pela areia.\n E tem mais! Vamos proteger o petróleo que está escondido debaixo do mar e os minerais superimportantes que são como pedrinhas mágicas do fundo do oceano.\n É muita coisa legal para cuidar e proteger, né?||Vou elaborar uma pergunta sobre a proteção dos recursos naturais na Amazônia Azul para testar nosso entendimento sobre quais tesouros estamos cuidando e por que é importante protegê-los.\n Está pronto para descobrir mais sobre essas riquezas submarinas?||Qual destes recursos é considerado um mineral importante encontrado na região da Amazônia Azul?\n\n1) Água doce\n2) Granito\n3) Sal-gema\n4) Manguezais",
+    "Tokens": 843,
+    "TimeStamp": "2024_05_14_11_39_56",
+    "Model": "gpt-4-turbo"
+}

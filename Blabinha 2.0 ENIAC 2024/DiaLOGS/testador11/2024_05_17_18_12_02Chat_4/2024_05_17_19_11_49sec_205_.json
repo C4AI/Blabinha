@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 205,
+    "falaUser": "Entendi, quantos golfinhos tem na Amazônia Azul?",
+    "falaGPT": "||Vou repetir para você, tá bom? Olha só: Para ganhar pontos no desafio, você precisa me fazer perguntas sobre a Amazônia Azul.\n Se ficar no assunto, vai ganhar mais pontos.\n Se não souber o que perguntar, pode pedir uma dica.\n E pode sair do desafio quando quiser, combinado?",
+    "Tokens": 230,
+    "TimeStamp": "2024_05_17_19_11_49",
+    "Model": "gpt-3.5-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 215,
+    "falaUser": "Letra A",
+    "falaGPT": "||Parabéns! A resposta (A) está correta.\n Praticar pesca sustentável é uma das formas de contribuir para a preservação dos oceanos da Amazônia Azul.\n Essa prática ajuda a manter a saúde dos ecossistemas marinhos e a garantir a sobrevivência das espécies.\n",
+    "Tokens": 478,
+    "TimeStamp": "2024_05_11_11_02_07",
+    "Model": "gpt-3.5-turbo"
+}

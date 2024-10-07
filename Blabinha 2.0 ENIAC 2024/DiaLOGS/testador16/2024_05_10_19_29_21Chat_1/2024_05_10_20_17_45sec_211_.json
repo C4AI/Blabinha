@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador16",
+    "secao": 211,
+    "falaUser": "A Amazônia Azul está suja?",
+    "falaGPT": "||Você pode perguntar mais, mas lembre-se de falar sobre a Amazônia Azul também!",
+    "Tokens": 93,
+    "TimeStamp": "2024_05_10_20_17_45",
+    "Model": "gpt-4-turbo"
+}

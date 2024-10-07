@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 210,
+    "falaUser": "Quais animais existem na amazônia azul?",
+    "falaGPT": "||Peço desculpas, parece que houve um mal-entendido.\n A Amazônia Azul refere-se à extensão da plataforma continental do Brasil no oceano Atlântico e não está diretamente associada à Amazônia propriamente dita, o que inclui a diversa fauna da região amazônica, mas sim à riqueza marinha que existe nas águas ao redor do Brasil.\n Na Amazônia Azul, é possível encontrar uma grande variedade de animais marinhos, como peixes, golfinhos, tartarugas, aves marinhas, tubarões, crustáceos, entre outros.\n É um ecossistema marinho rico e cheio de vida! Espero que essa explicação tenha esclarecido a sua dúvida.\n",
+    "Tokens": 355,
+    "TimeStamp": "2024_05_11_10_51_07",
+    "Model": "gpt-3.5-turbo"
+}

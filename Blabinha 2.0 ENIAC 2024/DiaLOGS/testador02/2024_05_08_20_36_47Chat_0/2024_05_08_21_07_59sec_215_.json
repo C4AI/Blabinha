@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 215,
+    "falaUser": "criar herói",
+    "falaGPT": "||Você pode me fazer mais perguntas se quiser! Se precisar de dicas, é só me pedir.\n Estou aqui para ajudar!",
+    "Tokens": 94,
+    "TimeStamp": "2024_05_08_21_07_59",
+    "Model": "gpt-3.5-turbo"
+}

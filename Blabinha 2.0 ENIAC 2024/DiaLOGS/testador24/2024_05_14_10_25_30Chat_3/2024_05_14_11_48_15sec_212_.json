@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 212,
+    "falaUser": "E quais recusos naturais nosso heroi vai proteger?",
+    "falaGPT": "||Ah, nosso herói vai proteger muitos tesouros naturais! Ele vai cuidar das águas azuis cheias de peixinhos coloridos, das florestas cheias de árvores gigantes e animais fofinhos, e até das montanhas com seus segredos escondidos em minas brilhantes! Ele vai estar sempre pronto para salvar qualquer pedacinho da natureza que precise de ajuda.\n Que aventura incrível, né?||Agora, vou criar uma pergunta para testar o seu entendimento sobre o conteúdo que discutimos.\n Isso ajudará a consolidar seu aprendizado sobre o que nosso herói está protegendo! Vamos lá?||Quais dos seguintes recursos naturais o herói se dedica a proteger?\n\n1) Reservas de petróleo\n2) Florestas e sua biodiversidade\n3) Minas de urânio\n4) Fábricas de plástico",
+    "Tokens": 743,
+    "TimeStamp": "2024_05_14_11_48_15",
+    "Model": "gpt-4-turbo"
+}

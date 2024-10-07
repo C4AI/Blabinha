@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador21",
+    "secao": 324,
+    "falaUser": "A roupa do super-herói tem que ser amarela",
+    "falaGPT": "||Que legal pensar nos detalhes do herói! O segundo atributo é a capa.\n Como você imagina que seja a capa do herói? Que cor ela tem? E tem algum desenho ou símbolo especial?",
+    "Tokens": 108,
+    "TimeStamp": "2024_05_14_20_02_10",
+    "Model": "gpt-4-turbo"
+}

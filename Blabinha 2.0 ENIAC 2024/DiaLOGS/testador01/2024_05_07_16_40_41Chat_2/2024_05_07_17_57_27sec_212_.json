@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 212,
+    "falaUser": "A FAB também participa da proteção da Amazônia Azul?",
+    "falaGPT": "||A FAB não atua na proteção da Amazônia Azul, que se refere à extensão da plataforma continental brasileira no oceano Atlântico.\n||O usuário pode falar sobre a importância da preservação da biodiversidade marinha na Amazônia Azul, as atividades de exploração sustentável de recursos naturais, a proteção dos ecossistemas marinhos, bem como os desafios e impactos ambientais enfrentados na região.\n Além disso, também pode abordar temas como a pesquisa científica marinha, a influência do clima e as estratégias de conservação marinha.\n Estes são exemplos de assuntos relevantes e variados que envolvem a Amazônia Azul, contribuindo para o entendimento e a valorização desse rico ecossistema.\n",
+    "Tokens": 414,
+    "TimeStamp": "2024_05_07_17_57_27",
+    "Model": "gpt-3.5-turbo"
+}

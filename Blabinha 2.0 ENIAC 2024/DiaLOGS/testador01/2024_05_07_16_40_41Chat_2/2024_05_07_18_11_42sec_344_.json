@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 344,
+    "falaUser": "Pode ser a Iara, do folclore brasileiro.",
+    "falaGPT": "||Legal! O quarto atributo é a casa do herói.\n Como será a casa do herói na sua história? Ela será grande ou pequena? Colorida ou discreta? Conte mais detalhes!",
+    "Tokens": 104,
+    "TimeStamp": "2024_05_07_18_11_42",
+    "Model": "gpt-3.5-turbo"
+}

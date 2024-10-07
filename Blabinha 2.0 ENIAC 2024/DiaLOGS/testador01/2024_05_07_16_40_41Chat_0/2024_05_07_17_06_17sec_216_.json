@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 216,
+    "falaUser": "Quais pesquisas científicas estão sendo feitas na Amazônia Azul?",
+    "falaGPT": "||Nas pesquisas científicas na Amazônia Azul, os cientistas estudam a biodiversidade marinha, os ecossistemas marinhos, o impacto das atividades humanas no ambiente marinho, a busca por novas espécies, a utilização sustentável dos recursos marinhos, entre outros temas.\n Eles trabalham para compreender melhor esse ambiente único e protegê-lo para as gerações futuras.\n É muito importante cuidarmos da Amazônia Azul, assim como cuidamos da floresta Amazônica, para garantir a preservação da vida marinha e a sustentabilidade dos recursos naturais.\n Que tal se um dia você também se tornar um cientista marinho e fazer pesquisas incríveis na Amazônia Azul?||Claro! Vou te fazer uma pergunta sobre as pesquisas científicas na Amazônia Azul.\n Qual a importância dessas pesquisas para a preservação do meio ambiente marinho e para a sustentabilidade dos recursos naturais na região?||Qual é um dos temas de pesquisa científica na Amazônia Azul?\n\n1) Biodiversidade marinha\n2) Impacto das atividades humanas no ambiente terrestre\n3) Clima da região amazônica\n4) Agricultura na região costeira\n\nQual é a alternativa correta?",
+    "Tokens": 994,
+    "TimeStamp": "2024_05_07_17_06_17",
+    "Model": "gpt-3.5-turbo"
+}

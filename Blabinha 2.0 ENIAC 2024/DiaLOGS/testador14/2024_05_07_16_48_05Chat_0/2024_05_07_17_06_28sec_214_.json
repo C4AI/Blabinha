@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador14",
+    "secao": 214,
+    "falaUser": "Qual o maior peixe que vive na amazonia azul?",
+    "falaGPT": "||Ah, na Amazônia Azul, que é toda aquela parte grande e azul do oceano perto do Brasil, o maior peixe que vive por lá é o tubarão-baleia! Ele é enorme, pode ter até 12 metros de comprimento, quase como um ônibus grande.\n O tubarão-baleia também é super legal porque, mesmo sendo tão grande, ele come principalmente plâncton, que são como mini comidinhas que flutuam na água.\n Ele nada com a boca aberta e engole a água cheia de plâncton.\n Incrível, né? 🐋🌊||Vou criar uma pergunta sobre o tubarão-baleia, o maior peixe da Amazônia Azul, para testar seu entendimento sobre este impressionante animal marinho e suas características.\n||Qual é o maior peixe encontrado na Amazônia Azul?\n\n1) Tubarão-martelo\n2) Tubarão-branco\n3) Tubarão-baleia\n4) Baleia-azul",
+    "Tokens": 837,
+    "TimeStamp": "2024_05_07_17_06_28",
+    "Model": "gpt-4-turbo"
+}

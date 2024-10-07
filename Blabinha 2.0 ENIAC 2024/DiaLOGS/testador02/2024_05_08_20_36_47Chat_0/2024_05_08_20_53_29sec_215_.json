@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 215,
+    "falaUser": "criar herói",
+    "falaGPT": "||Desculpe, mas a criação de um herói não está relacionada com o tema da Amazônia azul.\n Posso te ajudar com informações sobre a Amazônia azul, se desejar.\n||O usuário pode abordar diversos assuntos relacionados à Amazônia Azul, como a biodiversidade marinha, os impactos ambientais, a exploração sustentável dos recursos marinhos, a importância da preservação dos ecossistemas marinhos, a pesquisa científica e tecnológica, as atividades econômicas desenvolvidas na região, as mudanças climáticas e seu impacto nos oceanos, entre outros temas.\n É importante explorar como a Amazônia Azul é fundamental para a vida no planeta e a importância da sua conservação.\n",
+    "Tokens": 394,
+    "TimeStamp": "2024_05_08_20_53_29",
+    "Model": "gpt-3.5-turbo"
+}

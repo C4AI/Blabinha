@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador02",
+    "secao": 210,
+    "falaUser": "eu acho que a poluição não seja um problema para amazônia azul, o que você me diz sobre isso?",
+    "falaGPT": "||Você tem mais perguntas ou podemos encerrar a conversa? Posso te ajudar com mais informações se precisar!",
+    "Tokens": 81,
+    "TimeStamp": "2024_05_08_20_58_14",
+    "Model": "gpt-3.5-turbo"
+}

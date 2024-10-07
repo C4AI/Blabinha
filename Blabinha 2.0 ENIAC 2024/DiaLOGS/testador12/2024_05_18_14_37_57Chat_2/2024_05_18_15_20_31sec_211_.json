@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador12",
+    "secao": 211,
+    "falaUser": "Quais são as tecnologias utilizadas na exploração da região?",
+    "falaGPT": "||Na exploração da região da Amazônia Azul, são utilizadas tecnologias como satélites, drones, embarcações equipadas com sonares e instrumentos de medição, além de equipamentos de mergulho para investigar o solo e a fauna marinha.\n Essas tecnologias possibilitam a realização de pesquisas, monitoramento da região, identificação de recursos naturais e preservação do meio ambiente marinho.\n",
+    "Tokens": 278,
+    "TimeStamp": "2024_05_18_15_20_31",
+    "Model": "gpt-3.5-turbo"
+}

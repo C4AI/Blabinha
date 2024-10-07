@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 210,
+    "falaUser": "Tudo bem. A Amazônia Azul ocupa só o entorno da floresta Amazônica?",
+    "falaGPT": "||A Amazônia Azul refere-se à extensão marítima do Brasil, não tem relação direta com a Floresta Amazônica, mas sim com a costa e recursos marinhos.\n||O usuário pode falar sobre a importância da preservação da biodiversidade marinha na Amazônia Azul, os impactos da pesca predatória e da poluição nessa região, as tecnologias utilizadas para explorar de forma sustentável os recursos presentes no mar brasileiro, e as iniciativas de conservação e monitoramento ambiental que visam proteger o ecossistema da Amazônia Azul.\n São diversos assuntos relevantes que abrangem a relação entre o ser humano e o ambiente marinho, destacando a importância de cuidarmos dessa rica e diversificada região.\n",
+    "Tokens": 417,
+    "TimeStamp": "2024_05_07_16_47_54",
+    "Model": "gpt-3.5-turbo"
+}

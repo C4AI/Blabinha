@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador01",
+    "secao": 216,
+    "falaUser": "Existem insetos na Amazônia Azul?",
+    "falaGPT": "||Na Amazônia Azul, que engloba as águas oceânicas próximas ao Brasil, existem muitos insetos aquáticos que vivem na água do mar ou em áreas costeiras, como manguezais.\n Alguns exemplos de insetos que podem ser encontrados nessa região são o mosquito-marinho, que se reproduz na água salgada, e o besouro aquático, que vive em ambientes aquáticos próximos à costa.\n Esses insetos desempenham papéis importantes nos ecossistemas marinhos, sendo parte da diversidade de vida na Amazônia Azul.\n||Ótimo! Vou fazer uma pergunta relacionada ao tema dos insetos na Amazônia Azul.\n Aguarde um momento enquanto preparo a questão.\n||Os insetos aquáticos na Amazônia Azul são essenciais para o ecossistema marinho.\n Mas você sabe qual é um exemplo de inseto aquático que pode ser encontrado nessa região?\n\n1) Mosquito-marinho\n2) Formiga-mergulhadora\n3) Abelha-surfista\n4) Gafanhoto-marítimo",
+    "Tokens": 854,
+    "TimeStamp": "2024_05_07_18_04_45",
+    "Model": "gpt-3.5-turbo"
+}

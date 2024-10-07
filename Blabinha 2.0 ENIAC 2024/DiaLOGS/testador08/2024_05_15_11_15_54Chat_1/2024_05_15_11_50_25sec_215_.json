@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador08",
+    "secao": 215,
+    "falaUser": "4",
+    "falaGPT": "||A resposta está incorreta.\n Na Amazônia Azul, os animais marinhos que podem ser encontrados incluem peixes coloridos, tubarões, golfinhos, tartarugas marinhas, baleias, polvos, moluscos, corais, arraias, entre outros.\n Os animais terrestres, como elefantes, macacos e girafas, não habitam esse ecossistema marinho.\n",
+    "Tokens": 392,
+    "TimeStamp": "2024_05_15_11_50_25",
+    "Model": "gpt-3.5-turbo"
+}

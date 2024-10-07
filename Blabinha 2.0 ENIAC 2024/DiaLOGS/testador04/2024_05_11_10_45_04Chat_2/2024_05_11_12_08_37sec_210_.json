@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 210,
+    "falaUser": "Quais animais vivem na amazônia azul?",
+    "falaGPT": "||Você pode fazer mais perguntas! Não esqueça de conversarmos também sobre a Amazônia Azul, é muito importante.\n",
+    "Tokens": 97,
+    "TimeStamp": "2024_05_11_12_08_37",
+    "Model": "gpt-3.5-turbo"
+}

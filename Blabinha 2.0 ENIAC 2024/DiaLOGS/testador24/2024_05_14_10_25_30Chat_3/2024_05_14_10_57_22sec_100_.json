@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador24",
+    "secao": 100,
+    "falaUser": "Oi",
+    "falaGPT": "||Olá! Sou a Blabinha, um robô aqui para conversar com você sobre a Amazônia Azul! Você sabia que a Amazônia Azul é uma área muito grande no oceano ao redor do Brasil? É como uma floresta, mas debaixo d'água, cheia de peixes, corais e outras criaturas incríveis do mar.\n É muito importante cuidarmos dela.\n Como posso te chamar?",
+    "Tokens": 220,
+    "TimeStamp": "2024_05_14_10_57_22",
+    "Model": "gpt-4-turbo"
+}

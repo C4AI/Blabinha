@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 344,
+    "falaUser": "Um pássaro cinza",
+    "falaGPT": "||Interessante! O quarto atributo é a casa do herói.\n Como você imagina que será a casa do herói? Será uma casa simples ou luxuosa? Qual cor você acha que ele ou ela gostaria de pintar as paredes?",
+    "Tokens": 116,
+    "TimeStamp": "2024_05_17_18_43_08",
+    "Model": "gpt-3.5-turbo"
+}

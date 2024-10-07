@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador05",
+    "secao": 215,
+    "falaUser": "qual é o maior coral da Amazônia Azul ?",
+    "falaGPT": "||Na Amazônia Azul, o maior coral é conhecido como o recife de corais da Amazônia.\n Ele é o maior recife de corais da região e foi descoberto recentemente, em 2016.\n Esse recife de corais é gigante, tem cerca de 9,5 mil quilômetros quadrados e fica ao norte do Brasil, perto da foz do Rio Amazonas.\n Esse é um lugar incrível, cheio de vida marinha e cores vibrantes! É muito importante proteger esses corais para que continuem a crescer e a abrigar uma diversidade incrível de animais marinhos.\n Vamos cuidar da nossa Amazônia Azul!",
+    "Tokens": 334,
+    "TimeStamp": "2024_05_13_19_04_07",
+    "Model": "gpt-3.5-turbo"
+}

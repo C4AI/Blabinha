@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador25",
+    "secao": 213,
+    "falaUser": "Qual o último acidente ambiente ocorrido na Amazônia Azul?",
+    "falaGPT": "||Você gostaria de fazer mais perguntas ou prefere terminar? Só me avisar, tá bom?",
+    "Tokens": 79,
+    "TimeStamp": "2024_05_17_21_36_08",
+    "Model": "gpt-4-turbo"
+}

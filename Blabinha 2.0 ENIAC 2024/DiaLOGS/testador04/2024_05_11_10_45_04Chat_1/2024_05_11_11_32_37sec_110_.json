@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 110,
+    "falaUser": "Oi, Blabinha, eu me chamo Testador04",
+    "falaGPT": "||Olá, Testador04! Que legal conhecer você! Já ouviu falar sobre a Amazônia Azul? É uma área marítima de grande importância para o Brasil.\n Quer saber mais sobre isso?",
+    "Tokens": 176,
+    "TimeStamp": "2024_05_11_11_32_37",
+    "Model": "gpt-3.5-turbo"
+}

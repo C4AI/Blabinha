@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador04",
+    "secao": 213,
+    "falaUser": "A poluição do ar impacta na amazonia azul?",
+    "falaGPT": "||Você quer saber mais alguma coisa? Estou aqui para te ajudar com o que precisar!",
+    "Tokens": 70,
+    "TimeStamp": "2024_05_11_13_30_49",
+    "Model": "gpt-3.5-turbo"
+}

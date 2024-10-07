@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador07",
+    "secao": 210,
+    "falaUser": "O que a Amazônia Azul protege?",
+    "falaGPT": "||Você tem mais alguma pergunta ou posso ajudar em mais alguma coisa? Ou podemos encerrar por aqui se você preferir.\n",
+    "Tokens": 85,
+    "TimeStamp": "2024_05_15_10_50_50",
+    "Model": "gpt-3.5-turbo"
+}

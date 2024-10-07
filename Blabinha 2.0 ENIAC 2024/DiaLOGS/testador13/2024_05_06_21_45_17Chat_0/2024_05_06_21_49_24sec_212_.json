@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador13",
+    "secao": 212,
+    "falaUser": "Qual o maior animal que tem na amazonia azul?",
+    "falaGPT": "||Ah, na Amazônia Azul, os maiores animais que você pode encontrar são as baleias! A baleia-jubarte é uma das gigantes que vive por lá.\n Elas podem chegar a medir até 16 metros de comprimento e pesar até 40 toneladas.\n Imagina só, é quase como um ônibus nadando no mar! E elas adoram fazer saltos incríveis e cantar, é como se elas estivessem dando um show só para quem está por perto.\n Incrível, né? 🐋✨||Agora vamos testar seu conhecimento! Estou preparando uma pergunta para você sobre o maior animal da Amazônia Azul.\n Prepare-se para responder e mostrar tudo o que você sabe sobre este fascinante gigante marinho! Fique atento e boa sorte na resposta!||Qual destes animais é considerado o maior que habita a Amazônia Azul?\n\n1) Golfinho Tucuxi\n2) Tubarão-branco\n3) Baleia-jubarte\n4) Peixe-boi marinho",
+    "Tokens": 808,
+    "TimeStamp": "2024_05_06_21_49_24",
+    "Model": "gpt-4-turbo"
+}

@@ -1,0 +1,9 @@
+{
+    "Nome": "Testador11",
+    "secao": 214,
+    "falaUser": "Quero falar sobre o tema 4",
+    "falaGPT": "||Claro! Na Amazônia Azul, também conhecida como Mar Brasileiro, há uma grande diversidade de animais marinhos, como peixes, golfinhos, tartarugas e muitos outros.\n Além disso, a região é importante para a preservação da vida marinha e para a pesquisa científica.\n É essencial proteger a Amazônia Azul e garantir sua sustentabilidade para as gerações futuras.\n Espero que tenha conseguido ajudar com essa informação! Se tiver mais perguntas, é só falar!||Claro! Vou agora fazer uma pergunta sobre a Amazônia Azul: Qual é a importância da preservação da vida marinha nessa região e como podemos contribuir para garantir a sustentabilidade da Amazônia Azul?||Qual dos seguintes animais marinhos não pode ser encontrado na Amazônia Azul?\n\n1) Golfinho\n2) Baleia\n3) Leão-marinho\n4) Tubarão",
+    "Tokens": 782,
+    "TimeStamp": "2024_05_17_18_23_59",
+    "Model": "gpt-3.5-turbo"
+}
